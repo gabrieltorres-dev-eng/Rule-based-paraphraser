@@ -1,0 +1,57 @@
+{
+  "blog": {
+    "fragment_rate": 0.2047,
+    "heuristic_precision": 0.72,
+    "heuristic_miss_rate": 0.04,
+    "labeled": 150,
+    "sample_rate_by_position": {
+      "first": 0.3333,
+      "middle": 0.3778,
+      "last": 0.4444
+    }
+  },
+  "essay": {
+    "fragment_rate": 0.0337,
+    "heuristic_precision": 0.08,
+    "heuristic_miss_rate": 0.027,
+    "labeled": 150,
+    "sample_rate_by_position": {
+      "first": 0.0577,
+      "middle": 0.0263,
+      "last": 0.1364
+    }
+  },
+  "forum": {
+    "fragment_rate": 0.1138,
+    "heuristic_precision": 0.547,
+    "heuristic_miss_rate": 0.053,
+    "labeled": 150,
+    "sample_rate_by_position": {
+      "first": 0.3256,
+      "middle": 0.2778,
+      "last": 0.3143
+    }
+  },
+  "technical": {
+    "fragment_rate": 0.2041,
+    "heuristic_precision": 0.48,
+    "heuristic_miss_rate": 0.04,
+    "labeled": 150,
+    "sample_rate_by_position": {
+      "first": 0.3265,
+      "middle": 0.16,
+      "last": 0.1111
+    }
+  },
+  "academic": {
+    "fragment_rate": 0.0201,
+    "heuristic_precision": 0.493,
+    "heuristic_miss_rate": 0.0,
+    "labeled": 150,
+    "sample_rate_by_position": {
+      "first": 0.1304,
+      "middle": 0.2963,
+      "last": 0.1053
+    }
+  }
+}

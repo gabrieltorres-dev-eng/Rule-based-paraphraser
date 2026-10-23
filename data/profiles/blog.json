@@ -1,0 +1,96 @@
+{
+ "placeholder": false,
+ "sent_len": {
+  "mean": 10.725,
+  "var": 85.426,
+  "bin_width": 5,
+  "hist": [
+   0.2559,
+   0.3103,
+   0.1858,
+   0.108,
+   0.0617,
+   0.0357,
+   0.0195,
+   0.0098,
+   0.0051,
+   0.0083
+  ]
+ },
+ "para": {
+  "sents_mean": 25.317,
+  "sents_var": 574.119,
+  "words_mean": 271.536,
+  "words_var": 47295.596,
+  "words_hist": [
+   0.0,
+   0.0,
+   0.0,
+   0.1429,
+   0.1973,
+   0.1619,
+   0.185,
+   0.3129
+  ]
+ },
+ "rates": {
+  "passive": 0.0452,
+  "adverbial_front": 0.0113,
+  "early_thesis": 0.1765,
+  "contraction": 0.8263,
+  "fragment": 0.2047,
+  "emdash_per_1k": 0.326,
+  "paren_per_1k": 2.886,
+  "semicolon_per_1k": 0.902,
+  "hedge_front": 0.0334,
+  "concession_front": 0.0027,
+  "fragment_heuristic": 0.2333
+ },
+ "position": {
+  "passive": {
+   "first": 0.0463,
+   "middle": 0.0456,
+   "last": 0.0368
+  },
+  "adverbial_front": {
+   "first": 0.0095,
+   "middle": 0.0114,
+   "last": 0.0109
+  },
+  "fragment": {
+   "first": 0.0,
+   "middle": 0.155,
+   "last": 0.0
+  }
+ },
+ "bands": {
+  "ttr": [
+   0.4203,
+   0.6883
+  ],
+  "stopword_ratio": [
+   0.472,
+   0.6637
+  ],
+  "punct_entropy": [
+   1.3199,
+   2.6896
+  ],
+  "sent_len_var": [
+   19.6298,
+   231.1059
+  ],
+  "perplexity": [
+   396.17,
+   1180.67
+  ]
+ },
+ "meta": {
+  "words": 199579,
+  "docs": 568,
+  "sentences": 18608,
+  "paragraphs": 735,
+  "fragment_labeled": 150
+ },
+ "register": "blog"
+}

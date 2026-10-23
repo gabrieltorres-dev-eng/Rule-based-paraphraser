@@ -1,0 +1,44 @@
+# !! WRITTEN BY AN AI ASSISTANT AS A STARTING POINT. Review every line yourself and edit/replace
+# !! so the mappings are human-authored. build_idioms.py also drops any equivalent never seen in the human corpora.
+# phrase<TAB>candidate equivalents separated by |   (equivalents kept only if attested in human corpora)
+delve into	look at|dig into|explore|get into|look into
+delves into	looks at|digs into|explores|gets into
+it is important to note that	note that|keep in mind that|remember that
+it's important to note that	note that|keep in mind that
+it is worth noting that	note that|also|notably
+it's worth noting that	also|note that
+in today's fast-paced world	these days|today|now
+in today's digital age	these days|today|now
+plays a crucial role in	matters for|is key to|helps
+plays a pivotal role in	matters for|is central to|drives
+a testament to	proof of|a sign of|shows
+navigate the complexities of	deal with|handle|work through
+in the realm of	in|when it comes to
+the landscape of	the world of|the field of
+a myriad of	many|lots of|a lot of
+a plethora of	many|lots of|plenty of
+leverage	use|draw on|make use of
+utilize	use
+facilitate	help|make easier|allow
+foster	encourage|build|grow
+embark on	start|begin|take on
+seamlessly	smoothly|easily
+furthermore	also|plus|on top of that
+moreover	also|besides|what's more
+additionally	also|plus
+in conclusion	so|all in all|in the end|overall
+to summarize	in short|so|basically
+ultimately	in the end|eventually|at the end of the day
+it is essential to	you need to|we need to|it helps to
+it's essential to	you need to|it helps to
+a wide range of	many|all sorts of|lots of
+robust	solid|strong|sturdy
+comprehensive	full|complete|thorough
+crucial	key|important|vital
+pivotal	key|central|major
+intricate	complex|detailed|complicated
+tapestry	mix|web|blend
+underscore	show|highlight|stress
+underscores	shows|highlights|stresses
+showcase	show|show off|display
+showcases	shows|shows off|displays

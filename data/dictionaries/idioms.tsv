@@ -1,0 +1,690 @@
+phrase	equivalent	registers	source	score	freqs
+a car	an automobile	essay	mined	4.98	{"blog": 0.0, "essay": 100.166, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+a claim	an assertion	technical	mined	4.98	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 14.251, "academic": 0.0}
+a good	an effective	blog,essay,forum,academic	mined	5.98	{"blog": 4.948, "essay": 10.017, "forum": 10.021, "technical": 0.0, "academic": 122.017}
+a great	an excellent	blog,forum,technical,academic	mined	4.99	{"blog": 44.529, "essay": 0.0, "forum": 20.042, "technical": 66.505, "academic": 19.523}
+a lot	lots	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 212.75, "essay": 50.083, "forum": 195.413, "technical": 38.003, "academic": 9.761}
+a picture	an image	technical,academic	mined	4.79	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 9.501, "academic": 4.881}
+a plane	an airplane	essay	mined	4.98	{"blog": 0.0, "essay": 5.008, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+a vintage	an old	blog,essay,forum,technical,academic	mined	4.97	{"blog": 29.686, "essay": 10.017, "forum": 45.095, "technical": 9.501, "academic": 24.403}
+abide by	comply	essay,technical,academic	wordnet	3.00	{"blog": 0.0, "essay": 5.008, "forum": 0.0, "technical": 4.75, "academic": 9.761}
+abstract thought	reasoning	blog,essay,forum,academic	wordnet	3.00	{"blog": 4.948, "essay": 25.042, "forum": 25.053, "technical": 0.0, "academic": 14.642}
+across the country	nationwide	essay	wordnet	3.00	{"blog": 0.0, "essay": 15.025, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+across the nation	nationwide	essay	wordnet	3.00	{"blog": 0.0, "essay": 15.025, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+actually	in fact	blog,essay,forum,technical,academic	mined	5.00	{"blog": 94.006, "essay": 85.141, "forum": 140.297, "technical": 90.257, "academic": 43.926}
+adult female	woman	blog,essay,forum	wordnet	3.00	{"blog": 168.221, "essay": 50.083, "forum": 180.382, "technical": 0.0, "academic": 0.0}
+afraid	so scared	blog,essay	mined	4.94	{"blog": 34.634, "essay": 5.008, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+against the law	illegal	blog,essay,forum,technical	mined	4.99	{"blog": 4.948, "essay": 746.239, "forum": 30.064, "technical": 19.001, "academic": 0.0}
+air power	aviation	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+alcohol addiction	alcoholism	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+alcoholic beverage	alcohol	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 34.634, "essay": 100.166, "forum": 40.085, "technical": 99.757, "academic": 9.761}
+alcoholic drink	alcohol	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 34.634, "essay": 100.166, "forum": 40.085, "technical": 99.757, "academic": 9.761}
+all the same	however	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 331.494, "essay": 721.197, "forum": 531.123, "technical": 674.549, "academic": 639.371}
+allergic reaction	allergy	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+along side	near	blog,essay,forum,technical,academic	mined	4.98	{"blog": 98.954, "essay": 80.133, "forum": 110.233, "technical": 19.001, "academic": 590.564}
+along with	as well as	blog,essay,forum,technical,academic	mined	4.99	{"blog": 44.529, "essay": 285.474, "forum": 115.244, "technical": 218.516, "academic": 449.024}
+although	even though	blog,essay,forum,technical,academic	mined	4.99	{"blog": 138.535, "essay": 245.407, "forum": 140.297, "technical": 66.505, "academic": 19.523}
+amount of money	sum	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 29.686, "essay": 40.067, "forum": 30.064, "technical": 332.524, "academic": 156.182}
+amount of time	longer	blog,essay,forum,technical,academic	mined	4.97	{"blog": 163.273, "essay": 115.191, "forum": 175.371, "technical": 118.759, "academic": 68.33}
+an airplane	a plane	blog,essay,forum,technical,academic	mined	4.97	{"blog": 4.948, "essay": 5.008, "forum": 5.011, "technical": 9.501, "academic": 9.761}
+an appropriate	a suitable	essay,forum,technical,academic	mined	4.97	{"blog": 0.0, "essay": 10.017, "forum": 5.011, "technical": 19.001, "academic": 34.165}
+an assortment	a variety	blog,essay,forum,technical,academic	mined	5.79	{"blog": 9.895, "essay": 10.017, "forum": 20.042, "technical": 42.753, "academic": 68.33}
+an effective	a good	blog,essay,forum,technical,academic	mined	5.78	{"blog": 559.088, "essay": 285.474, "forum": 481.017, "technical": 247.018, "academic": 58.568}
+an error	a mistake	blog,essay,forum,technical	mined	4.98	{"blog": 4.948, "essay": 10.017, "forum": 30.064, "technical": 14.251, "academic": 0.0}
+an excellent	a great	blog,essay,forum,technical,academic	mined	4.98	{"blog": 272.122, "essay": 125.208, "forum": 180.382, "technical": 4.75, "academic": 19.523}
+an ideal	a perfect	blog,essay,forum,technical,academic	mined	4.99	{"blog": 14.843, "essay": 10.017, "forum": 5.011, "technical": 42.753, "academic": 29.284}
+an image	a picture	blog,essay,forum,technical	mined	4.99	{"blog": 39.581, "essay": 40.067, "forum": 45.095, "technical": 19.001, "academic": 0.0}
+an individual's	a person's	blog,essay,forum	mined	4.97	{"blog": 4.948, "essay": 80.133, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+an initial	a first	blog,essay,forum,academic	mined	4.99	{"blog": 4.948, "essay": 25.042, "forum": 45.095, "technical": 0.0, "academic": 73.21}
+an old	a vintage	forum	mined	4.99	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+and so	then	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 3201.148, "essay": 976.621, "forum": 2370.013, "technical": 1957.142, "academic": 693.058}
+annually	each year	blog,essay,forum	mined	4.97	{"blog": 14.843, "essay": 510.848, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+annually	per year	blog,essay,forum	mined	4.98	{"blog": 4.948, "essay": 85.141, "forum": 20.042, "technical": 0.0, "academic": 0.0}
+another	some other	blog,essay,forum,technical,academic	mined	4.95	{"blog": 34.634, "essay": 15.025, "forum": 35.074, "technical": 80.756, "academic": 19.523}
+any longer	anymore	blog,essay,forum,technical	wordnet	3.00	{"blog": 376.024, "essay": 45.075, "forum": 115.244, "technical": 14.251, "academic": 0.0}
+applied scientist	engineer	blog,essay,forum,academic	wordnet	3.00	{"blog": 19.791, "essay": 5.008, "forum": 50.106, "technical": 0.0, "academic": 4.881}
+approach to	method for	essay,technical,academic	mined	5.99	{"blog": 0.0, "essay": 5.008, "forum": 0.0, "technical": 61.754, "academic": 87.852}
+armed forces	military	blog,essay,forum	wordnet	3.00	{"blog": 4.948, "essay": 5.008, "forum": 110.233, "technical": 0.0, "academic": 0.0}
+armed services	military	blog,essay,forum	wordnet	3.00	{"blog": 4.948, "essay": 5.008, "forum": 110.233, "technical": 0.0, "academic": 0.0}
+armored combat vehicle	tank	blog,forum	wordnet	3.00	{"blog": 29.686, "essay": 0.0, "forum": 80.17, "technical": 0.0, "academic": 0.0}
+armoured combat vehicle	tank	blog,forum	wordnet	3.00	{"blog": 29.686, "essay": 0.0, "forum": 80.17, "technical": 0.0, "academic": 0.0}
+arrive at	reach	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 69.267, "essay": 170.283, "forum": 110.233, "technical": 42.753, "academic": 73.21}
+as she sits	while sitting	blog,essay	mined	4.79	{"blog": 4.948, "essay": 10.017, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+as well	also	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 984.588, "essay": 2634.373, "forum": 1503.179, "technical": 2413.176, "academic": 2372.016}
+as well	too	blog,essay,forum,technical,academic	mined	4.98	{"blog": 2280.88, "essay": 631.048, "forum": 972.056, "technical": 261.269, "academic": 87.852}
+ask for	invite	blog,essay	wordnet	3.00	{"blog": 39.581, "essay": 5.008, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+association football	soccer	blog,essay,forum	wordnet	3.00	{"blog": 14.843, "essay": 10.017, "forum": 45.095, "technical": 0.0, "academic": 0.0}
+at a lower place	below	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 39.581, "essay": 10.017, "forum": 60.127, "technical": 342.025, "academic": 214.75}
+at once	immediately	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 19.791, "essay": 65.108, "forum": 155.329, "technical": 95.007, "academic": 14.642}
+at present	currently	blog,essay,forum,technical,academic	mined	4.99	{"blog": 39.581, "essay": 60.1, "forum": 115.244, "technical": 133.01, "academic": 112.256}
+at random	randomly	blog,forum,technical,academic	wordnet	3.00	{"blog": 14.843, "essay": 0.0, "forum": 45.095, "technical": 14.251, "academic": 53.688}
+at risk	in danger	blog,essay,forum	mined	4.99	{"blog": 4.948, "essay": 600.998, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+at that place	there	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 3023.031, "essay": 3671.094, "forum": 3016.38, "technical": 1667.371, "academic": 722.342}
+at the moment	right now	blog,essay,forum,technical	mined	5.00	{"blog": 999.431, "essay": 30.05, "forum": 120.254, "technical": 66.505, "academic": 0.0}
+at the same time	simultaneously	essay,forum,technical,academic	mined	4.99	{"blog": 0.0, "essay": 15.025, "forum": 15.032, "technical": 38.003, "academic": 117.137}
+atmospheric condition	weather	blog,essay,forum	wordnet	3.00	{"blog": 34.634, "essay": 105.175, "forum": 45.095, "technical": 0.0, "academic": 0.0}
+back up	support	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 49.477, "essay": 225.374, "forum": 250.53, "technical": 783.807, "academic": 151.301}
+ballistic capsule	spacecraft	academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 9.761}
+basketball game	hoops	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+bathing tub	bathtub	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+be after	plan	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 113.797, "essay": 30.05, "forum": 110.233, "technical": 95.007, "academic": 4.881}
+beat generation	beats	blog,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 0.0, "forum": 15.032, "technical": 9.501, "academic": 4.881}
+because of	due to	blog,essay,forum,technical,academic	mined	5.00	{"blog": 44.529, "essay": 1141.896, "forum": 210.445, "technical": 99.757, "academic": 776.03}
+become	turn into	essay,forum	mined	4.99	{"blog": 0.0, "essay": 35.058, "forum": 20.042, "technical": 0.0, "academic": 0.0}
+before long	soon	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 267.175, "essay": 85.141, "forum": 175.371, "technical": 57.004, "academic": 9.761}
+behind the wheel	while driving a vehicle	essay	mined	4.98	{"blog": 0.0, "essay": 115.191, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+being flown	flying	blog,essay,forum,technical	mined	4.99	{"blog": 14.843, "essay": 5.008, "forum": 45.095, "technical": 4.75, "academic": 0.0}
+bill of exchange	draft	blog,forum,technical	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 25.053, "technical": 4.75, "academic": 0.0}
+biological science	biology	forum,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 35.074, "technical": 0.0, "academic": 4.881}
+birth rate	fertility	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+boundary line	border	blog,forum,technical,academic	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 5.011, "technical": 23.752, "academic": 9.761}
+brake system	brakes	blog,essay,forum	wordnet	3.00	{"blog": 4.948, "essay": 35.058, "forum": 20.042, "technical": 0.0, "academic": 0.0}
+bring down	lower	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 14.843, "essay": 120.2, "forum": 185.392, "technical": 223.266, "academic": 497.831}
+broadcast medium	broadcasting	forum,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 9.761}
+burial ground	cemetery	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+burial site	cemetery	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+burial site	graveyard	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+business district	downtown	blog,forum	wordnet	3.00	{"blog": 128.64, "essay": 0.0, "forum": 20.042, "technical": 0.0, "academic": 0.0}
+by and large	generally	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 54.424, "essay": 35.058, "forum": 225.477, "technical": 109.258, "academic": 122.017}
+call for	request	blog,forum,technical	wordnet	3.00	{"blog": 19.791, "essay": 0.0, "forum": 50.106, "technical": 631.796, "academic": 0.0}
+came back	returned	blog,essay,forum,technical,academic	mined	4.98	{"blog": 4.948, "essay": 5.008, "forum": 35.074, "technical": 270.77, "academic": 4.881}
+camp out	tent	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+can easily	could simply	technical	mined	4.99	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 4.75, "academic": 0.0}
+capital punishment	execution	forum,technical,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 104.508, "academic": 19.523}
+capitalist economy	capitalism	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+card game	cards	blog,forum,technical	wordnet	3.00	{"blog": 49.477, "essay": 0.0, "forum": 55.117, "technical": 28.502, "academic": 0.0}
+carry on	conduct	blog,essay,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 30.05, "forum": 0.0, "technical": 9.501, "academic": 14.642}
+cash in hand	funds	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 45.095, "technical": 0.0, "academic": 0.0}
+cellular phone	cellphone	blog,essay,forum	wordnet	3.00	{"blog": 9.895, "essay": 916.521, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+cellular telephone	cellphone	blog,essay,forum	wordnet	3.00	{"blog": 9.895, "essay": 916.521, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+central office	headquarters	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+cerebral mantle	cortex	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 20.042, "technical": 0.0, "academic": 0.0}
+ceremonial occasion	ceremony	blog	wordnet	3.00	{"blog": 19.791, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+change by reversal	reverse	blog,forum,technical,academic	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 20.042, "technical": 109.258, "academic": 39.046}
+change over	shift	blog,forum,technical,academic	wordnet	3.00	{"blog": 34.634, "essay": 0.0, "forum": 50.106, "technical": 9.501, "academic": 131.779}
+check-out procedure	checkout	forum,technical	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 4.75, "academic": 0.0}
+chemical science	chemistry	blog,forum,academic	wordnet	3.00	{"blog": 49.477, "essay": 0.0, "forum": 30.064, "technical": 0.0, "academic": 29.284}
+chief executive officer	ceo	blog,essay,forum	mined	4.97	{"blog": 9.895, "essay": 5.008, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+child	little kid	blog,forum	mined	4.77	{"blog": 19.791, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+choking coil	choke	blog,forum	wordnet	3.00	{"blog": 9.895, "essay": 0.0, "forum": 20.042, "technical": 0.0, "academic": 0.0}
+close to	about	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 4047.201, "essay": 1993.309, "forum": 3742.916, "technical": 859.813, "academic": 614.967}
+close to	some	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 1845.484, "essay": 2088.467, "forum": 2510.309, "technical": 1776.629, "academic": 1132.32}
+close together	next to each other	technical	mined	4.77	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 14.251, "academic": 0.0}
+coffee bar	cafe	blog,forum	wordnet	3.00	{"blog": 39.581, "essay": 0.0, "forum": 15.032, "technical": 0.0, "academic": 0.0}
+coffee shop	cafe	blog,forum	wordnet	3.00	{"blog": 39.581, "essay": 0.0, "forum": 15.032, "technical": 0.0, "academic": 0.0}
+coloring material	colour	blog,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 0.0, "forum": 0.0, "technical": 14.251, "academic": 97.614}
+colour in	color	blog,forum,technical,academic	wordnet	3.00	{"blog": 103.901, "essay": 0.0, "forum": 40.085, "technical": 327.774, "academic": 234.273}
+colouring material	colour	blog,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 0.0, "forum": 0.0, "technical": 14.251, "academic": 97.614}
+come about	happen	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 282.018, "essay": 1076.787, "forum": 215.456, "technical": 76.006, "academic": 14.642}
+come from	originate	academic	mined	4.99	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 34.165}
+come in	enter	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 35.058, "forum": 80.17, "technical": 365.777, "academic": 24.403}
+commanding officer	commander	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+common mood	indicative	academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 9.761}
+communication theory	communications	blog,essay	wordnet	3.00	{"blog": 29.686, "essay": 50.083, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+completes	to finish	blog,forum,technical,academic	mined	4.99	{"blog": 64.32, "essay": 0.0, "forum": 55.117, "technical": 28.502, "academic": 4.881}
+component part	portion	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 14.843, "essay": 10.017, "forum": 25.053, "technical": 23.752, "academic": 19.523}
+computer science	computing	blog,technical,academic	wordnet	3.00	{"blog": 14.843, "essay": 0.0, "forum": 0.0, "technical": 33.252, "academic": 58.568}
+computing device	computer	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 286.965, "essay": 25.042, "forum": 465.986, "technical": 99.757, "academic": 82.972}
+computing machine	computer	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 286.965, "essay": 25.042, "forum": 465.986, "technical": 99.757, "academic": 82.972}
+conceive of	imagine	blog,essay,forum,technical	wordnet	3.00	{"blog": 54.424, "essay": 180.299, "forum": 150.318, "technical": 4.75, "academic": 0.0}
+concert dance	ballet	blog,forum	wordnet	3.00	{"blog": 14.843, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+cop	police officer	blog,essay	mined	4.98	{"blog": 4.948, "essay": 35.058, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+could simply	can easily	essay,forum,technical,academic	mined	4.99	{"blog": 0.0, "essay": 135.224, "forum": 20.042, "technical": 47.503, "academic": 4.881}
+course of study	curriculum	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+creative activity	creation	essay,forum,technical,academic	wordnet	3.00	{"blog": 0.0, "essay": 20.033, "forum": 25.053, "technical": 104.508, "academic": 29.284}
+creative person	artist	blog,forum	wordnet	3.00	{"blog": 34.634, "essay": 0.0, "forum": 60.127, "technical": 0.0, "academic": 0.0}
+creative thinking	creativity	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+criminal offence	crime	blog,essay,forum	wordnet	3.00	{"blog": 14.843, "essay": 20.033, "forum": 55.117, "technical": 0.0, "academic": 0.0}
+criminal offense	crime	blog,essay,forum	wordnet	3.00	{"blog": 14.843, "essay": 20.033, "forum": 55.117, "technical": 0.0, "academic": 0.0}
+crowd	large group	forum	mined	4.98	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+crude oil	petroleum	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+curved shape	curve	forum,technical,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 15.032, "technical": 85.506, "academic": 175.705}
+cut down	reduce	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 19.791, "essay": 105.175, "forum": 55.117, "technical": 71.255, "academic": 58.568}
+cut off	cutoff	academic	mined	4.99	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 53.688}
+cutoff	cut off	blog,essay,forum,academic	mined	4.98	{"blog": 9.895, "essay": 10.017, "forum": 25.053, "technical": 0.0, "academic": 29.284}
+daily	each day	essay,forum	mined	4.98	{"blog": 0.0, "essay": 85.141, "forum": 15.032, "technical": 0.0, "academic": 0.0}
+dark glasses	shades	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 15.032, "technical": 0.0, "academic": 0.0}
+dark glasses	sunglasses	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+data processor	computer	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 286.965, "essay": 25.042, "forum": 465.986, "technical": 99.757, "academic": 82.972}
+day of remembrance	anniversary	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 15.032, "technical": 0.0, "academic": 0.0}
+day of the month	date	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 69.267, "essay": 25.042, "forum": 185.392, "technical": 660.298, "academic": 48.807}
+decision making	deciding	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 29.686, "essay": 15.025, "forum": 15.032, "technical": 9.501, "academic": 9.761}
+defense mechanism	defence	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+defense reaction	defence	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+defensive measure	defense	essay,forum,technical	wordnet	3.00	{"blog": 0.0, "essay": 5.008, "forum": 45.095, "technical": 4.75, "academic": 0.0}
+dental practitioner	dentist	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+derived function	derivative	forum,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 107.375}
+different types	kinds	blog,essay,forum,technical,academic	mined	5.98	{"blog": 14.843, "essay": 25.042, "forum": 35.074, "technical": 19.001, "academic": 58.568}
+diplomatic negotiations	diplomacy	blog,technical	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 4.75, "academic": 0.0}
+discuss	talk about	blog,essay,forum,technical	mined	5.99	{"blog": 212.75, "essay": 45.075, "forum": 110.233, "technical": 14.251, "academic": 0.0}
+do i	will you	blog,essay,forum	mined	4.95	{"blog": 44.529, "essay": 5.008, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+do you think	is your opinion	forum	mined	4.99	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+doing any aerobic physical activity	exercise	forum,technical,academic	mined	4.94	{"blog": 0.0, "essay": 0.0, "forum": 65.138, "technical": 14.251, "academic": 4.881}
+donor organ	transplant	blog,forum	mined	4.96	{"blog": 4.948, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+double birdie	eagle	blog,forum	wordnet	3.00	{"blog": 19.791, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+dramatic play	drama	blog,essay,forum,technical	wordnet	3.00	{"blog": 24.738, "essay": 5.008, "forum": 20.042, "technical": 9.501, "academic": 0.0}
+dress shop	boutique	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+dress up	attire	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+driving force	drive	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 163.273, "essay": 2549.232, "forum": 210.445, "technical": 19.001, "academic": 34.165}
+dry land	ground	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 39.581, "essay": 5.008, "forum": 120.254, "technical": 4.75, "academic": 331.887}
+due to	because of	blog,essay,forum,technical,academic	mined	4.99	{"blog": 202.855, "essay": 1237.054, "forum": 350.742, "technical": 90.257, "academic": 92.733}
+due to	caused by	blog,essay,forum,technical,academic	mined	4.97	{"blog": 29.686, "essay": 901.496, "forum": 40.085, "technical": 4.75, "academic": 102.495}
+each day	daily	blog,essay,forum,technical,academic	mined	4.95	{"blog": 49.477, "essay": 475.79, "forum": 30.064, "technical": 9.501, "academic": 14.642}
+each other	one another	blog,essay,forum,technical,academic	mined	4.99	{"blog": 24.738, "essay": 25.042, "forum": 35.074, "technical": 4.75, "academic": 14.642}
+each year	annually	blog,essay,forum	wordnet	3.00	{"blog": 4.948, "essay": 30.05, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+each year	yearly	blog,essay,forum,academic	wordnet	3.00	{"blog": 4.948, "essay": 55.091, "forum": 5.011, "technical": 0.0, "academic": 4.881}
+earn	make money	blog,essay,forum	mined	4.99	{"blog": 4.948, "essay": 5.008, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+eating house	restaurant	blog,essay,forum	wordnet	3.00	{"blog": 128.64, "essay": 10.017, "forum": 30.064, "technical": 0.0, "academic": 0.0}
+eating place	restaurant	blog,essay,forum	wordnet	3.00	{"blog": 128.64, "essay": 10.017, "forum": 30.064, "technical": 0.0, "academic": 0.0}
+economic expert	economist	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+economic science	economics	essay,forum,academic	wordnet	3.00	{"blog": 0.0, "essay": 5.008, "forum": 5.011, "technical": 0.0, "academic": 4.881}
+economic system	economy	blog,essay,forum	wordnet	3.00	{"blog": 4.948, "essay": 15.025, "forum": 115.244, "technical": 0.0, "academic": 0.0}
+educated about	taught	blog,essay,forum	mined	4.99	{"blog": 19.791, "essay": 20.033, "forum": 95.201, "technical": 0.0, "academic": 0.0}
+educational activity	education	blog,essay,forum,technical	wordnet	3.00	{"blog": 39.581, "essay": 15.025, "forum": 85.18, "technical": 4.75, "academic": 0.0}
+electric refrigerator	fridge	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 35.074, "technical": 0.0, "academic": 0.0}
+electronic mail	email	blog,essay,forum,technical	wordnet	3.00	{"blog": 103.901, "essay": 70.116, "forum": 65.138, "technical": 123.509, "academic": 0.0}
+elsewhere in	into other areas of	technical	mined	4.99	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 9.501, "academic": 0.0}
+end product	output	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 4.948, "essay": 5.008, "forum": 10.021, "technical": 1168.585, "academic": 78.091}
+ended	just finished	blog	mined	4.99	{"blog": 29.686, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+endurance contest	marathon	blog,forum	wordnet	3.00	{"blog": 74.215, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+entrance hall	lobby	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+ethical motive	ethics	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+even so	however	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 331.494, "essay": 721.197, "forum": 531.123, "technical": 674.549, "academic": 639.371}
+even so	nevertheless	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 14.843, "essay": 20.033, "forum": 15.032, "technical": 9.501, "academic": 29.284}
+even so	nonetheless	blog,essay,forum	wordnet	3.00	{"blog": 79.163, "essay": 5.008, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+even though	although	blog,essay,forum,technical,academic	mined	5.00	{"blog": 341.39, "essay": 465.773, "forum": 165.35, "technical": 166.262, "academic": 263.557}
+every day	on a daily basis	blog,essay,forum,technical	mined	4.99	{"blog": 4.948, "essay": 180.299, "forum": 5.011, "technical": 4.75, "academic": 0.0}
+every week	weekly	blog,forum,academic	wordnet	3.00	{"blog": 9.895, "essay": 0.0, "forum": 20.042, "technical": 0.0, "academic": 4.881}
+every year	annually	blog,essay,forum	wordnet	3.00	{"blog": 4.948, "essay": 30.05, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+every year	yearly	blog,essay,forum,academic	wordnet	3.00	{"blog": 4.948, "essay": 55.091, "forum": 5.011, "technical": 0.0, "academic": 4.881}
+examine a similar	consider an analogous	academic	mined	5.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 9.761}
+examine how	study	blog,essay,forum,technical,academic	mined	4.98	{"blog": 163.273, "essay": 140.233, "forum": 55.117, "technical": 9.501, "academic": 1517.895}
+extremely hazardous	very dangerous	essay	mined	4.99	{"blog": 0.0, "essay": 485.806, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+fact mood	indicative	academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 9.761}
+factory farm	agriculture	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+faculty member	academic	blog,forum,academic	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 15.032, "technical": 0.0, "academic": 9.761}
+fairly good	pretty decent	blog,forum	mined	5.00	{"blog": 29.686, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+family name	surname	forum,technical	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 4.75, "academic": 0.0}
+fellow worker	colleague	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 35.074, "technical": 0.0, "academic": 0.0}
+female parent	mother	blog,essay,forum	wordnet	3.00	{"blog": 74.215, "essay": 45.075, "forum": 270.572, "technical": 0.0, "academic": 0.0}
+fend for	defend	essay,forum	wordnet	3.00	{"blog": 0.0, "essay": 5.008, "forum": 35.074, "technical": 0.0, "academic": 0.0}
+filled with	full of	blog,essay,forum,technical	mined	4.75	{"blog": 54.424, "essay": 15.025, "forum": 70.148, "technical": 9.501, "academic": 0.0}
+final result	outcome	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 4.948, "essay": 70.116, "forum": 15.032, "technical": 9.501, "academic": 43.926}
+financial backing	funding	forum,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 4.881}
+financial support	funding	forum,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 4.881}
+find out	determine	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 4.948, "essay": 30.05, "forum": 65.138, "technical": 128.259, "academic": 322.126}
+findings indicate	results suggest	academic	mined	5.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 68.33}
+first appearance	introduction	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 19.791, "essay": 40.067, "forum": 10.021, "technical": 95.007, "academic": 29.284}
+fitted out	equipped	essay,academic	wordnet	3.00	{"blog": 0.0, "essay": 10.017, "forum": 0.0, "technical": 0.0, "academic": 14.642}
+focusing on	paying attention to	blog,essay,academic	mined	4.99	{"blog": 4.948, "essay": 295.491, "forum": 0.0, "technical": 0.0, "academic": 9.761}
+food color	coloring	forum,technical,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 9.501, "academic": 9.761}
+food colour	coloring	forum,technical,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 9.501, "academic": 9.761}
+food colouring	coloring	forum,technical,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 9.501, "academic": 9.761}
+food market	grocery	blog,forum	wordnet	3.00	{"blog": 14.843, "essay": 0.0, "forum": 25.053, "technical": 0.0, "academic": 0.0}
+food waste	garbage	blog,forum,technical	wordnet	3.00	{"blog": 34.634, "essay": 0.0, "forum": 15.032, "technical": 66.505, "academic": 0.0}
+for instance	as an example	forum,technical,academic	mined	5.00	{"blog": 0.0, "essay": 0.0, "forum": 20.042, "technical": 42.753, "academic": 34.165}
+for the most part	largely	blog,forum,technical,academic	wordnet	3.00	{"blog": 29.686, "essay": 0.0, "forum": 10.021, "technical": 23.752, "academic": 14.642}
+for the most part	mostly	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 54.424, "essay": 130.216, "forum": 145.307, "technical": 61.754, "academic": 53.688}
+fossil oil	crude	blog,forum	wordnet	3.00	{"blog": 9.895, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+fossil oil	petroleum	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+found guilty	convicted	blog,essay	mined	4.99	{"blog": 9.895, "essay": 15.025, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+fourth part	quarter	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 5.008, "forum": 35.074, "technical": 28.502, "academic": 14.642}
+french-fried potatoes	fries	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+friendly relationship	friendship	blog,forum	wordnet	3.00	{"blog": 39.581, "essay": 0.0, "forum": 20.042, "technical": 0.0, "academic": 0.0}
+full of	filled with	blog,forum,technical,academic	mined	4.95	{"blog": 14.843, "essay": 0.0, "forum": 30.064, "technical": 9.501, "academic": 9.761}
+fundamental law	constitution	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 25.053, "technical": 0.0, "academic": 0.0}
+gas pedal	accelerator	academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 58.568}
+gay woman	lesbian	blog,forum	wordnet	3.00	{"blog": 19.791, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+geared wheel	gear	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 25.053, "technical": 0.0, "academic": 0.0}
+genetic science	genetics	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+gentle wind	breeze	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+get	from getting	blog,essay,forum,technical	mined	4.99	{"blog": 14.843, "essay": 65.108, "forum": 15.032, "technical": 9.501, "academic": 0.0}
+get dressed	dress	blog,essay,forum	wordnet	3.00	{"blog": 128.64, "essay": 5.008, "forum": 40.085, "technical": 0.0, "academic": 0.0}
+get in	enter	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 35.058, "forum": 80.17, "technical": 365.777, "academic": 24.403}
+get married	marry	blog,forum	wordnet	3.00	{"blog": 29.686, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+get more	increase the	blog,essay,forum,technical,academic	mined	4.79	{"blog": 9.895, "essay": 55.091, "forum": 15.032, "technical": 9.501, "academic": 39.046}
+getting ready	prepares	forum,academic	mined	4.99	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 4.881}
+getting ready	preparing	blog,essay,forum,technical,academic	mined	4.99	{"blog": 9.895, "essay": 5.008, "forum": 10.021, "technical": 4.75, "academic": 4.881}
+giant	very large	blog,essay,forum,technical,academic	mined	4.98	{"blog": 4.948, "essay": 10.017, "forum": 5.011, "technical": 9.501, "academic": 53.688}
+give thanks	thank	blog,essay,forum,technical	wordnet	3.00	{"blog": 98.954, "essay": 10.017, "forum": 65.138, "technical": 9.501, "academic": 0.0}
+gives back	returns	blog,forum,technical,academic	mined	5.00	{"blog": 24.738, "essay": 0.0, "forum": 40.085, "technical": 1097.33, "academic": 4.881}
+go across	pass	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 74.215, "essay": 85.141, "forum": 135.286, "technical": 446.532, "academic": 14.642}
+go forth	leave	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 376.024, "essay": 155.258, "forum": 250.53, "technical": 47.503, "academic": 19.523}
+go in	enter	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 35.058, "forum": 80.17, "technical": 365.777, "academic": 24.403}
+go into	enter	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 35.058, "forum": 80.17, "technical": 365.777, "academic": 24.403}
+go on	continue	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 69.267, "essay": 260.432, "forum": 160.339, "technical": 57.004, "academic": 29.284}
+go through	experience	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 133.587, "essay": 125.208, "forum": 375.795, "technical": 28.502, "academic": 9.761}
+going away	leaving	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 183.064, "essay": 60.1, "forum": 95.201, "technical": 42.753, "academic": 24.403}
+going into	entering	blog,essay,forum,technical,academic	mined	4.97	{"blog": 44.529, "essay": 5.008, "forum": 15.032, "technical": 28.502, "academic": 14.642}
+good deal	lot	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 1612.943, "essay": 971.613, "forum": 1147.427, "technical": 190.014, "academic": 9.761}
+good story	funny	blog,essay,forum,technical	wordnet	3.00	{"blog": 969.745, "essay": 5.008, "forum": 120.254, "technical": 14.251, "academic": 0.0}
+governing body	organisation	blog,forum,technical	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 5.011, "technical": 4.75, "academic": 0.0}
+gravitational attraction	gravity	blog,forum,academic	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 297.722}
+gravitational force	gravity	blog,forum,academic	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 297.722}
+great	some good	blog,essay,forum,technical	mined	4.96	{"blog": 14.843, "essay": 10.017, "forum": 20.042, "technical": 4.75, "academic": 0.0}
+great deal	lot	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 1612.943, "essay": 971.613, "forum": 1147.427, "technical": 190.014, "academic": 9.761}
+green goods	produce	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 10.017, "forum": 70.148, "technical": 128.259, "academic": 141.54}
+gross revenue	sales	blog,forum,technical	wordnet	3.00	{"blog": 64.32, "essay": 0.0, "forum": 100.212, "technical": 14.251, "academic": 0.0}
+ground forces	army	blog,forum,technical	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 115.244, "technical": 4.75, "academic": 0.0}
+guitar player	guitarist	technical	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 38.003, "academic": 0.0}
+half dozen	six	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 217.698, "essay": 130.216, "forum": 75.159, "technical": 71.255, "academic": 170.824}
+hand clapping	applause	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+hanging out	spending time	blog,essay	mined	4.99	{"blog": 44.529, "essay": 5.008, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+hardest	most difficult	forum	mined	4.98	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+harvest home	harvesting	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+has anyone	have you	blog,essay,forum,technical	mined	4.77	{"blog": 103.901, "essay": 50.083, "forum": 75.159, "technical": 4.75, "academic": 0.0}
+has fallen	fell	blog,essay,forum	mined	4.99	{"blog": 69.267, "essay": 15.025, "forum": 90.191, "technical": 0.0, "academic": 0.0}
+has said	says	blog,essay,forum,technical,academic	mined	4.99	{"blog": 519.506, "essay": 220.366, "forum": 285.604, "technical": 66.505, "academic": 9.761}
+have demonstrated	had proven	essay	mined	4.99	{"blog": 0.0, "essay": 25.042, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+have taken	took	blog,essay,forum,technical,academic	mined	4.98	{"blog": 425.5, "essay": 115.191, "forum": 405.858, "technical": 4.75, "academic": 9.761}
+have you	has anyone	forum	mined	4.97	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+haze over	fog	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+health check	medical	blog,essay,forum,technical	wordnet	3.00	{"blog": 44.529, "essay": 25.042, "forum": 70.148, "technical": 4.75, "academic": 0.0}
+heroic poem	epic	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+high school	hs	blog,essay,forum,academic	mined	4.99	{"blog": 4.948, "essay": 10.017, "forum": 10.021, "technical": 0.0, "academic": 58.568}
+huge amount	lot	blog,essay,forum,technical,academic	mined	4.98	{"blog": 1612.943, "essay": 971.613, "forum": 1147.427, "technical": 190.014, "academic": 9.761}
+human beings	humans	essay,forum,technical,academic	wordnet	3.00	{"blog": 0.0, "essay": 405.673, "forum": 40.085, "technical": 4.75, "academic": 4.881}
+human beings	mankind	essay	wordnet	3.00	{"blog": 0.0, "essay": 10.017, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+human race	humans	essay,forum,technical,academic	wordnet	3.00	{"blog": 0.0, "essay": 405.673, "forum": 40.085, "technical": 4.75, "academic": 4.881}
+i recover	you retrieve	technical	mined	4.99	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 4.75, "academic": 0.0}
+i tell	you know	blog,essay,forum,technical	mined	4.98	{"blog": 470.029, "essay": 185.308, "forum": 295.625, "technical": 76.006, "academic": 0.0}
+in agreement	agreed	blog,forum	wordnet	3.00	{"blog": 19.791, "essay": 0.0, "forum": 60.127, "technical": 0.0, "academic": 0.0}
+in all likelihood	likely	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 69.267, "essay": 721.197, "forum": 250.53, "technical": 156.761, "academic": 219.631}
+in all likelihood	probably	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 880.687, "essay": 100.166, "forum": 611.293, "technical": 313.523, "academic": 73.21}
+in all probability	likely	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 69.267, "essay": 721.197, "forum": 250.53, "technical": 156.761, "academic": 219.631}
+in all probability	probably	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 880.687, "essay": 100.166, "forum": 611.293, "technical": 313.523, "academic": 73.21}
+in danger	at risk	blog,essay,forum	mined	4.98	{"blog": 9.895, "essay": 616.023, "forum": 20.042, "technical": 0.0, "academic": 0.0}
+in fact	actually	blog,essay,forum,technical,academic	mined	4.98	{"blog": 1751.478, "essay": 210.349, "forum": 856.812, "technical": 342.025, "academic": 39.046}
+in fact	indeed	blog,essay,forum,technical,academic	mined	4.99	{"blog": 74.215, "essay": 35.058, "forum": 30.064, "technical": 33.252, "academic": 63.449}
+in front	ahead	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 100.166, "forum": 90.191, "technical": 9.501, "academic": 29.284}
+in front	infront	essay,forum	mined	4.97	{"blog": 0.0, "essay": 5.008, "forum": 25.053, "technical": 0.0, "academic": 0.0}
+in front of	next to	blog,essay,forum,technical,academic	mined	4.99	{"blog": 84.111, "essay": 50.083, "forum": 100.212, "technical": 71.255, "academic": 34.165}
+in one case	once	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 291.913, "essay": 330.549, "forum": 526.113, "technical": 465.534, "academic": 48.807}
+in operation	operating	essay,forum,technical,academic	wordnet	3.00	{"blog": 0.0, "essay": 1697.818, "forum": 40.085, "technical": 61.754, "academic": 9.761}
+in particular	specifically	blog,essay,forum,technical,academic	mined	5.00	{"blog": 4.948, "essay": 45.075, "forum": 70.148, "technical": 47.503, "academic": 78.091}
+in public	publicly	forum,technical,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 25.053, "technical": 19.001, "academic": 4.881}
+in secret	secretly	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 15.032, "technical": 0.0, "academic": 0.0}
+in spite	despite	blog,essay,forum,technical,academic	mined	4.99	{"blog": 49.477, "essay": 190.316, "forum": 120.254, "technical": 9.501, "academic": 112.256}
+in that location	there	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 3023.031, "essay": 3671.094, "forum": 3016.38, "technical": 1667.371, "academic": 722.342}
+in the lead	ahead	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 100.166, "forum": 90.191, "technical": 9.501, "academic": 29.284}
+in the main	mainly	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 24.738, "essay": 70.116, "forum": 40.085, "technical": 23.752, "academic": 97.614}
+in the main	primarily	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 14.843, "essay": 10.017, "forum": 20.042, "technical": 33.252, "academic": 63.449}
+increase the	get more	blog,forum,technical,academic	mined	4.99	{"blog": 9.895, "essay": 0.0, "forum": 20.042, "technical": 4.75, "academic": 4.881}
+index number	indicator	technical,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 80.756, "academic": 48.807}
+individuals feel they	people	blog,essay,forum,technical,academic	mined	4.97	{"blog": 2904.287, "essay": 10257.027, "forum": 2660.627, "technical": 185.263, "academic": 9.761}
+information processing system	computer	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 286.965, "essay": 25.042, "forum": 465.986, "technical": 99.757, "academic": 82.972}
+infront	in front	blog,essay,forum,technical,academic	mined	4.98	{"blog": 158.326, "essay": 215.357, "forum": 125.265, "technical": 14.251, "academic": 14.642}
+inhuman treatment	cruelty	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+inside information	details	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 44.529, "essay": 10.017, "forum": 45.095, "technical": 389.528, "academic": 78.091}
+instead of	rather than	blog,essay,forum,technical,academic	mined	4.98	{"blog": 69.267, "essay": 135.224, "forum": 150.318, "technical": 223.266, "academic": 58.568}
+instruction manual	instructions	essay,forum,technical	wordnet	3.00	{"blog": 0.0, "essay": 10.017, "forum": 25.053, "technical": 71.255, "academic": 0.0}
+intelligence agent	operative	blog	wordnet	3.00	{"blog": 19.791, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+internet site	website	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 133.587, "essay": 85.141, "forum": 40.085, "technical": 90.257, "academic": 9.761}
+into accidents	in wrecks	essay	mined	4.99	{"blog": 0.0, "essay": 20.033, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+is your opinion	do you think	blog,essay,forum	mined	4.99	{"blog": 29.686, "essay": 35.058, "forum": 45.095, "technical": 0.0, "academic": 0.0}
+its position	placement	blog,essay,forum,technical,academic	mined	4.99	{"blog": 9.895, "essay": 10.017, "forum": 5.011, "technical": 14.251, "academic": 14.642}
+jet-propelled plane	jet	blog,forum,academic	wordnet	3.00	{"blog": 14.843, "essay": 0.0, "forum": 20.042, "technical": 0.0, "academic": 219.631}
+join forces	cooperate	forum,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 4.881}
+just about	approximately	blog,essay,technical,academic	wordnet	3.00	{"blog": 19.791, "essay": 115.191, "forum": 0.0, "technical": 9.501, "academic": 87.852}
+just about	roughly	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 14.843, "essay": 10.017, "forum": 60.127, "technical": 19.001, "academic": 14.642}
+just about	some	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 1845.484, "essay": 2088.467, "forum": 2510.309, "technical": 1776.629, "academic": 1132.32}
+just finished	ended	blog,essay,forum,technical,academic	mined	4.99	{"blog": 252.332, "essay": 70.116, "forum": 270.572, "technical": 9.501, "academic": 9.761}
+keeps going	continues	blog,essay,forum,technical	mined	4.99	{"blog": 29.686, "essay": 5.008, "forum": 15.032, "technical": 23.752, "academic": 0.0}
+kept up	maintained	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 4.948, "essay": 5.008, "forum": 20.042, "technical": 47.503, "academic": 14.642}
+kinds	different types	essay,forum,technical,academic	mined	4.99	{"blog": 0.0, "essay": 10.017, "forum": 5.011, "technical": 19.001, "academic": 43.926}
+lap top	laptop	blog,forum	mined	4.96	{"blog": 4.948, "essay": 0.0, "forum": 50.106, "technical": 0.0, "academic": 0.0}
+large	really big	blog	mined	4.99	{"blog": 29.686, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+large amount	lot	blog,essay,forum,technical,academic	mined	4.99	{"blog": 1612.943, "essay": 971.613, "forum": 1147.427, "technical": 190.014, "academic": 9.761}
+large group	crowd	blog,forum	mined	4.94	{"blog": 19.791, "essay": 0.0, "forum": 25.053, "technical": 0.0, "academic": 0.0}
+large relative	big compared	academic	mined	4.99	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 9.761}
+later on	after	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 1355.664, "essay": 355.59, "forum": 1463.094, "technical": 774.306, "academic": 239.154}
+later on	afterward	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 5.008, "forum": 5.011, "technical": 4.75, "academic": 9.761}
+later on	afterwards	blog,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 0.0, "forum": 30.064, "technical": 38.003, "academic": 4.881}
+later on	subsequently	essay,forum,technical,academic	wordnet	3.00	{"blog": 0.0, "essay": 10.017, "forum": 10.021, "technical": 9.501, "academic": 29.284}
+laying on	lying in	blog,academic	mined	4.75	{"blog": 9.895, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 4.881}
+leaning over	bending down	essay	mined	4.98	{"blog": 0.0, "essay": 5.008, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+left over	remaining	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 4.948, "essay": 5.008, "forum": 15.032, "technical": 57.004, "academic": 63.449}
+legal opinion	judgement	blog,essay,forum	wordnet	3.00	{"blog": 9.895, "essay": 10.017, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+legal proceeding	proceedings	technical,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 4.75, "academic": 4.881}
+legislative assembly	legislature	essay	wordnet	3.00	{"blog": 0.0, "essay": 5.008, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+legislative body	legislature	essay	wordnet	3.00	{"blog": 0.0, "essay": 5.008, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+liberal arts	humanities	blog	wordnet	3.00	{"blog": 14.843, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+life history	biography	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+life story	biography	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+life style	lifestyle	essay,forum	wordnet	3.00	{"blog": 0.0, "essay": 5.008, "forum": 25.053, "technical": 0.0, "academic": 0.0}
+likely the reason	probably why	forum	mined	4.99	{"blog": 0.0, "essay": 0.0, "forum": 15.032, "technical": 0.0, "academic": 0.0}
+line of work	job	blog,essay,forum,technical	wordnet	3.00	{"blog": 568.983, "essay": 85.141, "forum": 611.293, "technical": 52.254, "academic": 0.0}
+linguistic communication	language	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 24.738, "essay": 5.008, "forum": 85.18, "technical": 460.784, "academic": 43.926}
+little kid	child	blog,essay,forum,technical,academic	mined	4.97	{"blog": 123.692, "essay": 120.2, "forum": 220.466, "technical": 85.506, "academic": 9.761}
+living accommodations	housing	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 30.064, "technical": 0.0, "academic": 0.0}
+logical thinking	reasoning	blog,essay,forum,academic	wordnet	3.00	{"blog": 4.948, "essay": 25.042, "forum": 25.053, "technical": 0.0, "academic": 14.642}
+longer	amount of time	blog,essay,forum,technical	mined	4.95	{"blog": 4.948, "essay": 80.133, "forum": 25.053, "technical": 4.75, "academic": 0.0}
+look for	search	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 128.64, "essay": 10.017, "forum": 100.212, "technical": 370.527, "academic": 327.006}
+lot	large amount	essay,forum,technical,academic	mined	4.79	{"blog": 0.0, "essay": 15.025, "forum": 10.021, "technical": 4.75, "academic": 24.403}
+love affair	romance	blog,forum	wordnet	3.00	{"blog": 14.843, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+lower limit	minimum	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 30.05, "forum": 40.085, "technical": 47.503, "academic": 141.54}
+lying in	laying on	forum	mined	4.95	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+machine rifle	automatic	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 4.948, "essay": 5.008, "forum": 10.021, "technical": 85.506, "academic": 43.926}
+main office	headquarters	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+main road	highway	blog,essay,forum,academic	wordnet	3.00	{"blog": 9.895, "essay": 325.54, "forum": 35.074, "technical": 0.0, "academic": 9.761}
+major problem	big issue	essay	mined	4.99	{"blog": 0.0, "essay": 35.058, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+make full	fill	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 14.843, "essay": 10.017, "forum": 50.106, "technical": 52.254, "academic": 29.284}
+make fun	guy	blog,forum,technical	wordnet	3.00	{"blog": 549.192, "essay": 0.0, "forum": 771.632, "technical": 4.75, "academic": 0.0}
+make money	earn	blog,essay,forum	mined	5.00	{"blog": 9.895, "essay": 5.008, "forum": 20.042, "technical": 0.0, "academic": 0.0}
+make up one's mind	decide	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 84.111, "essay": 60.1, "forum": 170.36, "technical": 66.505, "academic": 4.881}
+male child	boy	blog,essay,forum	wordnet	3.00	{"blog": 227.593, "essay": 20.033, "forum": 105.223, "technical": 0.0, "academic": 0.0}
+managing director	manager	blog,forum,technical	wordnet	3.00	{"blog": 14.843, "essay": 0.0, "forum": 75.159, "technical": 213.766, "academic": 0.0}
+manufacturing business	manufacturer	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+manufacturing plant	factory	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 4.948, "essay": 5.008, "forum": 20.042, "technical": 80.756, "academic": 14.642}
+many times	often	blog,essay,forum,technical,academic	mined	4.95	{"blog": 133.587, "essay": 220.366, "forum": 370.784, "technical": 313.523, "academic": 92.733}
+married man	husband	blog,forum	wordnet	3.00	{"blog": 108.849, "essay": 0.0, "forum": 65.138, "technical": 0.0, "academic": 0.0}
+married person	spouse	essay	wordnet	3.00	{"blog": 0.0, "essay": 10.017, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+married woman	wife	blog,essay,forum	wordnet	3.00	{"blog": 64.32, "essay": 5.008, "forum": 70.148, "technical": 0.0, "academic": 0.0}
+master copy	original	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 24.738, "essay": 10.017, "forum": 120.254, "technical": 237.517, "academic": 122.017}
+may believe	might think	blog,essay,forum,technical	mined	4.99	{"blog": 9.895, "essay": 35.058, "forum": 5.011, "technical": 4.75, "academic": 0.0}
+medical specialty	medicine	blog,essay,forum	wordnet	3.00	{"blog": 19.791, "essay": 5.008, "forum": 20.042, "technical": 0.0, "academic": 0.0}
+medicinal drug	medication	blog,forum	wordnet	3.00	{"blog": 19.791, "essay": 0.0, "forum": 30.064, "technical": 0.0, "academic": 0.0}
+melodic line	melody	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+melodic phrase	melody	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+melodic phrase	tune	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 29.686, "essay": 5.008, "forum": 10.021, "technical": 9.501, "academic": 4.881}
+memorial park	cemetery	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+metallic element	metal	blog,essay,forum,academic	wordnet	3.00	{"blog": 9.895, "essay": 10.017, "forum": 155.329, "technical": 0.0, "academic": 244.035}
+middle ages	medieval times	blog	mined	4.98	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+miles per hour	mph	blog,essay,forum	wordnet	3.00	{"blog": 9.895, "essay": 140.233, "forum": 45.095, "technical": 0.0, "academic": 0.0}
+military personnel	troops	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+missionary post	mission	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 4.948, "essay": 5.008, "forum": 70.148, "technical": 4.75, "academic": 29.284}
+missionary station	mission	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 4.948, "essay": 5.008, "forum": 70.148, "technical": 4.75, "academic": 29.284}
+mix together	combine	blog,essay,technical,academic	mined	6.00	{"blog": 14.843, "essay": 5.008, "forum": 0.0, "technical": 57.004, "academic": 9.761}
+mobile phone	cellphone	blog,essay,forum	wordnet	3.00	{"blog": 9.895, "essay": 916.521, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+monetary resource	funds	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 45.095, "technical": 0.0, "academic": 0.0}
+monetary value	price	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 29.686, "essay": 55.091, "forum": 330.699, "technical": 42.753, "academic": 29.284}
+moral excellence	virtue	blog,academic	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 4.881}
+moral sense	conscience	blog,essay,forum	wordnet	3.00	{"blog": 14.843, "essay": 10.017, "forum": 15.032, "technical": 0.0, "academic": 0.0}
+more and more	increasingly	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 5.008, "forum": 15.032, "technical": 4.75, "academic": 48.807}
+more often than not	generally	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 54.424, "essay": 35.058, "forum": 225.477, "technical": 109.258, "academic": 122.017}
+more or less	about	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 4047.201, "essay": 1993.309, "forum": 3742.916, "technical": 859.813, "academic": 614.967}
+more or less	roughly	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 14.843, "essay": 10.017, "forum": 60.127, "technical": 19.001, "academic": 14.642}
+more or less	some	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 1845.484, "essay": 2088.467, "forum": 2510.309, "technical": 1776.629, "academic": 1132.32}
+most basic	simplest	essay,technical,academic	mined	4.98	{"blog": 0.0, "essay": 5.008, "forum": 0.0, "technical": 99.757, "academic": 48.807}
+most recent	latest	blog,essay,forum,technical,academic	mined	4.99	{"blog": 74.215, "essay": 50.083, "forum": 10.021, "technical": 142.51, "academic": 39.046}
+motion picture	film	blog,essay,forum,academic	wordnet	3.00	{"blog": 44.529, "essay": 5.008, "forum": 65.138, "technical": 0.0, "academic": 165.944}
+motion picture	movie	blog,essay,forum,technical	wordnet	3.00	{"blog": 489.82, "essay": 10.017, "forum": 180.382, "technical": 9.501, "academic": 0.0}
+motion-picture show	movie	blog,essay,forum,technical	wordnet	3.00	{"blog": 489.82, "essay": 10.017, "forum": 180.382, "technical": 9.501, "academic": 0.0}
+move into	enter	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 35.058, "forum": 80.17, "technical": 365.777, "academic": 24.403}
+move on	advance	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 10.017, "forum": 20.042, "technical": 33.252, "academic": 19.523}
+moving picture	film	blog,essay,forum,academic	wordnet	3.00	{"blog": 44.529, "essay": 5.008, "forum": 65.138, "technical": 0.0, "academic": 165.944}
+moving picture	movie	blog,essay,forum,technical	wordnet	3.00	{"blog": 489.82, "essay": 10.017, "forum": 180.382, "technical": 9.501, "academic": 0.0}
+moving-picture show	movie	blog,essay,forum,technical	wordnet	3.00	{"blog": 489.82, "essay": 10.017, "forum": 180.382, "technical": 9.501, "academic": 0.0}
+much time	long	blog,essay,forum,technical,academic	mined	4.98	{"blog": 895.53, "essay": 320.532, "forum": 831.759, "technical": 389.528, "academic": 512.473}
+multiple	several different	essay,forum,technical,academic	mined	4.97	{"blog": 0.0, "essay": 10.017, "forum": 5.011, "technical": 19.001, "academic": 4.881}
+music director	conductor	academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 19.523}
+name calling	names	blog,forum,technical	wordnet	3.00	{"blog": 79.163, "essay": 0.0, "forum": 35.074, "technical": 503.537, "academic": 0.0}
+natural philosophy	physics	blog,forum,academic	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 55.117, "technical": 0.0, "academic": 336.768}
+naval forces	navy	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+nearly	that almost	essay,forum,technical,academic	mined	4.99	{"blog": 0.0, "essay": 10.017, "forum": 10.021, "technical": 4.75, "academic": 9.761}
+net income	earnings	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+net income	profit	blog,essay,forum,technical	wordnet	3.00	{"blog": 4.948, "essay": 5.008, "forum": 70.148, "technical": 4.75, "academic": 0.0}
+net income	profits	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 35.074, "technical": 0.0, "academic": 0.0}
+net profit	earnings	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+net profit	profits	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 35.074, "technical": 0.0, "academic": 0.0}
+new york	ny	blog,forum	mined	4.94	{"blog": 4.948, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+news media	journalism	blog	wordnet	3.00	{"blog": 9.895, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+newspaper column	editorial	blog	wordnet	3.00	{"blog": 39.581, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+next to	in front of	blog,essay,forum,technical,academic	mined	4.97	{"blog": 158.326, "essay": 215.357, "forum": 115.244, "technical": 14.251, "academic": 14.642}
+next to	on the side of	blog,essay,forum	mined	4.94	{"blog": 14.843, "essay": 40.067, "forum": 15.032, "technical": 0.0, "academic": 0.0}
+next to each other	close together	blog,technical	mined	4.97	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 4.75, "academic": 0.0}
+no matter	regardless	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 4.948, "essay": 60.1, "forum": 115.244, "technical": 66.505, "academic": 19.523}
+normally	by default	forum,technical	mined	4.96	{"blog": 0.0, "essay": 0.0, "forum": 25.053, "technical": 536.789, "academic": 0.0}
+not guilty	acquitted	essay	wordnet	3.00	{"blog": 0.0, "essay": 5.008, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+notably	in particular	blog,essay,forum,technical,academic	mined	4.99	{"blog": 24.738, "essay": 15.025, "forum": 15.032, "technical": 57.004, "academic": 527.115}
+now	these days	blog,essay,forum,technical	mined	4.99	{"blog": 9.895, "essay": 35.058, "forum": 55.117, "technical": 19.001, "academic": 0.0}
+now and again	occasionally	blog,forum,technical	wordnet	3.00	{"blog": 34.634, "essay": 0.0, "forum": 50.106, "technical": 23.752, "academic": 0.0}
+now and then	occasionally	blog,forum,technical	wordnet	3.00	{"blog": 34.634, "essay": 0.0, "forum": 50.106, "technical": 23.752, "academic": 0.0}
+ocean trip	voyage	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+of all time	ever	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 1019.222, "essay": 330.549, "forum": 726.537, "technical": 61.754, "academic": 14.642}
+of late	recently	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 64.32, "essay": 35.058, "forum": 135.286, "technical": 90.257, "academic": 385.575}
+of necessity	needs	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 128.64, "essay": 195.324, "forum": 280.593, "technical": 356.276, "academic": 24.403}
+of your life	to live	blog,essay,forum,technical	mined	4.99	{"blog": 69.267, "essay": 65.108, "forum": 85.18, "technical": 4.75, "academic": 0.0}
+offensive activity	offense	blog,essay,forum	wordnet	3.00	{"blog": 19.791, "essay": 160.266, "forum": 40.085, "technical": 0.0, "academic": 0.0}
+old age	years	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 371.076, "essay": 550.915, "forum": 962.035, "technical": 190.014, "academic": 204.989}
+on the face of it	apparently	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 39.581, "essay": 10.017, "forum": 100.212, "technical": 19.001, "academic": 24.403}
+on the internet	online	blog,essay,forum,technical,academic	mined	4.98	{"blog": 232.541, "essay": 30.05, "forum": 205.434, "technical": 85.506, "academic": 9.761}
+on the job	working	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 277.07, "essay": 85.141, "forum": 280.593, "technical": 294.521, "academic": 19.523}
+on the side of	next to	blog,essay,forum,technical,academic	mined	4.96	{"blog": 84.111, "essay": 50.083, "forum": 100.212, "technical": 71.255, "academic": 34.165}
+once	one time	blog,essay,forum,technical,academic	mined	4.99	{"blog": 9.895, "essay": 95.158, "forum": 55.117, "technical": 19.001, "academic": 9.761}
+once more	again	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 1019.222, "essay": 115.191, "forum": 626.325, "technical": 327.774, "academic": 48.807}
+one another	each other	blog,essay,forum,technical,academic	mined	4.98	{"blog": 123.692, "essay": 50.083, "forum": 205.434, "technical": 90.257, "academic": 34.165}
+one shot	round	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 24.738, "essay": 10.017, "forum": 50.106, "technical": 9.501, "academic": 9.761}
+one thousand thousand	million	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 59.372, "essay": 706.172, "forum": 125.265, "technical": 19.001, "academic": 48.807}
+one time	once	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 291.913, "essay": 330.549, "forum": 526.113, "technical": 465.534, "academic": 48.807}
+or else	instead	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 202.855, "essay": 360.599, "forum": 410.869, "technical": 741.054, "academic": 102.495}
+or so	about	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 4047.201, "essay": 1993.309, "forum": 3742.916, "technical": 859.813, "academic": 614.967}
+or so	some	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 1845.484, "essay": 2088.467, "forum": 2510.309, "technical": 1776.629, "academic": 1132.32}
+originate	come from	blog,essay,forum,technical,academic	mined	5.00	{"blog": 24.738, "essay": 30.05, "forum": 30.064, "technical": 28.502, "academic": 24.403}
+out of doors	outside	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 192.959, "essay": 75.125, "forum": 185.392, "technical": 142.51, "academic": 92.733}
+paper-back book	paperback	technical	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 9.501, "academic": 0.0}
+partner off	pair	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 59.372, "essay": 10.017, "forum": 30.064, "technical": 99.757, "academic": 195.228}
+pass on	hand	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 178.116, "essay": 876.455, "forum": 400.848, "technical": 313.523, "academic": 102.495}
+passenger car	carriage	technical	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 4.75, "academic": 0.0}
+passenger vehicle	bus	blog,essay,forum	wordnet	3.00	{"blog": 113.797, "essay": 40.067, "forum": 120.254, "technical": 0.0, "academic": 0.0}
+patrol car	cruiser	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 20.042, "technical": 0.0, "academic": 0.0}
+paying attention to	focusing on	blog,essay,academic	mined	4.99	{"blog": 9.895, "essay": 170.283, "forum": 0.0, "technical": 0.0, "academic": 39.046}
+personal matters	affairs	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+philosophical system	philosophy	blog,forum,technical,academic	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 25.053, "technical": 9.501, "academic": 4.881}
+photo on	picture in	blog,forum,academic	mined	4.75	{"blog": 9.895, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 4.881}
+physical exercise	exercising	essay,technical	wordnet	3.00	{"blog": 0.0, "essay": 5.008, "forum": 0.0, "technical": 4.75, "academic": 0.0}
+physical structure	body	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 108.849, "essay": 95.158, "forum": 235.498, "technical": 408.53, "academic": 287.961}
+pic in	picture on	blog,essay	mined	4.99	{"blog": 4.948, "essay": 5.008, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+pick out	choose	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 59.372, "essay": 100.166, "forum": 65.138, "technical": 156.761, "academic": 19.523}
+picture in	photo on	technical	mined	4.95	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 4.75, "academic": 0.0}
+picture show	film	blog,essay,forum,academic	wordnet	3.00	{"blog": 44.529, "essay": 5.008, "forum": 65.138, "technical": 0.0, "academic": 165.944}
+picture show	movie	blog,essay,forum,technical	wordnet	3.00	{"blog": 489.82, "essay": 10.017, "forum": 180.382, "technical": 9.501, "academic": 0.0}
+plan of attack	approach	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 14.843, "essay": 5.008, "forum": 65.138, "technical": 308.772, "academic": 688.178}
+plant food	fertilizer	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 15.032, "technical": 0.0, "academic": 0.0}
+play tricks	trick	blog,forum,technical	wordnet	3.00	{"blog": 24.738, "essay": 0.0, "forum": 55.117, "technical": 19.001, "academic": 0.0}
+played out	spent	blog,essay,forum,academic	wordnet	3.00	{"blog": 158.326, "essay": 75.125, "forum": 215.456, "technical": 0.0, "academic": 9.761}
+playground ball	softball	blog,forum	wordnet	3.00	{"blog": 19.791, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+poisonous substance	poison	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+police officer	cop	blog,essay,forum	mined	4.78	{"blog": 59.372, "essay": 10.017, "forum": 80.17, "technical": 0.0, "academic": 0.0}
+police officer	policeman	essay	wordnet	3.00	{"blog": 0.0, "essay": 5.008, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+political economy	economics	essay,forum,academic	wordnet	3.00	{"blog": 0.0, "essay": 5.008, "forum": 5.011, "technical": 0.0, "academic": 4.881}
+political orientation	ideology	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+political relation	politics	blog,forum	wordnet	3.00	{"blog": 9.895, "essay": 0.0, "forum": 60.127, "technical": 0.0, "academic": 0.0}
+political theory	ideology	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+pop up	popup	technical	mined	4.98	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 4.75, "academic": 0.0}
+portion that shows up	part which appears	technical	mined	4.99	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 9.501, "academic": 0.0}
+prepares	getting ready	essay,forum	mined	4.99	{"blog": 0.0, "essay": 5.008, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+preparing	getting ready	essay,forum	mined	4.79	{"blog": 0.0, "essay": 5.008, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+price reduction	discount	blog,essay,forum,technical	wordnet	3.00	{"blog": 14.843, "essay": 5.008, "forum": 5.011, "technical": 4.75, "academic": 0.0}
+probably	most likely	blog,essay,forum,technical,academic	mined	4.99	{"blog": 24.738, "essay": 150.249, "forum": 35.074, "technical": 47.503, "academic": 48.807}
+promotional material	publicity	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+protects against	prevents	blog,essay,forum,technical,academic	mined	4.99	{"blog": 4.948, "essay": 25.042, "forum": 15.032, "technical": 23.752, "academic": 4.881}
+proud of	pleased	blog,essay,technical	wordnet	3.00	{"blog": 9.895, "essay": 5.008, "forum": 0.0, "technical": 4.75, "academic": 0.0}
+psychological science	psychology	blog,essay	wordnet	3.00	{"blog": 9.895, "essay": 10.017, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+public assistance	welfare	blog,forum	wordnet	3.00	{"blog": 19.791, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+public presentation	performance	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 49.477, "essay": 20.033, "forum": 70.148, "technical": 171.012, "academic": 341.648}
+publishing company	publisher	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+publishing firm	publisher	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+publishing house	publisher	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+pull away	withdraw	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 15.032, "technical": 0.0, "academic": 0.0}
+pull back	withdraw	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 15.032, "technical": 0.0, "academic": 0.0}
+puzzle out	solve	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 15.025, "forum": 25.053, "technical": 80.756, "academic": 117.137}
+quite a little	lot	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 1612.943, "essay": 971.613, "forum": 1147.427, "technical": 190.014, "academic": 9.761}
+quotation mark	quote	blog,essay,forum,technical	wordnet	3.00	{"blog": 54.424, "essay": 5.008, "forum": 20.042, "technical": 28.502, "academic": 0.0}
+race driver	racer	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+radio detection and ranging	radar	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+railroad line	railway	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+railway line	railroad	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+railway system	railroad	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+really big	large	blog,essay,forum,technical,academic	mined	4.98	{"blog": 84.111, "essay": 160.266, "forum": 310.657, "technical": 194.764, "academic": 1332.429}
+refrain from	avoid	blog,essay,forum,technical,academic	mined	5.00	{"blog": 79.163, "essay": 300.499, "forum": 120.254, "technical": 232.767, "academic": 34.165}
+regarded as	considered to be	blog,essay,forum,technical,academic	mined	4.96	{"blog": 4.948, "essay": 5.008, "forum": 5.011, "technical": 4.75, "academic": 14.642}
+religious belief	faith	blog,forum	wordnet	3.00	{"blog": 34.634, "essay": 0.0, "forum": 110.233, "technical": 0.0, "academic": 0.0}
+religious belief	religion	blog,forum	wordnet	3.00	{"blog": 9.895, "essay": 0.0, "forum": 150.318, "technical": 0.0, "academic": 0.0}
+report findings	present results	academic	mined	5.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 63.449}
+research has shown	studies have proved	essay	mined	5.00	{"blog": 0.0, "essay": 15.025, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+research lab	laboratory	blog,academic	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 58.568}
+research laboratory	lab	blog,forum,academic	wordnet	3.00	{"blog": 34.634, "essay": 0.0, "forum": 40.085, "technical": 0.0, "academic": 14.642}
+research worker	researcher	blog,forum	wordnet	3.00	{"blog": 9.895, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+retail merchant	retailer	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+retail store	outlet	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+return	come back	blog,essay,forum,technical	mined	4.99	{"blog": 64.32, "essay": 5.008, "forum": 70.148, "technical": 14.251, "academic": 0.0}
+return	go back	blog,essay,forum,technical	mined	5.00	{"blog": 192.959, "essay": 25.042, "forum": 95.201, "technical": 19.001, "academic": 0.0}
+revenue enhancement	tax	essay,forum,technical	wordnet	3.00	{"blog": 0.0, "essay": 5.008, "forum": 75.159, "technical": 4.75, "academic": 0.0}
+right away	immediately	blog,essay,forum,technical,academic	mined	4.99	{"blog": 19.791, "essay": 65.108, "forum": 155.329, "technical": 95.007, "academic": 14.642}
+rising prices	inflation	forum,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 65.138, "technical": 0.0, "academic": 82.972}
+rock oil	crude	blog,forum	wordnet	3.00	{"blog": 9.895, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+rock oil	petroleum	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+run along	line	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 128.64, "essay": 70.116, "forum": 240.509, "technical": 969.07, "academic": 810.195}
+salary increase	raise	blog,essay,forum,technical	wordnet	3.00	{"blog": 14.843, "essay": 55.091, "forum": 30.064, "technical": 109.258, "academic": 0.0}
+say sorry	apologize	blog,forum	mined	4.99	{"blog": 24.738, "essay": 0.0, "forum": 15.032, "technical": 0.0, "academic": 0.0}
+says	has said	essay	mined	4.99	{"blog": 0.0, "essay": 5.008, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+school of thought	philosophy	blog,forum,technical,academic	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 25.053, "technical": 9.501, "academic": 4.881}
+science lab	laboratory	blog,academic	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 58.568}
+science laboratory	lab	blog,forum,academic	wordnet	3.00	{"blog": 34.634, "essay": 0.0, "forum": 40.085, "technical": 0.0, "academic": 14.642}
+scientific discipline	science	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 34.634, "essay": 45.075, "forum": 150.318, "technical": 9.501, "academic": 53.688}
+screen out	sort	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 658.041, "essay": 50.083, "forum": 245.519, "technical": 204.265, "academic": 9.761}
+sealing wax	seal	blog,forum	wordnet	3.00	{"blog": 14.843, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+seating area	seats	blog,forum,technical	wordnet	3.00	{"blog": 19.791, "essay": 0.0, "forum": 25.053, "technical": 4.75, "academic": 0.0}
+seating room	seats	blog,forum,technical	wordnet	3.00	{"blog": 19.791, "essay": 0.0, "forum": 25.053, "technical": 4.75, "academic": 0.0}
+secret plan	plot	blog,forum,academic	wordnet	3.00	{"blog": 19.791, "essay": 0.0, "forum": 105.223, "technical": 0.0, "academic": 24.403}
+sensing element	sensor	essay,forum,academic	wordnet	3.00	{"blog": 0.0, "essay": 5.008, "forum": 5.011, "technical": 0.0, "academic": 14.642}
+serious issue	major problem	essay,technical	mined	4.99	{"blog": 0.0, "essay": 40.067, "forum": 0.0, "technical": 4.75, "academic": 0.0}
+serious music	classical	blog,technical,academic	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 42.753, "academic": 356.29}
+set out	begin	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 69.267, "essay": 75.125, "forum": 65.138, "technical": 251.768, "academic": 34.165}
+set out	start	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 376.024, "essay": 265.441, "forum": 576.219, "technical": 674.549, "academic": 29.284}
+set up	configure	technical	mined	5.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 71.255, "academic": 0.0}
+set up	establish	essay,forum,academic	wordnet	3.00	{"blog": 0.0, "essay": 10.017, "forum": 20.042, "technical": 0.0, "academic": 112.256}
+set up	setup	blog,forum,technical,academic	mined	4.99	{"blog": 4.948, "essay": 0.0, "forum": 30.064, "technical": 280.27, "academic": 24.403}
+short pants	shorts	blog,forum	wordnet	3.00	{"blog": 19.791, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+shout out	cry	blog,forum	wordnet	3.00	{"blog": 158.326, "essay": 0.0, "forum": 55.117, "technical": 0.0, "academic": 0.0}
+shout out	scream	blog,forum	wordnet	3.00	{"blog": 29.686, "essay": 0.0, "forum": 30.064, "technical": 0.0, "academic": 0.0}
+shout out	yell	blog,essay,forum	wordnet	3.00	{"blog": 24.738, "essay": 5.008, "forum": 40.085, "technical": 0.0, "academic": 0.0}
+shows up	appears	blog,essay,forum,technical,academic	mined	4.98	{"blog": 24.738, "essay": 10.017, "forum": 25.053, "technical": 76.006, "academic": 161.063}
+sign language	signing	blog,technical	wordnet	3.00	{"blog": 9.895, "essay": 0.0, "forum": 0.0, "technical": 4.75, "academic": 0.0}
+simultaneously	at the same time	blog,essay,forum,technical,academic	mined	4.97	{"blog": 153.378, "essay": 345.574, "forum": 65.138, "technical": 38.003, "academic": 19.523}
+sit on	sitting in	blog,essay,forum	mined	4.95	{"blog": 34.634, "essay": 5.008, "forum": 35.074, "technical": 0.0, "academic": 0.0}
+sitting in	sit on	blog,essay,forum	mined	4.95	{"blog": 19.791, "essay": 5.008, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+sitting together	sit	blog,essay,forum,technical	mined	4.76	{"blog": 188.012, "essay": 35.058, "forum": 175.371, "technical": 19.001, "academic": 0.0}
+sleeping accommodation	bedroom	blog,forum	wordnet	3.00	{"blog": 14.843, "essay": 0.0, "forum": 20.042, "technical": 0.0, "academic": 0.0}
+sleeping room	bedroom	blog,forum	wordnet	3.00	{"blog": 14.843, "essay": 0.0, "forum": 20.042, "technical": 0.0, "academic": 0.0}
+slick magazine	glossy	blog	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+small town	village	blog,forum	wordnet	3.00	{"blog": 34.634, "essay": 0.0, "forum": 20.042, "technical": 0.0, "academic": 0.0}
+so scared	afraid	blog,essay,forum	mined	4.97	{"blog": 103.901, "essay": 10.017, "forum": 85.18, "technical": 0.0, "academic": 0.0}
+soft-cover book	paperback	technical	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 9.501, "academic": 0.0}
+software engineer	programmer	forum,technical	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 15.032, "technical": 9.501, "academic": 0.0}
+some good	great	blog,essay,forum,technical,academic	mined	4.96	{"blog": 935.111, "essay": 260.432, "forum": 556.176, "technical": 80.756, "academic": 39.046}
+some other	another	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 697.623, "essay": 941.563, "forum": 741.568, "technical": 636.546, "academic": 190.347}
+some suggest beginning	i've seen recommendations for starting	technical	mined	5.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 9.501, "academic": 0.0}
+someone	that person	blog,essay,forum	mined	4.98	{"blog": 14.843, "essay": 105.175, "forum": 25.053, "technical": 0.0, "academic": 0.0}
+space vehicle	spacecraft	academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 9.761}
+spark off	trigger	forum,technical,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 20.042, "technical": 71.255, "academic": 19.523}
+specifically	in particular	blog,essay,forum,technical,academic	mined	4.99	{"blog": 24.738, "essay": 15.025, "forum": 15.032, "technical": 57.004, "academic": 527.115}
+speech production	speaking	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 54.424, "essay": 40.067, "forum": 105.223, "technical": 33.252, "academic": 9.761}
+speed up	accelerate	essay,technical,academic	wordnet	3.00	{"blog": 0.0, "essay": 5.008, "forum": 0.0, "technical": 9.501, "academic": 9.761}
+spinal column	spine	blog,forum,academic	wordnet	3.00	{"blog": 19.791, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 24.403}
+sports meeting	meet	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 118.744, "essay": 5.008, "forum": 150.318, "technical": 38.003, "academic": 14.642}
+start out	begin	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 69.267, "essay": 75.125, "forum": 65.138, "technical": 251.768, "academic": 34.165}
+state highway	freeway	essay,forum	wordnet	3.00	{"blog": 0.0, "essay": 15.025, "forum": 20.042, "technical": 0.0, "academic": 0.0}
+statute law	legislation	blog,essay,forum	wordnet	3.00	{"blog": 14.843, "essay": 5.008, "forum": 15.032, "technical": 0.0, "academic": 0.0}
+stopping point	close	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 272.122, "essay": 70.116, "forum": 210.445, "technical": 166.262, "academic": 395.336}
+stopping point	last	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 1429.879, "essay": 380.632, "forum": 596.261, "technical": 427.531, "academic": 151.301}
+string section	strings	forum,technical,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 45.095, "technical": 456.033, "academic": 43.926}
+student residence	dorm	blog,forum	wordnet	3.00	{"blog": 14.843, "essay": 0.0, "forum": 25.053, "technical": 0.0, "academic": 0.0}
+suburban area	suburb	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+subway system	metro	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+sum of money	amount	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 79.163, "essay": 380.632, "forum": 280.593, "technical": 80.756, "academic": 122.017}
+tail coat	tails	academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 48.807}
+take down	lower	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 14.843, "essay": 120.2, "forum": 185.392, "technical": 223.266, "academic": 497.831}
+take part	participate	essay,forum,technical	wordnet	3.00	{"blog": 0.0, "essay": 25.042, "forum": 10.021, "technical": 4.75, "academic": 0.0}
+take place	happen	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 282.018, "essay": 1076.787, "forum": 215.456, "technical": 76.006, "academic": 14.642}
+taking into custody	arrest	essay,forum	wordnet	3.00	{"blog": 0.0, "essay": 10.017, "forum": 35.074, "technical": 0.0, "academic": 0.0}
+talk about	discuss	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 14.843, "essay": 15.025, "forum": 15.032, "technical": 42.753, "academic": 595.444}
+talk like a native	speak	blog,essay,forum,technical	mined	4.77	{"blog": 69.267, "essay": 60.1, "forum": 95.201, "technical": 33.252, "academic": 0.0}
+talk terms	negotiate	forum,technical	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 4.75, "academic": 0.0}
+tax write-off	deduction	forum,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 9.761}
+tea cosy	cozy	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 15.032, "technical": 0.0, "academic": 0.0}
+telephone set	phone	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 376.024, "essay": 15054.991, "forum": 235.498, "technical": 19.001, "academic": 4.881}
+temperature reduction	cooling	forum,academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 122.017}
+territorial dominion	territory	blog,forum,academic	wordnet	3.00	{"blog": 19.791, "essay": 0.0, "forum": 25.053, "technical": 0.0, "academic": 4.881}
+terrorist act	terrorism	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+that is sitting	sits	blog,forum,technical	mined	4.97	{"blog": 24.738, "essay": 0.0, "forum": 10.021, "technical": 23.752, "academic": 0.0}
+that's okay	it's ok	blog,essay,technical	mined	4.99	{"blog": 158.326, "essay": 15.025, "forum": 0.0, "technical": 4.75, "academic": 0.0}
+the likes of	like	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 6051.011, "essay": 1622.694, "forum": 3572.556, "technical": 1966.643, "academic": 541.757}
+these days	now	blog,essay,forum,technical,academic	mined	4.99	{"blog": 3621.701, "essay": 1031.713, "forum": 1738.677, "technical": 907.316, "academic": 122.017}
+these days	nowadays	blog,essay,forum,academic	mined	4.99	{"blog": 4.948, "essay": 200.333, "forum": 30.064, "technical": 0.0, "academic": 9.761}
+this evening	tonight	blog,forum	wordnet	3.00	{"blog": 925.216, "essay": 0.0, "forum": 15.032, "technical": 0.0, "academic": 0.0}
+this night	tonight	blog,forum	wordnet	3.00	{"blog": 925.216, "essay": 0.0, "forum": 15.032, "technical": 0.0, "academic": 0.0}
+thought process	thinking	blog,essay,forum,technical	wordnet	3.00	{"blog": 672.884, "essay": 155.258, "forum": 255.54, "technical": 23.752, "academic": 0.0}
+through with	done	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 509.611, "essay": 300.499, "forum": 521.102, "technical": 399.029, "academic": 97.614}
+time lag	wait	blog,essay,forum,technical	wordnet	3.00	{"blog": 277.07, "essay": 761.264, "forum": 285.604, "technical": 85.506, "academic": 0.0}
+time to come	future	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 118.744, "essay": 130.216, "forum": 90.191, "technical": 218.516, "academic": 244.035}
+to a fault	too	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 2280.88, "essay": 631.048, "forum": 972.056, "technical": 261.269, "academic": 87.852}
+to a greater extent	more	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 2043.391, "essay": 3891.46, "forum": 2986.316, "technical": 1885.887, "academic": 1044.468}
+to a lesser extent	less	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 267.175, "essay": 410.682, "forum": 576.219, "technical": 266.019, "academic": 248.915}
+to a lower place	below	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 39.581, "essay": 10.017, "forum": 60.127, "technical": 342.025, "academic": 214.75}
+to begin	first	blog,essay,forum,technical,academic	mined	4.99	{"blog": 1222.077, "essay": 580.964, "forum": 1488.147, "technical": 1600.866, "academic": 1259.218}
+to each other	together	blog,essay,forum,technical,academic	mined	5.78	{"blog": 282.018, "essay": 85.141, "forum": 405.858, "technical": 147.261, "academic": 122.017}
+to live	of your life	blog,essay,forum	mined	4.79	{"blog": 69.267, "essay": 55.091, "forum": 20.042, "technical": 0.0, "academic": 0.0}
+to produce	for generating	technical,academic	mined	4.99	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 14.251, "academic": 14.642}
+to the full	fully	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 155.258, "forum": 120.254, "technical": 57.004, "academic": 141.54}
+to the highest degree	most	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 747.099, "essay": 2013.342, "forum": 1488.147, "technical": 883.564, "academic": 751.626}
+to the lowest degree	least	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 628.355, "essay": 280.466, "forum": 465.986, "technical": 294.521, "academic": 248.915}
+together	to each other	blog,essay,forum,technical	mined	5.98	{"blog": 19.791, "essay": 15.025, "forum": 45.095, "technical": 52.254, "academic": 0.0}
+told me	said	blog,essay,forum,technical,academic	mined	4.98	{"blog": 935.111, "essay": 320.532, "forum": 957.024, "technical": 71.255, "academic": 29.284}
+tooth doctor	dentist	blog,forum	wordnet	3.00	{"blog": 4.948, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+toxic condition	poisoning	forum	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+transmitting aerial	antenna	academic	wordnet	3.00	{"blog": 0.0, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 39.046}
+trigger off	spark	essay,forum	wordnet	3.00	{"blog": 0.0, "essay": 5.008, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+trim back	reduce	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 19.791, "essay": 105.175, "forum": 55.117, "technical": 71.255, "academic": 58.568}
+trim down	reduce	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 19.791, "essay": 105.175, "forum": 55.117, "technical": 71.255, "academic": 58.568}
+turn into	become	blog,essay,forum,technical,academic	mined	5.00	{"blog": 178.116, "essay": 986.638, "forum": 175.371, "technical": 57.004, "academic": 122.017}
+turn off	disable	essay,technical	mined	4.99	{"blog": 0.0, "essay": 25.042, "forum": 0.0, "technical": 118.759, "academic": 0.0}
+turn over	hand	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 178.116, "essay": 876.455, "forum": 400.848, "technical": 313.523, "academic": 102.495}
+twenty-five percent	quarter	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 9.895, "essay": 5.008, "forum": 35.074, "technical": 28.502, "academic": 14.642}
+twenty-four hour period	day	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 2335.304, "essay": 1006.671, "forum": 1222.586, "technical": 142.51, "academic": 82.972}
+twenty-four hours	day	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 2335.304, "essay": 1006.671, "forum": 1222.586, "technical": 142.51, "academic": 82.972}
+two-base hit	double	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 24.738, "essay": 30.05, "forum": 85.18, "technical": 52.254, "academic": 327.006}
+typically	in general	blog,essay,forum,technical,academic	mined	5.99	{"blog": 74.215, "essay": 80.133, "forum": 35.074, "technical": 114.008, "academic": 102.495}
+undercover agent	spy	blog,essay,forum	wordnet	3.00	{"blog": 4.948, "essay": 5.008, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+up the stairs	upstairs	blog,forum	wordnet	3.00	{"blog": 24.738, "essay": 0.0, "forum": 35.074, "technical": 0.0, "academic": 0.0}
+upfront	up front	forum,technical	mined	4.96	{"blog": 0.0, "essay": 0.0, "forum": 15.032, "technical": 4.75, "academic": 0.0}
+upper limit	maximum	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 4.948, "essay": 15.025, "forum": 50.106, "technical": 57.004, "academic": 258.677}
+urban center	city	blog,essay,forum,technical	wordnet	3.00	{"blog": 123.692, "essay": 30.05, "forum": 130.276, "technical": 23.752, "academic": 0.0}
+vaginal birth	childbirth	blog	wordnet	3.00	{"blog": 9.895, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+verse form	poem	blog	wordnet	3.00	{"blog": 34.634, "essay": 0.0, "forum": 0.0, "technical": 0.0, "academic": 0.0}
+very large	giant	blog,essay,forum,academic	mined	4.78	{"blog": 19.791, "essay": 10.017, "forum": 30.064, "technical": 0.0, "academic": 161.063}
+very large	huge	blog,essay,forum,technical,academic	mined	4.99	{"blog": 148.43, "essay": 240.399, "forum": 340.721, "technical": 14.251, "academic": 24.403}
+very much	lots	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 212.75, "essay": 50.083, "forum": 195.413, "technical": 38.003, "academic": 9.761}
+visible radiation	light	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 118.744, "essay": 425.707, "forum": 230.487, "technical": 42.753, "academic": 639.371}
+wage hike	raise	blog,essay,forum,technical	wordnet	3.00	{"blog": 14.843, "essay": 55.091, "forum": 30.064, "technical": 109.258, "academic": 0.0}
+wage increase	raise	blog,essay,forum,technical	wordnet	3.00	{"blog": 14.843, "essay": 55.091, "forum": 30.064, "technical": 109.258, "academic": 0.0}
+war machine	military	blog,essay,forum	wordnet	3.00	{"blog": 4.948, "essay": 5.008, "forum": 110.233, "technical": 0.0, "academic": 0.0}
+wax light	candle	blog,forum	wordnet	3.00	{"blog": 9.895, "essay": 0.0, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+way of life	path	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 29.686, "essay": 25.042, "forum": 30.064, "technical": 622.295, "academic": 195.228}
+weapons system	arms	blog,essay,forum,academic	wordnet	3.00	{"blog": 39.581, "essay": 5.008, "forum": 40.085, "technical": 0.0, "academic": 39.046}
+wearing apparel	clothes	blog,forum	wordnet	3.00	{"blog": 79.163, "essay": 0.0, "forum": 50.106, "technical": 0.0, "academic": 0.0}
+web log	blog	blog,essay,forum,technical	wordnet	3.00	{"blog": 257.279, "essay": 25.042, "forum": 5.011, "technical": 156.761, "academic": 0.0}
+web site	website	blog,essay,forum,technical,academic	mined	4.98	{"blog": 133.587, "essay": 85.141, "forum": 40.085, "technical": 90.257, "academic": 9.761}
+web sites	websites	blog,essay,forum,technical	mined	4.95	{"blog": 14.843, "essay": 25.042, "forum": 15.032, "technical": 19.001, "academic": 0.0}
+website	web site	blog,forum,academic	mined	4.96	{"blog": 29.686, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 4.881}
+websites	web sites	blog,forum	mined	4.95	{"blog": 19.791, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+what is more	moreover	blog,essay,forum,technical,academic	wordnet	3.00	{"blog": 4.948, "essay": 65.108, "forum": 15.032, "technical": 9.501, "academic": 219.631}
+whenever	every time	blog,essay,forum,technical,academic	mined	4.99	{"blog": 69.267, "essay": 65.108, "forum": 85.18, "technical": 14.251, "academic": 4.881}
+where	in which	blog,essay,forum,technical,academic	mined	4.99	{"blog": 44.529, "essay": 55.091, "forum": 55.117, "technical": 171.012, "academic": 370.933}
+why was	how did	blog,essay,forum	mined	4.74	{"blog": 14.843, "essay": 5.008, "forum": 10.021, "technical": 0.0, "academic": 0.0}
+will you	do i	blog,essay,forum,technical	mined	4.75	{"blog": 286.965, "essay": 30.05, "forum": 95.201, "technical": 85.506, "academic": 0.0}
+woman	women who	forum	mined	4.96	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+women who	woman	blog,essay,forum	mined	4.98	{"blog": 168.221, "essay": 50.083, "forum": 180.382, "technical": 0.0, "academic": 0.0}
+work load	workload	essay,forum,academic	wordnet	3.00	{"blog": 0.0, "essay": 5.008, "forum": 20.042, "technical": 0.0, "academic": 4.881}
+work stoppage	strike	blog,essay,forum,technical	wordnet	3.00	{"blog": 14.843, "essay": 20.033, "forum": 15.032, "technical": 19.001, "academic": 0.0}
+world war ii	wwii	forum	mined	4.97	{"blog": 0.0, "essay": 0.0, "forum": 25.053, "technical": 0.0, "academic": 0.0}
+written document	papers	blog,forum,academic	wordnet	3.00	{"blog": 19.791, "essay": 0.0, "forum": 30.064, "technical": 0.0, "academic": 34.165}
+you have ever	you've	blog,essay,forum,technical	mined	4.97	{"blog": 163.273, "essay": 50.083, "forum": 255.54, "technical": 308.772, "academic": 0.0}
+you know	i tell	blog,forum	mined	4.98	{"blog": 79.163, "essay": 0.0, "forum": 75.159, "technical": 0.0, "academic": 0.0}
+you run	running	blog,essay,forum,technical,academic	mined	4.98	{"blog": 286.965, "essay": 105.175, "forum": 295.625, "technical": 427.531, "academic": 39.046}
+you want	you'd like	blog,forum,technical	mined	4.99	{"blog": 14.843, "essay": 0.0, "forum": 5.011, "technical": 47.503, "academic": 0.0}
+you've	you have ever	forum	mined	4.77	{"blog": 0.0, "essay": 0.0, "forum": 5.011, "technical": 0.0, "academic": 0.0}
+young lady	girl	blog,essay,forum,technical	wordnet	3.00	{"blog": 341.39, "essay": 40.067, "forum": 360.763, "technical": 19.001, "academic": 0.0}
+young person	youth	blog,essay,forum	wordnet	3.00	{"blog": 34.634, "essay": 45.075, "forum": 35.074, "technical": 0.0, "academic": 0.0}
+young woman	girl	blog,essay,forum,technical	wordnet	3.00	{"blog": 341.39, "essay": 40.067, "forum": 360.763, "technical": 19.001, "academic": 0.0}

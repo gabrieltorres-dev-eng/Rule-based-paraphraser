@@ -1,0 +1,12 @@
+spacy>=3.7
+lemminflect>=0.2.3
+nltk>=3.8
+gensim>=4.3
+wordfreq>=3.1
+numpy>=1.26
+scipy>=1.11
+typer>=0.12
+pytest>=8
+# optional:
+# kenlm  (pip install https://github.com/kpu/kenlm/archive/master.zip ; easier under WSL)
+# language_tool_python

@@ -1,0 +1,96 @@
+{
+ "placeholder": false,
+ "sent_len": {
+  "mean": 13.018,
+  "var": 110.036,
+  "bin_width": 5,
+  "hist": [
+   0.2606,
+   0.1722,
+   0.1828,
+   0.1531,
+   0.1021,
+   0.0571,
+   0.0318,
+   0.0181,
+   0.0103,
+   0.0119
+  ]
+ },
+ "para": {
+  "sents_mean": 1.641,
+  "sents_var": 1.231,
+  "words_mean": 21.36,
+  "words_var": 621.062,
+  "words_hist": [
+   0.6808,
+   0.2016,
+   0.0749,
+   0.0286,
+   0.0117,
+   0.0017,
+   0.0003,
+   0.0002
+  ]
+ },
+ "rates": {
+  "passive": 0.1674,
+  "adverbial_front": 0.0628,
+  "early_thesis": 0.728,
+  "contraction": 0.5568,
+  "fragment": 0.2041,
+  "emdash_per_1k": 4.245,
+  "paren_per_1k": 25.173,
+  "semicolon_per_1k": 8.144,
+  "hedge_front": 0.0073,
+  "concession_front": 0.0015,
+  "fragment_heuristic": 0.3401
+ },
+ "position": {
+  "passive": {
+   "first": 0.1287,
+   "middle": 0.2296,
+   "last": 0.2265
+  },
+  "adverbial_front": {
+   "first": 0.0518,
+   "middle": 0.0832,
+   "last": 0.0775
+  },
+  "fragment": {
+   "first": 0.0,
+   "middle": 0.1061,
+   "last": 0.0
+  }
+ },
+ "bands": {
+  "ttr": [
+   0.3682,
+   0.6333
+  ],
+  "stopword_ratio": [
+   0.3958,
+   0.6306
+  ],
+  "punct_entropy": [
+   2.2624,
+   3.8572
+  ],
+  "sent_len_var": [
+   18.0718,
+   170.6917
+  ],
+  "perplexity": [
+   404.65,
+   1429.8
+  ]
+ },
+ "meta": {
+  "words": 187262,
+  "docs": 294,
+  "sentences": 14385,
+  "paragraphs": 8767,
+  "fragment_labeled": 150
+ },
+ "register": "technical"
+}

@@ -1,0 +1,1428 @@
+ai_phrase	human_phrase	groups	count	span_sim	nli	ai_tell_z	example	sources
+and	along with	4	4	0.582	0.990	158.82	A pepperoni pizza and a salad with tomatoes and raddishes.	ds:2,hc3:1,coco:1
+it's	it is	14	14	0.794	0.994	116.86	I suppose it's all a state of mind.	ds:13,qqp:1
+it's	It is	8	8	0.794	0.998	116.86	It's not the typical relaxing Friday night, but this whole week hasn't been relaxing at all.	hc3:4,ds:4
+it's	It ' s	5	5	1.000	0.996	116.86	It's not entirely clear what causes anorexia, but it is thought to be a combination of genetic, environmental, and psychological factors.	hc3:5
+it's	This is	2	2	0.675	0.985	116.86	It's an unfortunate divergence from most other computer programs, but it has been inherent in curses since its original creation, and altering it at this point is impossible.	ds:2
+such as	like	29	29	0.695	0.998	99.73	"It was extremely silly and not particularly ""good."" Comics such as Naruto and Bleach, however?"	ds:24,mrpc:2,hc3:2,qqp:1
+such as	like the	2	2	0.598	0.995	99.73	If you do use your phone, keep in mind there are various modes such as hands-free, Bluetooth, or AirPlay.	ds:2
+i'm	I am	30	30	0.836	0.998	76.11	I'm not suicidal, but I think things would be a lot easier if I were gone.	ds:17,qqp:10,raid:3
+can be	is	17	17	0.671	0.987	62.60	Another way that black light can be produced now is through LEDs .	hc3:8,qqp:7,raid:2
+can be	are	16	16	0.605	0.977	62.60	Recent numerical studies have indicated that rapidly rotating stars with strong differential rotation can be dynamically unstable to bar-mode deformation, even when the ratio of rotational kinetic energy to gravitational potential energy is as small as O(0.01).	hc3:8,qqp:7,ds:1
+it is	Its	7	7	0.742	0.992	59.73	It is a very EXTENSIVE list, yet interesting at the same time.	ds:5,hc3:2
+it is	it's	5	5	0.794	0.974	59.73	That is why it is better to put the phone down and let social media wait before there is an accident.	ds:4,qqp:1
+it is	It's	3	3	0.794	0.996	59.73	It is the first thing they look at in the morning and the last thing they see before going to sleep.	ds:3
+it is	they are	2	2	0.574	0.976	59.73	A suspended license means you are not allowed to drive until it is reinstated.	ds:1,hc3:1
+may be	is	5	5	0.550	0.840	54.94	While ignorance may be bliss and most drivers strongly doubt that using a phone behind the wheel could cause an accident, the risk of crashes from distraction is still 400% higher.	hc3:3,qqp:1,ds:1
+i've	I have	9	9	0.842	0.978	54.91	Although I had heard about it for a while, it's only lately that I've started thinking about it seriously and making an effort to understand what it involves.	ds:8,qqp:1
+i've	I ’ ve	2	2	0.976	0.987	54.91	Ugh, I've been playing this game for 350 hours and I still feel like a complete noob.	raid:2
+can	will be able to	2	2	0.609	0.995	51.27	Subdomains under a site can set cookies on the client that apply to the entire domain.	ds:2
+can	How could	2	2	0.600	0.879	51.27	Can Donald Trump become a dictator?	qqp:2
+is a	are	16	16	0.573	0.922	50.13	What is a conspiracy theory?	qqp:16
+is a	Are	2	2	0.573	0.993	50.13	Is a perpetual motion machine theoretically possible?	qqp:2
+has	will have	2	2	0.690	0.980	48.85	Since we employ subsheaves of the sheaf of currents, we provide conditions under which a subsheaf has the same cohomology as the sheaf containing it.	ds:1,hc3:1
+its	It ' s	4	4	0.792	0.996	47.76	Its called the [ Shepard Tone ] ( URL_0 )	hc3:4
+using	the use of	4	4	0.666	0.988	46.03	The evidence demonstrates that using phones while driving turns innocent drivers into killers.	ds:4
+using	We use	4	4	0.691	0.993	46.03	Using the supergravity description of surface operators, we examine how the SL(2,Z) duality group of N=4 SYM acts on the parameters of the surface operator, and we find that this action agrees with the recent proposal of Gukov and Witten in the gauge-theory approach to geometrical Langlands with ramification.	ds:4
+using	The use of	3	3	0.666	0.990	46.03	Using a cell phone while driving is a major distraction for the driver; even a single glance at the phone lasting just one second could lead to a fatal outcome.	ds:3
+using	We have used	2	2	0.588	0.995	46.03	"Using ""Via Lactea,"" the highest-resolution simulation of Galactic cold dark matter substructure available at present, we quantified how much subhalos contribute to the annihilation signal."	ds:2
+a variety	An assortment	2	2	0.614	0.995	45.19	A variety of different kinds of vegetables on display.	coco:2
+must	have to	9	9	0.660	0.998	42.15	If you must text someone, try to reach a stopping point so you don't run any risk of being in an accident.	ds:9
+must	has to	9	9	0.638	0.995	42.15	There must be some form of restriction on texting, or any phone activity, while driving.	ds:8,mrpc:1
+must	needs to	9	9	0.683	0.995	42.15	These rules would convey the message that the nation must stay focused on the task of driving and should avoid being distracted by phone use.	ds:9
+must	need to	6	6	0.600	0.993	42.15	In conclusion, texting while driving is a serious issue and we must find ways to prevent it.	ds:6
+healthcare	health care	3	3	0.884	0.993	41.52	There are a few reasons why some Americans may be opposed to universal healthcare.	hc3:2,mrpc:1
+the united states	America	2	2	0.768	0.979	40.67	The Dow Jones Industrial Average ( often abbreviated to just ' the DOW ' ) is an index measuring the value of the 30 largest publicly traded companies in the United States .	mrpc:1,hc3:1
+several	a number of	11	11	0.566	0.990	40.58	Several cars at an intersection on a city street.	coco:6,ds:5
+several	A bunch of	10	10	0.633	0.994	40.58	Several boats tied up and sitting close to the shore	coco:10
+several	a few	9	9	0.775	0.976	40.58	Several cows laying down in the green grass in front of a factory building.	ds:5,hc3:3,coco:1
+several	A number of	5	5	0.566	0.984	40.58	Several birds flying around a square cage hanging on a pole.	coco:3,ds:1,mrpc:1
+several	A few	5	5	0.775	0.982	40.58	Several people are standing within a line of motorcycles.	coco:4,mrpc:1
+several	a couple of	5	5	0.591	0.968	40.58	Several men standing next to one another in a market area.	coco:4,ds:1
+several	There are	4	5	0.583	0.935	40.58	Several people walking down a sidewalk holding umbrellas because it is raining.	coco:4
+several	lots of	3	3	0.758	0.994	40.58	A picture of a banana plant with several unripe bananas.	coco:2,hc3:1
+several	a bunch of	3	3	0.633	0.998	40.58	Several American flags are standing in the grass.	coco:3
+united states	US	19	20	0.799	0.992	39.82	The North American Free Trade Agreement (NAFTA) is a free trade agreement between the United States, Canada, and Mexico.	hc3:9,qqp:5,mrpc:4,raid:1
+united states	USA	5	8	0.894	0.993	39.82	The United States has not declared war since World War II because after that war, the United States and other countries created a new system for dealing with conflicts between countries.	hc3:5
+impact	the effect	2	2	0.604	0.996	38.57	What would be impact on India if Donald Trump becomes President?	qqp:2
+demonstrate	we show	2	2	0.551	0.993	38.23	In this letter, we examine acceleration in the flat cosmological model with a conformally coupled phantom field and demonstrate that acceleration is a generic property of this model.	ds:2
+can cause	causes	2	2	0.733	0.853	38.07	What can cause bloody diarrhea in dogs?	qqp:2
+additionally	In addition	7	7	0.631	0.992	37.66	Additionally, using your phone behind the wheel creates a two-second distraction, which raises your likelihood of being involved in a crash.	ds:5,raid:1,mrpc:1
+use	be using	5	5	0.735	0.975	34.61	Unfortunately, people are also choosing inappropriate moments to use their phones: behind the wheel.	ds:5
+learning	to learn	3	3	0.742	0.998	34.45	I didn't really do anything in math, I started learning the waltz in gym, I think I did well on my French test, I went out for lunch, found out that this big project I have to do isn't due for another week and a half, and then...well, 7th and 8th period kind of sucked.	qqp:2,ds:1
+show that	prove	2	2	0.587	0.994	33.94	Letting $M$ denote the matrix of amplitudes of $\ket\psi$, we show that $M$ is a compact operator.	hc3:1,ds:1
+particularly	in particular	2	3	0.741	0.987	32.73	Wendell Wallach is a scholar and author who has written extensively on the ethical and societal implications of emerging technologies, particularly artificial intelligence (AI) and robotics.	hc3:1,raid:1
+approach to	method for	2	2	0.593	0.996	31.57	In this paper, we propose a novel approach to few-shot medical image segmentation using a global correlation network with discriminative embedding (GCNDE).	raid:2
+in addition	Also	4	4	0.595	0.998	30.19	In addition, a U.S. poll revealed that 40% of teenage drivers admitted to texting and driving.	ds:2,hc3:2
+in addition	Additionally	2	2	0.631	0.988	30.19	In addition, we find that by combining some of our results we obtain a method for calibrating in flux stars of unknown colour.	ds:1,mrpc:1
+health	healthy living	2	2	0.703	0.978	29.75	What's the best diet for health?	qqp:2
+they're	they are	5	5	0.846	0.962	29.09	Some people just don't care, and others are too addicted to put the phone down while they're driving.	ds:4,qqp:1
+typically	In general	3	3	0.590	0.995	28.71	Typically, they return once the relevant network buffers are full (for send) or empty (for recv), and then report how many bytes they handled.	ds:3
+typically	will usually	2	2	0.627	0.998	28.71	They feel guilty when they dominate too heavily, and typically apologize or make an effort not to flaunt it or deliberately steal kills from teammates.	hc3:1,ds:1
+typically	usually [	2	2	0.557	0.964	28.71	Drinking alcohol is ethanol , while rubbing alcohol is typically isopropyl alcohol .	hc3:2
+services	service provider	2	2	0.722	0.972	28.46	Which are the best wireless internet services in India?	qqp:2
+our results	We	3	4	0.562	0.988	27.50	Our results show that the boundary detection module is essential for improving segmentation accuracy, while the classification module provides additional improvements by refining the segmentation boundaries.	raid:3
+preheat	Pre - heat	4	5	0.877	0.996	26.99	Preheat the oven to 375°F (190°C). 7.	raid:4
+we're	we are	4	4	0.846	0.994	26.85	But tonight we're having a family get-together at my mom's, and I've volunteered to make pizza for all the kids.	ds:4
+she's	she is	2	2	0.778	0.991	26.83	Don't start anything with her; if she flirts, flirt back strongly, show her the amazing guy she's missing, and then simply walk away.	qqp:1,ds:1
+images	image segmentation	3	3	0.601	0.990	26.72	Our proposed method leverages the strengths of iterative, deep, and unsupervised learning to effectively segment SAS images.	raid:3
+to the	into	2	3	0.556	0.994	26.67	Can I make it to the IITs ?	raid:1,qqp:1
+can make	makes	2	2	0.673	0.957	25.34	So when we hug someone we care about, it can make us feel better because it helps our bodies relax and feel good.	hc3:2
+you're	you are	19	20	0.815	0.993	24.91	It's safe to use because you can still manage your driving and what you're trying to do on your device at the same time.	ds:8,qqp:8,hc3:3
+you're	You are	3	3	0.815	0.994	24.91	You're only distracting yourself when you go on social media while driving.	ds:3
+that's	that is	5	5	0.779	0.988	24.78	Whoa: that's only about a third of teenagers in the US.	ds:5
+together	to each other	2	2	0.673	0.990	24.26	Two giraffes are standing close together in the fence.	coco:2
+contribute	start contributing	2	2	0.823	0.825	23.84	As a web developer how can I contribute to open source on GitHub?	qqp:2
+has anyone	Have you	3	3	0.720	0.979	23.75	Has anyone ever seen a ghost in real life?	qqp:3
+combine the	mix together	2	2	0.650	0.998	23.64	In a shallow dish, combine the flour, paprika, salt, and pepper.	raid:2
+baking sheet	cookie sheets	2	3	0.669	0.976	23.61	Place the cut-out cookies onto the prepared baking sheet. 8.	raid:2
+supporting	to support	2	2	0.821	0.991	22.89	There is a great deal of evidence supporting why drivers should not use their phones behind the wheel.	mrpc:1,ds:1
+he's	he is	2	2	0.800	0.855	22.82	All the while, he's surrounded by his collection of collectible plastic ponies, and yes, you're damn right that's the transparent Twilight Sparkle that's ultra-rare and worth money.	ds:2
+may be able	will allow you	2	2	0.588	0.991	22.49	It may not have signal from your carrier , but it may be able to pick up signal from another carrier , which is allowed only for emergency calls .	hc3:2
+that will	that'll	2	2	0.851	0.996	22.43	I seriously doubt that will happen, but if it did, it would be pretty cool.	ds:2
+there are many	Lots of	2	2	0.605	0.986	22.01	there are many people standing on a field flying kites	coco:2
+others	other people	12	12	0.740	0.980	21.93	So why not stop worrying about what others are wearing and simply appreciate them as humans with their own beliefs, customs, and styles?	ds:9,qqp:2,mrpc:1
+caused by	due to	8	8	0.687	0.987	21.87	Because of all the accidents that have happened, April has been designated Distracted Driving Awareness Month to make the public aware of the deaths and injuries caused by distracted driving and to show that they can all be avoided.	ds:6,mrpc:1,hc3:1
+caused by	because of	2	2	0.586	0.988	21.87	Every year, a child under 18 dies in a car accident caused by texting and driving.	ds:2
+demonstrate that	prove	2	2	0.665	0.997	21.66	With this definition, we demonstrate that the monotone pattern is simpler to avoid than nearly any other pattern of the same length.	ds:2
+a number of	Several	10	10	0.566	0.988	20.53	a number of trucks on a narrow road	coco:6,ds:3,mrpc:1
+a number of	Many	2	2	0.559	0.978	20.53	a number of people laying on a beach with opened umbrellas	coco:2
+particularly in	especially	2	2	0.569	0.995	20.15	I've watched some old Pulp videos lately and he comes across as very photogenic, particularly in live footage... anyway.	ds:2
+mix together	combine	8	12	0.747	0.998	20.04	In a small bowl, mix together the olive oil, garlic, basil, parsley, oregano, salt, and pepper. 4.	raid:8
+are able to	can	3	3	0.681	0.996	19.79	The key mechanical distinction is that send, recv, connect, and accept are able to return without actually accomplishing anything.	ds:3
+investigate the	study	2	2	0.550	0.995	19.40	Inspired by a recent Hall-effect experiment on YbRh$_2$Si$_2$, we investigate the ground-state properties of a Kondo lattice model on a two-dimensional square lattice using the variational Monte Carlo method.	ds:2
+option	options available	3	3	0.775	0.960	19.35	What is the best career option for an electrical engineer who is interested in coding?	qqp:3
+within	in the	2	2	0.641	0.985	19.23	"Today, forty-seven states prohibit texting while driving, and the 15 other states that have passed hands-free legislation—requiring drivers to use hands-free technology—have experienced fewer deaths and a 16 percent drop in traffic fatalities within two years of the law's enactment (""House Bill 673- Hands-Free Law"")."	ds:2
+who are	Who's	4	4	0.677	0.994	18.90	Who are your favorite authors?	qqp:4
+a person's	someone's	4	4	0.736	0.975	18.53	A puppy rests his head on a person's shoe.	coco:3,ds:1
+earth's	earth ' s	2	2	1.000	0.994	18.46	The Earth's rotation does not cause airplanes to fly faster.	hc3:2
+discuss	talk about	2	2	0.630	0.997	18.42	I don't want to discuss it with anyone in my house because I don't want to stir up sad feelings, even though I know everyone is already thinking about it.	ds:2
+combine	mix together	2	4	0.747	0.997	18.24	In a large mixing bowl, combine the flour, baking soda, and salt. 3.	raid:2
+there's	there is	10	10	0.757	0.995	18.18	There's a black cat sitting on a bed	ds:7,qqp:2,coco:1
+there's	There is	4	4	0.757	0.993	18.18	there's a man really high in the air snow skiing	ds:3,coco:1
+make sure	ensure that	3	3	0.633	0.996	17.63	The only way to prevent this is to make sure subdomains are controlled by trusted users (or at least cannot set cookies).	ds:3
+be a	become an	2	2	0.813	0.996	17.62	I'm 24, I want to be a entrepreneur.	qqp:2
+be a	become	2	2	0.596	0.993	17.62	What does it take to be a top writer on Quora?	qqp:2
+speak with	talk to	3	3	0.668	0.996	17.58	I’m not sure, but I think I just needed to speak with a particular kind of person tonight.	ds:3
+mix together the	combine	2	3	0.734	0.997	17.50	In a small bowl, mix together the parsley, basil, mint, green grapes, lemon juice, and olive oil. 2.	raid:2
+associated with	corresponding to	3	3	0.590	0.995	17.41	Results for the $n-^{19}$C elastic cross-section at low energies also indicate the dominance of an $S$-matrix pole associated with a bound or virtual Efimov state.	ds:3
+associated with	related to	2	2	0.712	0.989	17.41	Many researchers have found that cultural similarity to the domestic market is an important determinant of entry, while others have found that market entry decisions are positively associated with country size and levels of development, trade, and infrastructure.	ds:2
+different types	kinds	2	2	0.783	0.991	17.39	Our biology teacher told us it was to do with the different types of bonds in your hair , mainly protein bonds .	hc3:2
+preheat your	Pre - heat the	3	4	0.847	0.995	16.96	Preheat your oven to 375°F (190°C). 7.	raid:3
+questions	a question	2	2	0.635	0.962	16.82	How do I write questions on Quora?	qqp:2
+a good	an	4	4	0.629	0.967	16.76	Rubber is a good insulator, which means that it does not conduct electricity well.	qqp:3,hc3:1
+a good	an effective	2	2	0.554	0.990	16.76	Was Richard Nixon a good president?	qqp:2
+bake the	Cook	2	2	0.567	0.820	16.49	Bake the steak in the preheated oven for 30-40 minutes, or until it reaches your desired level of doneness. 10.	raid:2
+working	to work	3	3	0.797	0.997	16.00	I can build the template, but I can't get the comments working.	qqp:2,ds:1
+we've	we have	2	2	0.869	0.997	15.74	Alright, we've been really busy and haven't been able to update this news.	ds:2
+founded	founder of	2	2	0.753	0.992	15.69	Sutherland is the 65-year-old computing pioneer who co-founded Evans & Sutherland , which made high-performance graphics computers .	mrpc:2
+i'll	I'm going to	9	10	0.557	0.994	15.56	He's one of the seniors I'll miss the most.	ds:9
+i'll	I will	2	2	0.794	0.997	15.56	I'll be stuck without the clan for a week.	ds:2
+consists	is composed	2	3	0.600	0.997	15.45	We found that the deviation of the vacuum refractive index consists of two components: one arising from the time dilation effect and the other from the length contraction effect.	ds:1,raid:1
+into the	in	9	13	0.691	0.950	15.29	Bake for 30-35 minutes or until a toothpick inserted into the center comes out clean.	raid:9
+into the	in a	2	2	0.617	0.994	15.29	The woman with the umbrella looks into the window.	coco:2
+a company	the companies	2	2	0.731	0.990	15.15	If a company won 't do so , its drugs could be prescribed to Medicaid patients only with the state 's say-so .	qqp:1,mrpc:1
+save	have saved	2	2	0.776	0.996	15.12	When you save a file to disk or to a USB stick , it usually is not written completely at the moment of saving .	hc3:2
+they are	they're	2	2	0.846	0.970	15.08	To my knowledge, no rule forbids this; quills are simply encouraged because they are the standard tool for wizards.	ds:1,qqp:1
+they've	they have	3	3	0.848	0.996	14.89	Even though cell phones haven't existed for very long, they've become essential to daily life.	ds:3
+flavor	flavored cigarette	2	2	0.698	0.987	14.79	Marlboro Red cigarettes are the original variety of Marlboro and are known for their strong, full flavor.	hc3:2
+make	start making	4	4	0.691	0.988	14.44	How do I make money off amazon bussiness?	qqp:4
+causes of	factors that cause	2	2	0.711	0.995	14.34	Cell phones are one of the leading causes of accidents.	ds:2
+the eggs	egg	2	2	0.831	0.995	14.33	Beat in the eggs and vanilla extract until smooth. 5.	raid:2
+which can make	making	2	2	0.574	0.992	14.22	Second, the water helps to remove some of the tar and other impurities from the smoke, which can make the smoke less harmful to the body.	hc3:2
+offering	that offer	2	2	0.678	0.991	13.16	To track who is visiting sites offering illegal downloads, the government can use similar methods, such as monitoring internet activity and working with ISPs.	hc3:1,mrpc:1
+what's	What is	291	291	0.636	0.991	0.00	What's the rationale for pairing Nyx and PL in the same lane with KotL?	qqp:290,ds:1
+what is	What's	290	290	0.636	0.995	0.00	What is the best lesson we should learn from life?	qqp:290
+a couple of	Two	157	158	0.683	0.934	0.00	a couple of giraffes are standing in a field	coco:157
+two	A couple of	138	151	0.683	0.974	0.00	Two birds stand near a nest in a marsh.	coco:138
+next to	near	72	74	0.671	0.989	0.00	A herd of cattle standing next to a wooden bridge.	coco:72
+what are	What's	66	66	0.603	0.993	0.00	What are your New Year's resolutions for 2017?	qqp:66
+what's	What are	66	66	0.603	0.995	0.00	What's your resolutions for 2017?	qqp:66
+near	next to	63	64	0.671	0.991	0.00	A herd of cows is standing near a bridge.	coco:63
+two	a couple of	58	70	0.683	0.965	0.00	Two giraffes standing in the grass near trees.	coco:56,qqp:1,ds:1
+behind the wheel	while driving	38	38	0.551	0.919	0.00	Do you text behind the wheel?	ds:38
+next to	in front of	35	36	0.578	0.987	0.00	A motorcycle parked next to a closed garage	coco:35
+in front of	next to	35	35	0.578	0.995	0.00	A motorcycle parked in front of a closed garage door.	coco:35
+two	A pair of	34	39	0.609	0.979	0.00	Two giraffes in front of a rocky mountain inside a wooden fence.	coco:34
+is	will be	33	34	0.603	0.968	0.00	For a given $z_0$, the variable $X$ is uniformly distributed along the horizontal span of the matching diagonal line.	qqp:24,ds:6,hc3:3
+sits	is sitting	31	31	0.885	0.973	0.00	A young girl sits on a bench for a picture	coco:31
+you've	you have	31	31	0.823	0.982	0.00	The downside is that the story is weak, the characters are rather irritating, and if you've played any of the other DMC games, you can predict the ending by the third level.	qqp:29,ds:2
+you have	you've	31	31	0.823	0.990	0.00	Data can be loaded by running manage.py loaddata <fixturename>, where <fixturename> refers to the fixture file you have created.	qqp:30,ds:1
+i ’ m	I'm	30	48	0.972	0.970	0.00	I’m in a reflective but happy mood.	ds:30
+is sitting	sits	29	30	0.885	0.973	0.00	A little girl is sitting on a bench for a photo	coco:29
+surf board	surfboard	29	29	0.957	0.976	0.00	A person on a surf board riding a wave on gray seas.	coco:29
+beside	next to	29	29	0.639	0.989	0.00	Two beds sitting beside each other in a room	coco:27,ds:2
+will be	is	29	29	0.603	0.981	0.00	In the REAL world , if you start the pendulum , energy will be lost from the system due to air resistance , and friction between the pendulum string and where it 's attached to .	qqp:23,hc3:5,raid:1
+a pair of	Two	28	28	0.609	0.974	0.00	A pair of giraffes exploring the inside of a habitat.	coco:28
+surfboard	surf board	28	30	0.957	0.890	0.00	A man carries a surfboard over his head with the ocean in sight.	coco:28
+a couple of	two	28	28	0.683	0.982	0.00	A couple of people on a beach with a Frisbee.	coco:27,qqp:1
+don ’ t	don't	28	44	0.966	0.991	0.00	I know this was totally boring, but people get upset if I don’t write, and then they yell at me, and… ugh.	ds:25,qqp:3
+like	such as	24	24	0.695	0.995	0.00	Being in a situation like that doesn't feel good, because you fear for your life.	ds:21,mrpc:2,qqp:1
+—	- -	23	28	0.773	0.994	0.00	Today I definitely felt like a jogger rather than a runner—I think it's because of the enormous quantity of junk (chocolate syrup, ice cream, chips, pizza, and so on) I've consumed over the last few days.	ds:20,mrpc:3
+is	are the	23	23	0.605	0.995	0.00	The age group that most frequently causes these accidents is teens and those 17 and older, who tend to act as though they have to check their phone the moment they hear a ding.	qqp:22,ds:1
+are	will be	23	23	0.578	0.985	0.00	If you provide a starting index, you get stop-start elements, and if you specify a step value, elements are skipped accordingly.	qqp:20,ds:2,hc3:1
+are the	is	21	21	0.605	0.976	0.00	Dear reader, today most people own cell phones, and here are the reasons why they shouldn't be able to use them while driving.	qqp:20,ds:1
+are	is the	21	21	0.591	0.990	0.00	Which are best books for preparation of entrance to msc forensic sciences?	qqp:21
+is the	are	21	21	0.591	0.977	0.00	Which is the best book for preparation for forensic science entrance(MSc)?	qqp:21
+inside of	in	20	20	0.646	0.991	0.00	a person standing inside of a phone booth	coco:19,hc3:1
+in which	where	20	20	0.604	0.949	0.00	Based on these three events, I'd conclude the end is nigh—especially with the arrival of that new reality show in which the US selects a contestant's future spouse.	ds:17,hc3:2,qqp:1
+will be	are	20	20	0.578	0.975	0.00	What will be the job prospects for petroleum engineers in the next 5-10 years?	qqp:20
+along with	and	19	19	0.582	0.992	0.00	An interesting article, along with the inferences drawn from the study.	ds:19
+next to	beside	17	17	0.639	0.991	0.00	two twin beds sitting next to each other in a bed room	coco:17
+a single	one	17	17	0.635	0.947	0.00	I, on the other hand, think so intensely about nothing whatsoever, or about a single thing over and over, until I work myself into a state that is simultaneously a frenzy and a daze.	ds:16,raid:1
+are	' re	17	19	0.668	0.993	0.00	The front page shows you a mix from the subs you are subscribed to .	hc3:13,mrpc:4
+are	is a	17	17	0.573	0.984	0.00	We refined it into morphine , and heroine which are better pain killers .	qqp:16,hc3:1
+a bunch of	Several	15	16	0.633	0.996	0.00	A bunch of boats tied up near a beach.	coco:15
+stands	is standing	15	15	0.760	0.987	0.00	A zebra stands in a patch of dirt in its exhibit.	coco:15
+a person	Someone	15	15	0.721	0.987	0.00	A person holding a hot dog on top of a bun.	coco:14,ds:1
+it ’ s	it's	15	15	0.971	0.994	0.00	And it’s not like she’s just going back to California; she’s going all the way back to Australia.	ds:14,qqp:1
+can ’ t	can't	15	17	0.955	0.996	0.00	I can’t type at all tonight.	ds:14,qqp:1
+how do i	What are some ways to	15	15	0.553	0.996	0.00	How do I get rid of my WhatsApp addiction?	qqp:15
+much	a lot	14	14	0.608	0.995	0.00	My Saturday could've been much more fun, but it's fine.	ds:12,hc3:2
+phone use	phones	14	15	0.778	0.979	0.00	While some may claim that any phone use can lead to a car accident, this is technically true but highly improbable and unrealistic.	ds:14
+because of	due to	14	14	0.725	0.998	0.00	You wouldn't want to hurt your child because of this dangerous thing to do.	ds:13,mrpc:1
+specifically	In particular	14	14	0.680	0.997	0.00	Specifically, the billiard chambers that describe the asymptotic cosmological behavior of pure Einstein gravity in spacetime dimension d+1, or of the metric-three-form system of 11-dimensional supergravity, turn out to be identical to the Weyl chambers of the Lorentzian Kac-Moody algebras AE_d or E_{10}, respectively.	ds:13,raid:1
+per cent	percent	14	17	0.645	0.951	0.00	Car volume fell 8 per cent , while light truck sales -- which include vans , pickups and SUVs -- rose 2.7 per cent .	mrpc:14
+percent	per cent	14	17	0.645	0.966	0.00	Car volume was down 8 percent , while light truck sales--which include vans , pickups and SUVs--rose 2.7 percent .	mrpc:14
+what are some ways to	How do I	14	14	0.553	0.988	0.00	What are some ways to get rid off addiction to WhatsApp?	qqp:14
+skateboard	skate board	13	14	0.964	0.981	0.00	A skateboarder riding a skateboard on a sidewalk.	coco:13
+someone	A person	13	13	0.721	0.985	0.00	Someone holding a hot dog with a lot of toppings on it.	coco:13
+didn ’ t	didn't	13	17	0.972	0.990	0.00	She said, “Yeah, we decided just this morning to go.” She figured Ryan had already told me, but…noooo, he didn’t.	ds:13
+rather than	instead of	13	13	0.698	0.996	0.00	I'd like to add a comments section to this page, and sadly, to do that I have to use a blog template rather than one I made myself.	ds:10,qqp:2,hc3:1
+what's	What was	13	13	0.650	0.994	0.00	What's the most interesting thing you've done this year?	qqp:13
+what was	What's	13	13	0.650	0.995	0.00	What was the best thing that you did this year?	qqp:13
+bath room	bathroom	12	12	0.754	0.816	0.00	a bath room with a mirror a sink and a bath tub	coco:12
+few	couple of	12	12	0.578	0.969	0.00	A few men holding wine bottles by some glasses.	ds:7,coco:5
+i ’ ve	I've	12	12	0.976	0.997	0.00	I’ve really missed hanging out with her.	ds:12
+as well	too	12	12	0.706	0.990	0.00	So on top of a twisted ankle, I've pulled a muscle in my back as well.	ds:11,hc3:1
+bathroom	bath room	11	12	0.754	0.921	0.00	A bathroom with a tan vanity and bathtub	coco:11
+i ’ ll	I'll	11	12	0.973	0.987	0.00	I think I’ll go try to get back to sleep for a while.	ds:11
+i am	I'm	11	11	0.836	0.996	0.00	I don't know what I'm doing tomorrow, but right now...I am DEFINITELY going to shower.	qqp:10,ds:1
+being	to be	11	11	0.755	0.997	0.00	I kind of like being a little twisted about all this.	qqp:9,ds:2
+you are	you're	11	11	0.815	0.978	0.00	If you are looking at your phone and finally glance up to see you are about to be in an accident, it would already be too late.	qqp:8,ds:3
+are	can be	11	11	0.605	0.987	0.00	We then describe new population synthesis predictions and demonstrate, as an example, that the spectra of young star clusters in M82 are reproduced very well from 0.5 to 2.4 micrometers.	qqp:7,hc3:3,ds:1
+what's the best way to	How can I	11	11	0.555	0.886	0.00	What's the best way to travel the world?	qqp:11
+hotdog	hot dog	10	10	0.910	0.993	0.00	A tray containing a hotdog, sports drink and spaghetti with meat sauce.	coco:10
+into	in to	10	11	0.807	0.995	0.00	Shirtless guy jumping off a boat into the water.	coco:4,ds:3,hc3:1,mrpc:1,qqp:1
+is standing	stands	10	10	0.760	0.991	0.00	A giraffe is standing in the dirt field.	coco:10
+many	a lot of	10	11	0.653	0.992	0.00	A made bed with many pillows and nightstands.	ds:7,coco:2,hc3:1
+snowy	snow covered	10	10	0.767	0.965	0.00	Two people in ski gear skiing down a snowy slope.	coco:10
+snow covered	snowy	10	10	0.767	0.980	0.00	A man riding skis down the side of a snow covered slope.	coco:10
+after that	Then	10	10	0.557	0.996	0.00	After that, my mom and I went shopping on Michigan Avenue—always a good time!	ds:10
+due to	because of	10	10	0.725	0.997	0.00	Last Sunday's performance wasn't very successful, partly due to the rain.	ds:9,mrpc:1
+near	close to	10	10	0.733	0.994	0.00	Now I’ll know never to even come near associating with him.	ds:9,mrpc:1
+one	a single	10	10	0.635	0.988	0.00	Based on this information and other cited sources, it is clear that one text could cause a tragic accident in a matter of seconds.	ds:10
+had been	was	10	10	0.621	0.993	0.00	If I had been distracted by my phone, I would not have been able to think quickly and avoid a collision.	mrpc:6,ds:3,qqp:1
+along with	as well as	10	10	0.586	0.997	0.00	Texting while driving is illegal in 47 U.S. states, along with the District of Columbia, Puerto Rico, the U.S.	ds:10
+to be	being	10	10	0.755	0.978	0.00	If possible, try to be careful, because money you spend on preventable careless accidents could instead go toward things like an electricity bill.	qqp:9,ds:1
+was	had been	10	11	0.621	0.956	0.00	"So I just catch fragments: ""...friend's name...accident...brain surgery..."" It turns out my friend had left on schedule and was hit by a motorcycle while crossing the street in front of his hostel."	mrpc:6,ds:2,hc3:1,qqp:1
+us	United States	10	10	0.799	0.992	0.00	It was listed as an endangered species by the US Fish and Wildlife Service (FWS) in 1990.	qqp:5,mrpc:4,hc3:1
+year resolutions	Year's resolution	10	10	0.808	0.988	0.00	What are your new year resolutions for 2017?	qqp:10
+the street	a road	9	9	0.692	0.984	0.00	We are looking at a school bus driving down the street.	coco:9
+someone	a person	9	9	0.721	0.985	0.00	Someone sitting in a recliner reading a newspaper while the television is on.	coco:5,qqp:2,hc3:1,ds:1
+is lying	laying	9	9	0.579	0.977	0.00	A small pug is lying on the top of a sofa.	coco:9
+sit	are sitting	9	10	0.782	0.990	0.00	a bunch of children sit around a dining table	coco:9
+have to	must	9	9	0.660	0.998	0.00	But now I'm super tired and have to retire to my chambers.	ds:9
+attend	go to	9	9	0.561	0.998	0.00	I truly wanted to attend this competition.	ds:7,qqp:2
+it ’ s	It's	9	10	0.971	0.993	0.00	It’s hard to feel happy for someone when you’re feeling so lousy, and you just want to tell them to shut up—and then you feel really bad about that.	ds:9
+ought to	should	9	9	0.624	0.996	0.00	Apart from that, cell phone use is dangerous and ought to be entirely prohibited worldwide.	ds:9
+–	- -	9	15	0.831	0.982	0.00	There is a different set of encodings, known as charmap encodings, that select a distinct subset of the full range of Unicode code points and define how those code points correspond to the byte values 0x0–0xff.	ds:9
+' re	are	9	9	0.668	0.983	0.00	The front page is for subs you 're subscribed to .	hc3:5,mrpc:4
+start learning	learn	9	9	0.694	0.993	0.00	What's the best way to start learning robotics?	qqp:9
+learn	start learning	9	9	0.694	0.988	0.00	What is good way to learn robotics?	qqp:9
+how should i	What is the best way to	9	9	0.650	0.972	0.00	How should I prepare for GATE 2016 EE in 5 months to get a rank below 500?	qqp:9
+what is the best way to	How should I	9	9	0.650	0.967	0.00	What is the best way to prepare for gate 2016 (EE) in 3 months?	qqp:9
+zebra	zebras are	8	8	0.851	0.986	0.00	Two zebra standing next to each other on a dirt ground.	coco:8
+are sitting	sit	8	8	0.782	0.982	0.00	some children are sitting around a table eating	coco:8
+sits	that is sitting	8	8	0.805	0.985	0.00	A boat sits on the side of a road.	coco:8
+although	Even though	8	8	0.692	0.997	0.00	Although people have habits of checking their phones, they should simply turn them off and concentrate on the road.	ds:8
+instead of	rather than	8	8	0.698	0.992	0.00	When you're behind the wheel and focused on your phone instead of the road, you're endangering everyone around you.	ds:5,qqp:2,hc3:1
+against the law	illegal	8	8	0.617	0.993	0.00	Honestly, using a cellphone while driving is against the law in most places.	ds:8
+where	in which	8	8	0.604	0.994	0.00	We did an exercise where we drew our own bodies from memory, then shared the drawings with the class and stood before a full-length mirror to compare how we saw ourselves with how others saw us.	ds:5,hc3:2,qqp:1
+saltwater	salt water	8	8	0.891	0.993	0.00	When a freshwater fish is placed in saltwater, the extra salt in the water can cause problems for the fish's body.	qqp:7,hc3:1
+this is	It ' s	8	8	0.675	0.997	0.00	This is called parallax .	hc3:8
+what's the	What is	8	8	0.578	0.990	0.00	What's the butterfly effect?	qqp:8
+what is	What's the	8	8	0.578	0.990	0.00	What is butterfly effect?	qqp:8
+many	A bunch of	7	7	0.598	0.989	0.00	Many cows are standing and lying in a field near the ocean.	coco:7
+a bunch of	Many	7	7	0.598	0.990	0.00	A bunch of cows standing and laying around in a field	coco:7
+a pair of	two	7	7	0.609	0.983	0.00	A pair of zebras grazing a field with some bushes in the background.	coco:5,hc3:2
+in to	into	7	7	0.807	0.994	0.00	A man is jumping off of a boat in to the water.	coco:4,ds:2,mrpc:1
+is holding	holds	7	7	0.808	0.991	0.00	A woman is holding a banana as if it were a phone.	coco:7
+some	There are	7	7	0.554	0.969	0.00	Some babies playing in the bath tub one holding a tooth brush.	coco:4,ds:2,hc3:1
+filled with	full of	7	7	0.613	0.996	0.00	A man pushes a cart filled with luggage.	coco:6,hc3:1
+in front	on the side	7	7	0.622	0.923	0.00	A traffic light by a tree in front of attached houses.	coco:7
+that is sitting	sits	7	7	0.805	0.984	0.00	A boat that is sitting on the side of the road.	coco:7
+zebras are	zebra	7	7	0.851	0.973	0.00	a couple of zebras are standing behind a fence	coco:7
+a lot	lots	7	7	0.787	0.980	0.00	A black cooking tray with an uncooked pizza on it, with a lot of cheese and other toppings.	ds:4,coco:2,hc3:1
+at the moment	right now	7	7	0.667	0.998	0.00	I may be drunk at the moment, or I may be onto something.	ds:7
+even though	Although	7	7	0.692	0.999	0.00	Even though we aren't exactly relaxing right now, shouldn't we at least try?	ds:7
+plenty	a lot	7	7	0.699	0.992	0.00	Occasionally yes, like a plain tight tee, but it must be paired with plenty of black. 18.	ds:7
+can i	Is it possible to	7	7	0.605	0.994	0.00	Can I make a friend on Quora?	qqp:7
+is it possible to	Can I	7	7	0.605	0.995	0.00	Is it possible to make internet friends on Quora?	qqp:7
+to learn	for learning	7	7	0.811	0.987	0.00	Which are the best books to learn piano as a beginner?	qqp:7
+for learning	to learn	7	7	0.811	0.994	0.00	What are the best books for learning piano?	qqp:7
+what is the way to	How do I	7	7	0.632	0.996	0.00	What is the way to hack WhatsApp?	qqp:7
+how do i	What is the way to	7	7	0.632	0.996	0.00	How do I hack WhatsApp online?	qqp:7
+is it possible to	Can you	7	7	0.556	0.997	0.00	Is it possible to get admission into a PhD program without a masters degree?	qqp:7
+can you	Is it possible to	7	7	0.556	0.996	0.00	Can you get a PHD without a master or an official degree?	qqp:7
+who is	Who's	7	7	0.661	0.988	0.00	Who is the most beautiful person (physically or personally) you have ever seen?	qqp:7
+who's	Who is	7	7	0.661	0.993	0.00	Who's the most beautiful person you know?	qqp:7
+hot dog	hotdog	6	6	0.910	0.995	0.00	A tray holds a hot dog, sports drink and a plate of spaghetti.	coco:6
+lady is	woman	6	6	0.709	0.990	0.00	A lady is standing behind a fruit stand that has melons, apples, and oranges.	coco:6
+full of	filled with	6	6	0.613	0.976	0.00	A man stands smiling in front of his open refrigerator full of food.	coco:6
+laying	is lying	6	6	0.579	0.979	0.00	A pug laying on the edge of a sofa.	coco:6
+snow covered ski	snowy	6	6	0.585	0.940	0.00	People riding skis on a snow covered ski slope.	coco:6
+snowy	snow covered ski	6	6	0.585	0.961	0.00	a lot of people riding skis on a snowy slope	coco:6
+holds	is holding	6	6	0.808	0.987	0.00	A woman holds a banana to her ear like a phone.	coco:6
+cell phone	cellphone	6	7	0.957	0.987	0.00	A guy taking a picture with his cell phone in a crowd of people on the street.	coco:4,ds:2
+one another	each other	6	6	0.860	0.990	0.00	Two alert giraffes standing next to one another.	ds:4,coco:1,hc3:1
+watching	looking at	6	6	0.551	0.990	0.00	A cat sitting on the arm of a chair watching a television that is turned off.	ds:3,coco:3
+every day	everyday	6	6	0.828	0.993	0.00	I notice those little things every day but mostly don’t stop to look, analyze, and draw meaningful thoughts and conclusions from everyday mundane matters.	ds:6
+chatting with	talking to	6	6	0.737	0.971	0.00	Brandon obviously didn’t call to invite me—haha—and I was chatting with Peter, who was like, “Yeah, Brandon just called and told me to come over.” So I was like… oh, cool… guess I’m not invited.	ds:6
+kind of	kinda	6	6	0.622	0.995	0.00	Yesterday I actually kind of freaked out.	ds:6
+i'd	I would	6	6	0.674	0.989	0.00	Honestly, I kind of wish I were still sick so I'd have to miss school again tomorrow.	ds:6
+that ’ s	that's	6	8	0.954	0.993	0.00	Well, if they don’t want to be, I guess that’s their choice.	ds:6
+annually	each year	6	6	0.783	0.984	0.00	According to the National Safety Council, cell phone use behind the wheel causes 1.6 million crashes annually.	ds:5,mrpc:1
+to make	for making	6	6	0.825	0.974	0.00	Whether it's to make a quick call, send a brief message, or even type a location into the GPS, pull over, because anything can happen in the blink of an eye.	qqp:5,ds:1
+there is	there's	6	6	0.757	0.973	0.00	Additionally, it can be used for traffic reports—if there is heavy traffic or a wreck, you can call for help.	ds:4,qqp:2
+has to	must	6	6	0.638	0.996	0.00	The whole village has to share it and gather as much water as possible during that window for drinking, bathing, and all their other needs.	ds:4,hc3:1,mrpc:1
+it ' s	This is	6	6	0.675	0.976	0.00	It 's because singing requires that you stagger your syllables and alter the pitch of your voice to fit with the melody .	hc3:6
+how can i	Is there a way to	6	6	0.673	0.997	0.00	How can I get a domain for free?	qqp:6
+year's resolution	Year resolutions	6	6	0.808	0.985	0.00	What's your New Year's resolution for 2017?	qqp:6
+you've ever	you have	6	6	0.628	0.905	0.00	What's the laziest thing you've ever done?	qqp:6
+living	to live	6	6	0.777	0.997	0.00	What is it like living in South Africa?	qqp:6
+to live	living	6	6	0.777	0.996	0.00	What's it like to live in South Africa?	qqp:6
+saut é	saute	6	6	0.656	0.980	0.00	Add the diced onion and sauté until softened, about 5 minutes.	raid:6
+two	a pair of	5	5	0.609	0.983	0.00	two people riding on top of two elephants	coco:3,hc3:2
+are standing	stand	5	5	0.781	0.990	0.00	Three zebras are standing in the tall grass.	coco:5
+woman	lady is	5	5	0.709	0.993	0.00	A woman standing in front of an orange and apple stand.	coco:5
+stand	are standing	5	5	0.781	0.989	0.00	Two men stand near a table holding pizza and beers.	coco:5
+toothbrush	tooth brush	5	6	0.908	0.987	0.00	A young boy is brushing his teeth with a blue toothbrush.	coco:4,hc3:1
+at the	in	5	6	0.591	0.971	0.00	A man is standing at the front of a room and the people in the audience have their laptops and cell phones out.	coco:2,ds:2,raid:1
+zebra	zebras that are	5	5	0.851	0.992	0.00	a herd of zebra standing next to each other.	coco:5
+kids	young children	5	5	0.727	0.961	0.00	Two kids sitting at a table eating a meal.	coco:5
+cellphone	cell phone	5	6	0.957	0.990	0.00	A man taking a picture with his cellphone in a large group of people.	coco:5
+women who is	woman	5	5	0.731	0.968	0.00	A women who is walking outside in the snow.	coco:5
+on the side	in front	5	5	0.622	0.966	0.00	A traffic light sitting next to a tree on the side of a street.	coco:5
+a trio of	Three	5	5	0.693	0.983	0.00	A trio of adult giraffes are accompanied by one immature giraffe.	coco:5
+three	A trio of	5	7	0.693	0.985	0.00	Three adult giraffes and one baby giraffe in a zoo enclosure.	coco:5
+grassy	grass covered	5	5	0.708	0.963	0.00	a couple of zebras are in a grassy field	coco:5
+cellphones	cell phones	5	7	0.927	0.992	0.00	A man and woman looking at each other while on cellphones.	ds:4,coco:1
+a person	someone	5	5	0.721	0.985	0.00	a person laying down with a cat watching tv	coco:3,qqp:1,ds:1
+dressed in	wearing	5	5	0.822	0.992	0.00	A small dog dressed in a colorful outfit looks out a car window.	coco:4,ds:1
+i've got	I have	5	5	0.640	0.998	0.00	I've got my own problems to deal with.	ds:5
+i ’ d	I'd	5	5	0.964	0.996	0.00	I’d rather have my brother here, honestly.	ds:5
+won ’ t	wont	5	5	0.820	0.995	0.00	I’m kind of sad that I won’t get to see anyone this weekend.	ds:5
+isn ’ t	isn't	5	5	0.966	0.991	0.00	Tonight I get to go out to dinner for my brother’s birthday, which technically isn’t until Thursday.	ds:5
+you ’ re	you're	5	6	0.967	0.980	0.00	You know who it is, and if you don’t, you’re just not cool… XOXO	ds:5
+many	A lot	5	5	0.644	0.995	0.00	Many of the occupational and physical therapy spots are already filled by college students who need hours, but somehow she found time for me to work in pediatrics.	ds:4,hc3:1
+doesn ’ t	doesn't	5	6	0.972	0.997	0.00	But reality apparently doesn’t like me much.	ds:5
+shouldn ’ t	shouldn't	5	5	0.972	0.993	0.00	I suppose I shouldn’t be such an impatient American.	ds:4,qqp:1
+wouldn ’ t	wouldn't	5	5	0.974	0.994	0.00	I was just hoping it wouldn’t happen.	ds:5
+’ ll	will	5	5	0.694	0.991	0.00	I’m sure it’ll be enjoyable.	ds:5
+other people	others	5	5	0.740	0.962	0.00	When will people understand that using any cellular device while driving is such a dangerous distraction that it could cost other people their lives, as well as their own?	qqp:2,ds:2,mrpc:1
+many	A lot of	5	5	0.653	0.996	0.00	Many signs have been observed that people ignore as well.	ds:5
+every	all the	5	5	0.619	0.988	0.00	Some drivers eat, smoke, or drink while driving, so cell phones cannot be blamed for every car accident.	ds:5
+cell phone	cellular device	5	5	0.741	0.986	0.00	Heavy fines and serious penalties may result when a cell phone is used in a state where it is prohibited.	ds:5
+accidents	an accident	5	5	0.798	0.937	0.00	Many people have been killed in accidents because some careless person chooses to drive and text, taking their eyes off the road.	ds:5
+’ re	are	5	5	0.657	0.980	0.00	When you drive, you’re driving for everyone.	ds:4,qqp:1
+attended	went to	5	5	0.566	0.997	0.00	Even though she attended church at a much younger age (roughly eight to eleven), she ultimately became an atheist at a far younger age than I did.	ds:5
+before	prior to	5	7	0.725	0.977	0.00	The hat was initially given in Vintage quality to a limited but unspecified number of players who were members of the KritzKast Steam Group before 7pm (GMT+1) on June 12th, 2011—one hour ahead of the live recording of podcast episode #121.	qqp:1,ds:1,mrpc:1,raid:1,hc3:1
+returns	will return	5	5	0.646	0.973	0.00	Generally in Python (and always in the standard library), a method that changes an object returns None, which helps prevent confusion between these two kinds of operations.	ds:5
+is	should be	5	5	0.551	0.949	0.00	For guidance on selecting branch cuts appropriately for numerical work, a good reference is the following:	qqp:3,hc3:1,ds:1
+at the same time	simultaneously	5	5	0.735	0.993	0.00	Typically the main challenge is figuring out which methods are available on which types in both Python 2 and 3 at the same time (for text, that's unicode in Python 2 and str in Python 3; for binary, that's str/bytes in Python 2 and bytes in Python 3).	qqp:3,ds:2
+near	in the vicinity of	5	5	0.688	0.986	0.00	We examine the recently uncovered relationship between chaos and symmetry in the generic inhomogeneous solution of various string-related Einstein-matter systems near a cosmological singularity.	ds:5
+resembling	similar to	5	5	0.632	0.988	0.00	"As an initial application, we successfully reproduced variability resembling that seen in the puzzling ""orphan"" TeV flares, which occur without a matching X-ray flare."	ds:5
+have	' ve	5	6	0.766	0.958	0.00	This has probability 1 since , if we have rolled a 4 , we have a heads with complete certainty .	mrpc:4,hc3:1
+you have ever	you've	5	5	0.633	0.983	0.00	Where or what is the strangest place you have ever had sex?	qqp:5
+you've	you have ever	5	5	0.633	0.983	0.00	Where is the oddest place you've had sex?	qqp:5
+is there a way to	How can I	5	5	0.673	0.997	0.00	Is there a way to get a domain for free?	qqp:5
+salt water	Saltwater	5	5	0.891	0.988	0.00	Why is salt water taffy candy unknown in Japan?	qqp:5
+happens	would happen	5	5	0.575	0.989	0.00	What happens if a war between India and Pakistan were to take place?	qqp:5
+would happen	happens	5	5	0.575	0.992	0.00	What would happen if Pakistan declared war on India today?	qqp:5
+for making	to make	5	5	0.825	0.996	0.00	What is the best way for making money online?	qqp:5
+rupee	rupees currency	5	5	0.840	0.982	0.00	What is your view on the move to scrap 500 and 1000 rupee notes?	qqp:5
+rupees currency	rupee	5	5	0.840	0.986	0.00	What's your opinion about the decision on removal of 500 and 1000 rupees currency notes?	qqp:5
+what ’ s	What's	5	5	0.939	0.993	0.00	What’s the best way to learn Japanese?	qqp:5
+what's	What ’ s	5	5	0.939	0.966	0.00	What's the fastest way to learn Japanese?	qqp:5
+will happen	happens	5	5	0.586	0.932	0.00	What will happen after I die?	qqp:5
+what's are	What is	5	5	0.697	0.993	0.00	What's are your resolutions for 2017?	qqp:5
+what is	What's are	5	5	0.697	0.995	0.00	What is your resolution for 2017?	qqp:5
+are the differences	is difference	5	5	0.834	0.980	0.00	What are the differences between Hindustani classical music and Carnatic music?	qqp:5
+is difference	are the differences	5	5	0.834	0.974	0.00	What is difference between Hindustani and Carnatic music?	qqp:5
+you have	you've ever	5	5	0.628	0.843	0.00	What is the laziest thing you have done which nothing can compete with in laziness?	qqp:5
+what's	What does	5	5	0.581	0.993	0.00	What's it like to kill someone in combat?	qqp:5
+what does	What's	5	5	0.581	0.992	0.00	What does it feel like to kill someone in a war?	qqp:5
+is there any way to	How can I	5	5	0.669	0.995	0.00	Is there any way to recover an e-mail in Gmail after it's deleted from the trash?	qqp:5
+how can i	Is there any way to	5	5	0.669	0.995	0.00	How can I recover my old mail from a Gmail account?	qqp:5
+was the	is	5	5	0.563	0.994	0.00	What was the best gift I should give to my gf on her birthday?	qqp:5
+is	was the	5	5	0.563	0.989	0.00	What is best gifts to give my girlfriend on her birthday?	qqp:5
+is walking	walks	4	4	0.793	0.990	0.00	A sheered sheep is walking away from a pile of its wool.	coco:4
+a vintage	An old	4	5	0.747	0.986	0.00	A vintage red truck on display at a car show.	coco:4
+an old	A vintage	4	5	0.747	0.995	0.00	An old red truck at what appears to be an antique show.	coco:4
+some	A few	4	4	0.755	0.961	0.00	Some cows are grazing on grasses and having great time.	coco:4
+a few	Some	4	4	0.755	0.962	0.00	A few cows grazing and eating grass in a field.	coco:3,ds:1
+a trick	tricks	4	4	0.747	0.952	0.00	A man doing a trick on a skateboard by a graffiti wall.	coco:4
+tricks	a trick	4	4	0.747	0.964	0.00	A man doing tricks on a skateboard in front of a graffiti wall.	coco:4
+lays	that is laying	4	4	0.664	0.952	0.00	A man lays on a couch with a bird and a dog.	coco:4
+giraffe	giraffes are	4	4	0.850	0.967	0.00	A group of three giraffe walking across a field.	coco:4
+giraffes are	giraffe	4	4	0.850	0.973	0.00	Three giraffes are walking in a field.	coco:4
+young children	kids	4	4	0.727	0.963	0.00	Two young children sitting at a table eating food.	coco:4
+their phones	the phone	4	4	0.692	0.967	0.00	Two people sitting in a room talking on their phones.	ds:3,coco:1
+takes	is taking	4	4	0.709	0.992	0.00	A small airplane takes off from the runway.	coco:4
+on the side of	next to	4	4	0.551	0.981	0.00	A silver and red fire hydrant on the side of a street.	coco:4
+stands on	standing in	4	4	0.729	0.946	0.00	A cow stands on the side of a crowded street.	coco:4
+lays down	laying	4	4	0.821	0.962	0.00	A big black bear lays down in a lush green open field	coco:4
+base ball	baseball	4	4	0.584	0.975	0.00	A base ball player in red is holding a bat.	coco:4
+racket	tennis racquet	4	4	0.690	0.927	0.00	A little boy on a tennis court hitting a tennis ball with a racket.	coco:4
+tennis racquet	racket	4	4	0.690	0.936	0.00	A young boy hitting a tennis ball with a tennis racquet.	coco:4
+rides	is riding	4	4	0.779	0.991	0.00	A man rides a small bicycle next to a crowd.	coco:4
+is riding	rides	4	4	0.779	0.984	0.00	A man is riding a tiny chrome bicycle among a crowd.	coco:4
+on to	onto	4	4	0.564	0.984	0.00	a teddy bear holding on to a leg	coco:4
+onto	on to	4	4	0.564	0.980	0.00	A teddy bear holding onto a girls leg	coco:3,ds:1
+image of	photo shows	4	4	0.588	0.996	0.00	A black and white image of two elephants.	coco:4
+photo shows	image of	4	4	0.588	0.996	0.00	this black and white photo shows two elephants walking past each other	coco:4
+women	a woman	4	4	0.557	0.963	0.00	A man and women walking along a boat dock with a dog.	qqp:3,coco:1
+grass covered	grassy	4	4	0.708	0.980	0.00	A couple of zebra grazing on top of a grass covered field.	coco:4
+a few	several	4	5	0.775	0.984	0.00	a man drinking a drink with a few hot dogs out front of him	ds:2,coco:1,hc3:1
+cell phones	cellphones	4	4	0.927	0.989	0.00	A man and woman gazing at each other while speaking on cell phones.	ds:3,coco:1
+a road	the street	4	4	0.692	0.976	0.00	A couple of parking meters sitting on the side of a road.	coco:4
+a few	Several	4	5	0.775	0.881	0.00	A few boats parked in a marine filled with water.	coco:3,mrpc:1
+a close up	Closeup	4	4	0.789	0.988	0.00	a close up of a pizza on a pan	coco:4
+a kite	kites	4	4	0.874	0.874	0.00	Four people on a grassy field with a kite.	coco:4
+being flown	flying	4	4	0.854	0.994	0.00	Several kites being flown on a wide beach.	coco:4
+wearing	dressed in	4	4	0.822	0.990	0.00	A dog wearing a life vest riding a surfboard in the water.	coco:4
+pair of	Two	4	4	0.594	0.972	0.00	Pair of men sit outside, one eating a hot dog.	coco:4
+the road	a street	4	4	0.688	0.976	0.00	A red truck that is driving down the road.	coco:4
+skateboarding	riding a skateboard	4	4	0.827	0.962	0.00	A man skateboarding on the side of a cement block.	coco:4
+deckered	- decker	4	4	0.746	0.980	0.00	a double deckered bus on a city street	coco:4
+a woman	women	4	4	0.557	0.954	0.00	A man and a woman laying on a bed watching a video on a computer.	qqp:3,coco:1
+there are	There's	4	4	0.747	0.992	0.00	There are so many people out late—it’s great.	ds:4
+wasn ’ t	wasn't	4	4	0.970	0.995	0.00	I was worried it might be awkward, but it wasn’t at all.	ds:4
+similar to	like	4	4	0.638	0.997	0.00	The plan, similar to much of what the company has in the works, remains confidential.	qqp:2,ds:2
+passed away	died	4	5	0.700	0.996	0.00	Also, my great uncle Al passed away a few days ago.	ds:2,raid:2
+he ’ s	he's	4	4	0.980	0.971	0.00	Aw, there’s this really, really nice guy I know, and he says nice things to me a lot, and he’s like… my favorite.	ds:4
+want to	wanna	4	4	0.692	0.998	0.00	Oh well, I don’t really want to talk or write about it anymore.	ds:4
+the majority	most	4	4	0.644	0.998	0.00	I was sick for the majority of it, but Friday was nice.	ds:4
+a lot	alot	4	10	0.774	0.972	0.00	Movin' to the country, gonna eat a lot of peaches, I'm movin' to the country, gonna eat me a lot of peaches, Movin' to the country, gonna eat a lot of peaches, Movin' to the country, gonna eat a lot of peaches.	ds:2,qqp:2
+to have	having	4	4	0.727	0.995	0.00	It's nice to have this year over with.	qqp:2,hc3:1,ds:1
+right away	immediately	4	4	0.666	0.994	0.00	If you’d like, you can use a design for your own website (in which case you should save it right away, since once you leave the page, you’ll never be able to retrieve that same design again).	ds:4
+’ m	am	4	5	0.648	0.982	0.00	It makes me realize how much I want it, and how much I’m willing to work for it.	ds:4
+’ ve	have	4	4	0.733	0.983	0.00	I suppose I could’ve been sensible and stayed in tonight and gone to bed around 7:00, but no...I ended up at John’s house.	qqp:2,ds:2
+simultaneously	at the same time	4	4	0.735	0.987	0.00	Even when doing something appropriate with a cell phone while driving, a person only places themselves in greater danger by attempting to use it and keep focus on the road simultaneously.	qqp:3,ds:1
+at risk	in danger	4	4	0.715	0.996	0.00	Even something as minor as switching songs on your phone can put you at risk.	ds:4
+annually	a year	4	4	0.603	0.955	0.00	Yet if people took the time to research, they would learn that roughly 3,287 people die each day from crashes and 1.25 billion people die annually from phone-related incidents.	ds:3,mrpc:1
+once	the same time	4	4	0.562	0.996	0.00	Given everything drivers must pay attention to on the road, it is nearly impossible to do both at once.	ds:2,hc3:1,qqp:1
+like	similar to	4	4	0.638	0.996	0.00	However, the majority of programs like Drivesafe mode require the user to activate them.	ds:2,qqp:2
+in use	being used	4	4	0.652	0.965	0.00	The characters right after the ? specify which extension is in use, so (?=foo) denotes one thing (a positive lookahead assertion) while (?:foo) denotes another (a non-capturing group containing the subexpression foo).	ds:4
+an ideal	a perfect	4	4	0.582	0.993	0.00	I'm posting the opposing view here because I think you shouldn't be searching for a different type of guitar or an ideal strap height.	ds:4
+reads and writes of	read / write for	4	4	0.804	0.988	0.00	The purpose of `volatile` is only to guarantee that reads and writes of *that instance variable* are communicated properly between threads and ordered correctly within them.	ds:4
+prior to	before	4	4	0.725	0.990	0.00	Unless the MIGRATE test setting is False, any pending migrations will be applied to the test database prior to running the test suite.	ds:2,qqp:1,hc3:1
+most recent	latest	4	4	0.765	0.993	0.00	It additionally provides various utilities that assist with debugging scripts, and the most recent addition is support for file uploads from a form (provided your browser supports it).	ds:4
+findings indicate	results suggest	4	4	0.554	0.998	0.00	Our findings indicate a decrease in the performance benefits provided by random network coding.	ds:4
+close to	near	4	4	0.733	0.977	0.00	The way these spin oscillations change with magnetic field exhibits a distinct nonlinear signature, consistent with theory, which further predicts anharmonic oscillations close to a critical magnetic field.	ds:3,mrpc:1
+an additional	another	4	4	0.596	0.986	0.00	Beyond the shift caused by dielectric screening, an additional shift was observed, causing the ($2n+m$)-family patterns to spread more widely, resembling the shift induced by uniaxial stress.	raid:2,mrpc:1,ds:1
+' ll	will	4	4	0.700	0.961	0.00	If I use a higher power rifle that shoots bullets faster , it 'll go farther before hitting the ground .	hc3:3,mrpc:1
+should be	is	4	4	0.551	0.985	0.00	In theory any game should be moddable , but it can be extremely difficult / dangerous to do without a clear objective or process .	qqp:3,hc3:1
+' ve	have	4	5	0.766	0.978	0.00	""" We 've put a lot of effort and energy into improving our patching progress , probably later than we should have ."	mrpc:4
+start making	make	4	4	0.691	0.989	0.00	How do I start making money off of amazon?	qqp:4
+who's	Who are	4	4	0.677	0.993	0.00	Who's your favorite author and why?	qqp:4
+year's resolution	year resolutions	4	4	0.808	0.985	0.00	What's your New Year's resolution for 2017?	qqp:4
+what's the easiest way to	How do I	4	4	0.592	0.952	0.00	What's the easiest way to make money online?	qqp:4
+prepare	start preparing	4	4	0.693	0.987	0.00	How do I prepare for the IAS exam at home?	qqp:4
+start preparing	prepare	4	4	0.693	0.971	0.00	If I start preparing for IAS exam 2016 now, how can I achieve it?	qqp:4
+presidential election	presidency	4	4	0.702	0.989	0.00	How did Donald Trump win the Presidential election?	qqp:4
+are some examples	is an example	4	4	0.799	0.942	0.00	What are some examples of mass cultural theory?	qqp:4
+is an example	are some examples	4	4	0.799	0.944	0.00	What is an example of mass culture theory?	qqp:4
+how can you	Is it possible to	4	4	0.571	0.990	0.00	How can you choose what to dream?	qqp:4
+years resolutions	Year's resolution	4	4	0.803	0.989	0.00	What are your New Years resolutions for 2017?	qqp:4
+year's resolution	Years resolutions	4	4	0.803	0.986	0.00	What will be your New Year's resolution for 2017?	qqp:4
+bicycle is	bike	3	3	0.789	0.988	0.00	A solid white bicycle is parked next to statues on a sidewalk.	coco:3
+giraffe	giraffes that are	3	3	0.864	0.946	0.00	A couple of giraffe standing on a grass covered hillside.	coco:3
+sits on	is sitting in	3	3	0.791	0.959	0.00	A large owl sits on the branch of a pine tree looking straight ahead.	coco:3
+stops	is stopped	3	3	0.786	0.993	0.00	A train stops at a station in the country.	coco:2,hc3:1
+there are	Several	3	3	0.583	0.965	0.00	There are people on a sidewalk holding umbrellas	coco:3
+are riding	ride	3	3	0.747	0.987	0.00	Several men in uniform are riding horses in a park.	coco:3
+holds	that is holding	3	3	0.768	0.984	0.00	A man holds open a box of pizza that's stacked on top of other boxes of pizza.	coco:3
+that is holding	holds	3	3	0.768	0.964	0.00	A man that is holding open a box of pizza.	coco:3
+taking a swing at	hitting	3	3	0.576	0.943	0.00	A woman taking a swing at a tennis ball	coco:3
+plays	is playing	3	3	0.811	0.969	0.00	A child plays in water sprayed on to a city street	coco:2,hc3:1
+a couple of zebra	Two zebras	3	3	0.927	0.966	0.00	A couple of zebra standing next to each other on a field.	coco:3
+two zebras	A couple of zebra	3	3	0.927	0.951	0.00	Two zebras standing next to each other in a field	coco:3
+riding	surfing on	3	3	0.557	0.965	0.00	A woman riding a wave on top of a surfboard.	coco:3
+a lot of	many	3	3	0.653	0.995	0.00	A bed with a lot of pillows and covered in a comforter.	coco:2,ds:1
+an	there is a	3	3	0.592	0.987	0.00	An old Apple computer with keyboard and a mouse.	coco:3
+there is a	An	3	3	0.592	0.988	0.00	there is a old computer with a keyboard and a mouse	coco:3
+inside the	in a	3	3	0.662	0.991	0.00	A couple of bikes parked inside the bike rails.	coco:2,hc3:1
+the tracks	a track	3	3	0.778	0.970	0.00	A red moden trolly train is on the tracks.	coco:3
+crowd	large group	3	3	0.586	0.990	0.00	A guy taking a picture with his cell phone in a crowd of people on the street.	coco:3
+brushes	is brushing	3	3	0.667	0.991	0.00	A woman brushes her hair in front of a mirror.	coco:3
+is brushing	brushes	3	3	0.667	0.991	0.00	A woman is brushing her hair near a mirror.	coco:3
+sitting at	sit around	3	3	0.743	0.972	0.00	People sitting at a round dinner table with plates of food and water glasses.	coco:3
+sit around	sitting at	3	3	0.743	0.976	0.00	People sit around a round table with plates of food and water and wine glasses.	coco:3
+someone is	A person	3	3	0.719	0.980	0.00	Someone is riding their bike on the beach at sunset	coco:3
+an airplane	a plane	3	3	0.862	0.944	0.00	A set of of stairs leading into an airplane.	coco:2,qqp:1
+an airplane	A plane	3	3	0.862	0.987	0.00	An airplane in the middle of a grassy field.	coco:3
+a plane	An airplane	3	3	0.862	0.988	0.00	A plane taking off from a runway into the sky.	coco:3
+is taking	takes	3	3	0.709	0.993	0.00	An airplane is taking off from an airport.	coco:2,hc3:1
+next to	on the side of	3	3	0.551	0.971	0.00	a fire hydrant next to a street in the snow	coco:3
+crossing	walking across	3	3	0.727	0.944	0.00	A black bear crossing a body of water in the wild.	coco:2,ds:1
+laying	lays down	3	4	0.821	0.976	0.00	Large brown bear laying in a sunny field.	coco:3
+in a	into	3	3	0.612	0.934	0.00	a brown bear with wet fur walking in a grass field.	qqp:1,raid:1,coco:1
+lady	A woman	3	3	0.612	0.982	0.00	Lady on the beach about to catch a Frisbee.	coco:3
+prepares	getting ready	3	3	0.563	0.995	0.00	A girl prepares to throw a frisbee in a green lawn.	coco:3
+getting ready	prepares	3	3	0.563	0.994	0.00	A girl getting ready to throw a frisbee	coco:3
+riding skis	skiing	3	3	0.826	0.962	0.00	A group of people riding skis down a snow covered slope.	coco:3
+skiing	riding skis	3	3	0.826	0.956	0.00	a group of people skiing down a snow covered slope	coco:3
+a few	some	3	3	0.755	0.957	0.00	A few people are relaxing at the beach by some surfboards.	coco:2,ds:1
+the ball	a pitch	3	3	0.603	0.910	0.00	A baseball player grips the bat and waits for the ball.	coco:3
+lots of	many	3	3	0.779	0.991	0.00	A vase filled with lots of flowers near a window.	coco:3
+many	lots of	3	3	0.779	0.990	0.00	a close up of a vase with many flowers in it	coco:2,ds:1
+sit at	sitting around	3	3	0.791	0.972	0.00	Several people sit at a wooden table with drinks on it.	coco:3
+a	An all	3	5	0.728	0.969	0.00	A white bathroom with a toilet, sink, mirror and shower curtain.	coco:3
+giraffes that are	giraffe	3	3	0.864	0.976	0.00	a couple of giraffes that are standing next to atree	coco:3
+two giraffes are	A couple of giraffe	3	3	0.946	0.892	0.00	Two giraffes are standing under a tree back to back.	coco:3
+pulls	is pulling	3	3	0.793	0.994	0.00	A train pulls into the station during the day.	coco:3
+is pulling	pulls	3	3	0.793	0.994	0.00	A train is pulling into a train station.	coco:3
+zebras	zebra standing	3	3	0.761	0.892	0.00	A small herd of zebras on the plains.	coco:3
+two zebras are	A couple of zebra	3	3	0.926	0.945	0.00	Two zebras are walking down a pink concrete terrain.	coco:3
+two zebras that are	A couple of zebra	3	3	0.921	0.971	0.00	Two zebras that are standing in the dirt.	coco:3
+a surfboard	his surf board	3	3	0.837	0.954	0.00	A shirtless man carrying a surfboard out of the water	coco:3
+sitting in	sit on	3	3	0.746	0.976	0.00	Two little girls sitting in the grass with toys.	coco:3
+plane	airplane is	3	3	0.717	0.989	0.00	a blue and yellow plane flying in the air.	coco:3
+looking at	watching	3	3	0.551	0.990	0.00	Small boy with red shirt and purple hat looking at a brown bear.	coco:3
+an assortment	A variety	3	3	0.614	0.994	0.00	An assortment of different types of vegetables piled on top of each other.	coco:3
+snow covered slope	snowy hill	3	3	0.625	0.979	0.00	A man riding a snowboard down a snow covered slope.	coco:3
+snowboards	is snowboarding	3	3	0.814	0.990	0.00	A person snowboards down a hill in the winter.	coco:3
+holding up	holds	3	3	0.767	0.973	0.00	A woman holding up a laptop computer in a classroom.	coco:3
+holds	holding up	3	3	0.767	0.966	0.00	A woman holds a laptop in front of a chalkboard of a classroom full of students.	coco:3
+very large	huge	3	3	0.744	0.995	0.00	A man is showing off two very large donuts.	coco:2,ds:1
+standing	stand together	3	3	0.764	0.971	0.00	Giraffes standing in an area of dry grass and small trees.	coco:3
+that is standing	stands	3	3	0.695	0.976	0.00	A bear that is standing in the grass.	coco:3
+a bunch	The group	3	3	0.566	0.992	0.00	A bunch of zebras drinking water from some body of water.	coco:3
+the group	A bunch	3	3	0.566	0.995	0.00	The group of zebras are drinking water together.	coco:3
+surfing	riding a surfboard	3	3	0.735	0.973	0.00	A man surfing on an ocean with a white surf board.	coco:3
+his surf board	a surfboard	3	3	0.837	0.981	0.00	A boy surfing waves on his surf board.	coco:3
+a picture	the camera	3	3	0.678	0.975	0.00	Four players posing for a picture on a tennis court.	coco:3
+couple of	few	3	3	0.578	0.974	0.00	a couple of men are sitting around glasses of wine	coco:3
+a track	the tracks	3	3	0.778	0.982	0.00	a train on a track near many trees	coco:3
+vintage	An old	3	3	0.588	0.969	0.00	Vintage red truck parked on a parking lot alone.	coco:3
+many	a bunch of	3	3	0.598	0.993	0.00	Many cows standing side by side in a field.	coco:2,ds:1
+preparing	getting ready	3	3	0.726	0.997	0.00	A man standing next to a woman preparing to throw a Frisbee.	coco:3
+getting ready	preparing	3	3	0.726	0.997	0.00	A woman getting ready to throw a Frisbee around a man.	coco:3
+near a	at the	3	3	0.550	0.962	0.00	two people sitting on a bench near a beach	coco:3
+that is laying	lays	3	3	0.664	0.952	0.00	A man that is laying down on a surfboard in the water.	coco:3
+really big	large	3	3	0.760	0.988	0.00	someone that is flying a really big kite	hc3:2,coco:1
+little	A small	3	3	0.649	0.985	0.00	Little boy with orange Frisbee in hand entering a play area.	coco:3
+two	Pair of	3	3	0.594	0.972	0.00	Two men sit while one of them eats a hot dog.	coco:3
+women who	woman	3	3	0.612	0.990	0.00	A women who is looking at her cell phone.	coco:3
+hotdogs	hot dogs	3	3	0.883	0.994	0.00	A meal of hotdogs and veggies on a dish.	coco:3
+hot dogs	hotdogs	3	3	0.883	0.993	0.00	A meal of hot dogs and stuffed vegetables	coco:3
+zebras that are	zebra	3	3	0.851	0.980	0.00	A couple of zebras that are standing in the grass.	coco:3
+riding a skateboard	skateboarding	3	3	0.827	0.962	0.00	A man riding a skateboard on the side of a cement rail.	coco:3
+cop	police officer	3	3	0.729	0.988	0.00	A cop riding a horse through a city neighborhood.	coco:3
+woman	women who is	3	3	0.731	0.954	0.00	A woman jumping in the air on a rainy day with an open umbrella.	coco:3
+gets	is getting	3	3	0.612	0.994	0.00	A person gets ready to mount their bicycle.	coco:3
+is getting	gets	3	3	0.612	0.992	0.00	This person is getting ready to ride a bicycle.	coco:3
+a baseball	the ball	3	3	0.695	0.978	0.00	A baseball player hitting a baseball with a bat.	coco:3
+i'm sure	I bet	3	3	0.626	0.983	0.00	Though, I'm sure I'll make a complete fool of myself.	ds:3
+that ’ s	That's	3	3	0.954	0.984	0.00	Hopefully my brother is coming to fix it this weekend. :) It’s also Maureen’s last weekend, which is really sad. :( That’s not cool at all.	ds:3
+there are	there's	3	3	0.747	0.916	0.00	Oh crap, I forgot one (actually there are plenty more, but that's beside the point)....	ds:3
+going to	gonna	3	4	0.618	0.995	0.00	On Saturday I'm going to hang out with Jane and her friend Spero, so I know I'm going to have fun.	ds:2,mrpc:1
+he ’ d	he'd	3	3	0.983	0.977	0.00	I wish he’d act more like a section leader, and Tom won’t stop talking.	ds:3
+i have	I've got	3	3	0.640	0.998	0.00	Tomorrow I have a whole lot of things to do and I have to wake up early.	ds:3
+had	would have	3	3	0.695	0.997	0.00	We played three games for money—each of us had to put in ten dollars for the first game, then five dollars for the games on the other nights.	ds:3
+i was	I'm	3	3	0.580	0.989	0.00	"At the football game, this guy named Adam recognized me, and I was just like, ""gosh, I know I recognize you, but who are you??"" He's at my house ALL the time."	ds:3
+it'll	It will	3	3	0.891	0.997	0.00	It'll be a new experience, but I don't think it will be fun at all.	ds:2,raid:1
+a while	awhile	3	3	0.797	0.969	0.00	Like.. sometimes I'm like: man, haven't talked to Sophia in a while..	ds:3
+after that	then	3	3	0.557	0.990	0.00	Hm, after that.....I had marching, and I got reallllly sunburned.	ds:3
+fairly good	pretty decent	3	3	0.801	0.999	0.00	I think I’m a fairly good person, but maybe I’m only deceiving myself.	ds:3
+see	look at	3	4	0.584	0.996	0.00	We didn’t get to see De Paul, and we only caught a quick glimpse of UIC, so this week I’m planning to visit De Paul at some point, and then UIC later on.	ds:2,hc3:1
+that would	that'd	3	3	0.774	0.994	0.00	Yeah, that would be the ideal guy.	ds:3
+these days	now	3	3	0.559	0.995	0.00	It's amazing how many people have blogs these days.	ds:1,qqp:1,hc3:1
+aren ’ t	aren't	3	3	0.966	0.992	0.00	I don’t care that people aren’t supposed to want revenge—I do.	ds:3
+the same time	once	3	3	0.562	0.987	0.00	Today was both really depressing and, I suppose, happy at the same time.	ds:1,qqp:1,hc3:1
+i have	I've	3	3	0.842	0.995	0.00	Honestly, I have never, EVER been this angry at him before.	ds:2,qqp:1
+you'd	you would	3	3	0.714	0.977	0.00	Without it, you'd be stranded on the road, day or night, with nobody to assist.	qqp:2,ds:1
+these days	Nowadays	3	3	0.669	0.996	0.00	These days, teens feel compelled to keep their eyes fixed on their phones at all times.	ds:3
+because of	Due to	3	3	0.725	0.996	0.00	Because of how risky it is, people should not look at their phones at all while driving; however, hands-free options like Bluetooth that are set up before the vehicle starts moving should be permitted, since the driver does not take their eyes off the road.	ds:3
+lose their lives	die	3	3	0.578	0.987	0.00	Each day, people lose their lives in car crashes because we use cell phones behind the wheel.	ds:3
+cell phones	cellular devices	3	3	0.732	0.921	0.00	Even though many jobs require the use of cell phones, laws limit their use while a vehicle is being operated.	ds:3
+having	to have	3	3	0.727	0.996	0.00	These days, many people don't even like having a phone conversation simply because they can send a text instead.	qqp:2,ds:1
+be increased	increase	3	3	0.864	0.993	0.00	Penalties need to be increased so that drivers will take them seriously and stop using cell phones.	qqp:2,ds:1
+due to	Because of	3	3	0.725	0.992	0.00	Due to the increasing popularity of mobile devices in modern society, the public feels a strong urge to use their phones constantly.	ds:3
+be in	get into	3	3	0.666	0.994	0.00	"""Texting while driving makes you four times more likely to be in an accident than driving without texting."""	ds:3
+another	an additional	3	3	0.596	0.985	0.00	Among drivers aged 15-20, 2,739 are killed and another 228,000 are injured in crashes.	mrpc:1,raid:1,ds:1
+every day	on a daily basis	3	3	0.731	0.997	0.00	Most people use and operate cell phones every day while driving.	ds:3
+once	one time	3	3	0.769	0.997	0.00	You cannot do two things at once while your hands are on the steering wheel.	ds:3
+refrain from	avoid	3	3	0.573	0.998	0.00	It is recommended that parents also refrain from calling their teenagers while they are driving.	ds:3
+a lot of	Many	3	3	0.653	0.996	0.00	A lot of people enjoy using their phones while driving for various reasons.	ds:3
+to come	coming	3	3	0.738	0.993	0.00	I have many more, but I'm just praying that everyone stops driving with phones in 2018 because I don't want any harm to come to me or anyone else I know.	ds:2,hc3:1
+turn into	become	3	3	0.677	0.998	0.00	They can turn into a significant distraction and even endanger numerous lives, including the driver's.	qqp:2,ds:1
+you'd like	you want	3	3	0.664	0.991	0.00	If you'd like to learn more about a hacker's life, search for him online and read his books.	ds:2,qqp:1
+we ’ re	we're	3	4	0.976	0.977	0.00	Rowe Price and it returned 4%, so we’re being quite cautious here], then you would need $24,000 invested to cover the cost in earnings.	ds:3
+new york	NY	3	4	0.877	0.970	0.00	If I had to roll everything back using a backup, it would turn out that, yes, I really can't navigate the maze of subways, buses, and trains that make up the greater New York area using some combination of 3D flyovers, luck, and magic.	hc3:2,ds:1
+you'll	you will	3	3	0.841	0.990	0.00	If you can begin your career with no debt, you'll be in a great position going forward.	ds:3
+a great	an excellent	3	3	0.898	0.994	0.00	If you can begin your career with no debt, you'll be in a great position going forward.	ds:2,qqp:1
+regarding	As for	3	3	0.572	0.998	0.00	Regarding the lack of protection, my overall view is that it's typically an unwise choice outside of a monogamous relationship, even if she is, or says she is, on the pill.	ds:3
+go to	attend	3	3	0.561	0.992	0.00	If that doesn't appeal to you, consider option 2: if you're looking to build genuine friendships (not that there's anything wrong with frat guys or sorority girls), go to the club fair and sign up for a few clubs that match your interests.	qqp:2,ds:1
+in fact	Actually	3	3	0.596	0.990	0.00	In fact, how can you even blame SCG for people cheating at their events?	ds:3
+look at	see	3	3	0.584	0.996	0.00	Every time I look at that photo, I feel sorry for the unfortunate man.	hc3:2,ds:1
+normally	By default	3	3	0.573	0.982	0.00	Normally, the middleware applies the X-Frame-Options header with a value of DENY to all outgoing HttpResponse objects.	ds:3
+— pick	- choose	3	3	0.730	0.979	0.00	My answer to this question is: use standard guitars—pick them for their sound and playability rather than for the ability to see the fretboard while standing.	ds:3
+playing	they play	3	3	0.680	0.987	0.00	When playing acoustic guitars, they frequently use full-size dreadnought models, which are the second largest common body style for steel-string acoustics (jumbo being the largest).	ds:3
+and write	writing	3	3	0.729	0.987	0.00	The OrderedDict preserves order, so we only need to loop through its items and write the `key`, which represents the group range, along with the list of tuples containing all the names and scores that fall within that range.	ds:3
+turn off	disable	3	3	0.710	0.997	0.00	I used an open-source tablebase generator and altered it to turn off promotions (I'm not very familiar with this codebase, but since the outcomes from both approaches match, my modification appears to work correctly).	ds:3
+that use	using	3	3	0.681	0.994	0.00	You'll need to make sure this registration occurs before you attempt to create any querysets that use it.	ds:3
+need to	must	3	3	0.600	0.995	0.00	Then, you need to escape any backslashes and other special characters by placing a backslash before each one, which gives you the string \\section.	ds:3
+stands for	means	3	3	0.632	0.981	0.00	"For example, taking the codes from the output above, 'Ll' stands for 'Letter, lowercase', 'No' means ""Number, other"", 'Mn' is ""Mark, nonspacing"", and 'So' is ""Symbol, other""."	ds:2,hc3:1
+identical	the same	3	3	0.559	0.988	0.00	The str and bytes constructors behave differently for identical arguments in Python 2 versus Python 3.	ds:2,qqp:1
+infinitely many	an infinite number of	3	3	0.881	0.991	0.00	Consequently, zero-width assertions should never be repeated, since if one matches at a particular location, it can clearly be matched infinitely many times there.	hc3:2,ds:1
+does have	has	3	3	0.758	0.981	0.00	Take the following code: one could argue the class does have a name: although it is bound to two names and instantiated via the name B, the resulting instance is still reported as an instance of class A.	hc3:1,qqp:1,ds:1
+that describe	describing	3	3	0.567	0.983	0.00	We build horizonless, non-singular general 2-charge D1-D5 solutions of IIB supergravity on T^4 and K3 that describe fuzzballs with excitations in the internal manifold; these excitations are characterized by arbitrary curves.	ds:3
+near	at around	3	3	0.659	0.997	0.00	We also report a new infrared mode near 710 cm-1 with an unusual temperature dependence that has not previously been observed in any other (TMTSF)2X salt exhibiting a metal-insulator transition.	ds:3
+we show	It is shown	3	3	0.564	0.997	0.00	We show that the calculated CR spectra are in satisfactory agreement with existing measurements up to energies of $10^{17}$ eV.	ds:2,raid:1
+regarded as	considered to be	3	4	0.720	0.979	0.00	This one-dimensionalization induced by frustration is regarded as a possible mechanism for the gapless spin liquid state.	raid:2,ds:1
+find	search for	3	3	0.629	0.996	0.00	Aims: We seek to find clustering among IM Class 0 protostars.	qqp:2,ds:1
+for studying	to study	3	3	0.823	0.958	0.00	Therefore, the extreme conditions and the novel experimental observables in tip-tip and body-body collisions can respectively provide a good condition and a sensitive probe for studying the nuclear EoS.	qqp:2,ds:1
+it ' s	Its	3	3	0.792	0.937	0.00	It 's called a [ Shepard tone ] ( URL_0 ) .	hc3:3
+huge amount	lot	3	3	0.673	0.992	0.00	Overall, Skyrim has a huge amount of content because it has a rich and detailed world, a variety of different things to do, and a lot of secrets and hidden areas to discover.	hc3:3
+would	' d	3	3	0.556	0.989	0.00	Additionally, even if we were able to recreate a complete dinosaur genome, we would still face the challenge of figuring out how to use that genome to actually grow a living, breathing dinosaur.	hc3:3
+will	' ll	3	3	0.700	0.994	0.00	If I fire a bullet perfectly horizontal to the ground , it will go a long ways but then eventually fall to the ground .	hc3:2,mrpc:1
+if you increase	Increasing	3	3	0.696	0.986	0.00	If you increase the angle of attack of the blade while it is on the right side of the helicopter , the right side will get more lift and the helicopter will tilt toward the left and move that direction .	hc3:3
+don ' t	dont	3	3	0.900	0.985	0.00	"Peterson added , "" I don 't know anybody in the conference committee who 's fighting to keep it out completely ."	mrpc:3
+dont	don ' t	3	3	0.900	0.995	0.00	But Peterson added , I dont know anybody in the conference committee whos fighting to keep it out completely .	mrpc:3
+- -	—	3	5	0.773	0.951	0.00	"Louise Slaughter , D-N.Y. , declared , "" The Congress of the United States has never -- ever -- outlawed a medical procedure ."	mrpc:3
+the us	America	3	3	0.781	0.991	0.00	The Sars illness , wars in Iraq and Afghanistan , and economic uncertainty in Europe and the US have depressed air travel .	qqp:2,mrpc:1
+america	the US	3	3	0.781	0.990	0.00	The outbreak of severe acute respiratory syndrome , wars in Iraq and Afghanistan and economic uncertainty in Europe and America have depressed air travel .	qqp:2,mrpc:1
+protects against	prevents	3	3	0.646	0.997	0.00	Doctors have speculated that estrogen protects against cell damage and improves blood flow .	mrpc:3
+prevents	protects against	3	3	0.646	0.990	0.00	Their belief was based on speculation that estrogen prevents cell damage and improves blood flow .	mrpc:3
+britain	the UK	3	3	0.873	0.974	0.00	Environmental campaigners used the eclipse to highlight the surge in light pollution across Britain .	mrpc:2,raid:1
+be standing	stand	3	3	0.825	0.985	0.00	For now , the company 's management appears to be standing behind Stewart .	raid:2,mrpc:1
+what will	What's going to	3	3	0.640	0.987	0.00	What will happen to the superpower status of the USA, if Donald Trump wins the 2016 Presidential elections?	qqp:3
+what's going to	What will	3	3	0.640	0.996	0.00	What's going to happen to America if Donald Trump wins?	qqp:3
+photo you have	photos	3	3	0.569	0.959	0.00	What is the best photo you have taken with your cell phone?	qqp:3
+commit suicide	die	3	3	0.588	0.959	0.00	What is the easiest and painless way to commit suicide?	qqp:3
+die	commit suicide	3	3	0.588	0.973	0.00	What is the most painless and quick way to die?	qqp:3
+india's	the Indian	3	3	0.693	0.994	0.00	How does India's economy work?	qqp:3
+the indian	India's	3	3	0.693	0.994	0.00	How exactly does the Indian economy work?	qqp:3
+the us	USA	3	3	0.909	0.988	0.00	How will Trump's presidency affect Indian students who are planning to do a PhD in the US?	qqp:3
+usa	the US	3	3	0.909	0.989	0.00	What does Donald Trump's win mean for Indian students in USA?	qqp:3
+you've	that you have	3	3	0.674	0.992	0.00	What is the best tangible gift you've ever received?	qqp:3
+that you have	you've	3	3	0.674	0.994	0.00	Which is the best gift that you have ever received?	qqp:3
+moments of	moment in	3	3	0.811	0.988	0.00	What are the best moments of Rio Olympics 2016?	qqp:3
+moment in	moments of	3	3	0.811	0.984	0.00	What is the Best moment in RIO Olympic 2016?	qqp:3
+what are the best ways to	How should I	3	3	0.599	0.977	0.00	What are the best ways to clean my glasses?	qqp:3
+how should i	What are the best ways to	3	3	0.599	0.977	0.00	How should I clean my glasses?	qqp:3
+options available	option	3	3	0.775	0.958	0.00	What are best career options available for electrical and electronics engineer today?	qqp:3
+get into	go to	3	3	0.553	0.995	0.00	How do I get into an Ivy League school as a foreigner?	qqp:3
+go to	get into	3	3	0.553	0.994	0.00	How can I go to an Ivy League school?	qqp:3
+could	can easily	3	3	0.663	0.982	0.00	Why do people ask stupid questions on Quora that could be easily answered by Google?	qqp:3
+have you	Has anyone	3	3	0.720	0.987	0.00	Have you ever seen any ghost?	qqp:3
+to commit	of committing	3	3	0.783	0.992	0.00	What is the most painless way to commit suicide?	qqp:3
+of committing	to commit	3	3	0.783	0.988	0.00	What is the easiest way of committing suicide?	qqp:3
+presidency	Presidential election	3	3	0.702	0.991	0.00	How did Trump win the presidency?	qqp:3
+a beginner	beginners	3	3	0.877	0.980	0.00	What is a good road bike for a beginner?	qqp:3
+beginners	a beginner	3	3	0.877	0.982	0.00	What is the best road bike for beginners?	qqp:3
+cutoff	cut off	3	3	0.807	0.991	0.00	What is the expected cutoff for KVPY 2016 SA -stream 2016?	qqp:3
+cut off	cutoff	3	3	0.807	0.994	0.00	What is the expected cut off for KVPY SA 2016?	qqp:3
+you've	you ’ ve	3	3	0.968	0.952	0.00	What's the most unusual dream you've ever had?	qqp:3
+you ’ ve	you've	3	3	0.968	0.986	0.00	Which is the weirdest dream you’ve ever had?	qqp:3
+how did	Why was	3	3	0.550	0.970	0.00	How did the 12th Amendment change the voting procedure of the Electoral College?	qqp:3
+why was	How did	3	3	0.550	0.941	0.00	Why was the 12th amendment added to the Constitution?	qqp:3
+for relationships	in a relationship	3	3	0.770	0.964	0.00	Is sex important for relationships?	qqp:3
+in a relationship	for relationships	3	3	0.770	0.966	0.00	Why sex is so important in a relationship?	qqp:3
+the best	your favourite	3	3	0.562	0.980	0.00	What is the best scene in Star Wars?	qqp:3
+your favourite	the best	3	3	0.562	0.981	0.00	What is your favourite scene in a Star Wars film?	qqp:3
+best hilarious	funniest	3	3	0.628	0.925	0.00	What is the best hilarious joke you have ever heard?	qqp:3
+get more	increase	3	3	0.606	0.995	0.00	How do I get more traffic for my site?	qqp:3
+increase	get more	3	3	0.606	0.996	0.00	How do I increase traffic on my site?	qqp:3
+does it	do you	3	3	0.569	0.821	0.00	How long does it take to write a book?	qqp:3
+start	get started	3	3	0.786	0.998	0.00	How do I start using Quora?	qqp:3
+get started	start	3	3	0.786	0.998	0.00	How do I get started using Quora?	qqp:3
+have forgotten	forgot	3	3	0.719	0.995	0.00	I have forgotten my password for Facebook and no primary email and phone is added to my account.	qqp:3
+forgot	have forgotten	3	3	0.719	0.992	0.00	I forgot my Facebook email and password how can I log in?	qqp:3
+what's a	What are	3	3	0.775	0.916	0.00	What's a good business idea?	qqp:3
+what are	What's a	3	3	0.775	0.984	0.00	What are good business ideas?	qqp:3
+is it possible to	How can you	3	3	0.571	0.994	0.00	Is it possible to make money as a user on Quora?	qqp:3
+medium - sized	large	3	5	0.756	0.948	0.00	In a medium-sized bowl, whisk together the flour, baking soda, cinnamon, ginger, cloves, and salt. 3.	raid:3
+bike	bicycle is	2	2	0.789	0.991	0.00	A white bike parked next to a couple of statues.	coco:2
+is stopped	stops	2	2	0.786	0.991	0.00	a train is stopped at a station waiting for passengers	coco:2
+pick up	pickup	2	2	0.702	0.984	0.00	A pick up truck with large tires at a fair ground.	coco:2
+is sitting in	sits on	2	2	0.791	0.987	0.00	A boat is sitting in the sand with no water nearby.	coco:2
+prepares to pitch	pitching	2	2	0.665	0.931	0.00	A professional baseball player prepares to pitch a ball.	coco:2
+snowboards	snow boards	2	2	0.910	0.965	0.00	A group of snowboarders posing with their snowboards	coco:2
+snowboarder	person jumping a snow board	2	2	0.668	0.949	0.00	A snowboarder in the middle of a jump.	coco:2
+in front	infront	2	3	0.715	0.983	0.00	A young child that is sitting in front of a birthday cake.	coco:1,qqp:1
+infront	in front	2	2	0.715	0.991	0.00	there is a young girl sitting infront of a birthday cake	coco:1,qqp:1
+multiple	several different	2	2	0.702	0.984	0.00	A pizza with multiple toppings in a plate on a wooden table.	ds:1,coco:1
+preparing	gets ready	2	2	0.597	0.995	0.00	A baseball player preparing to run after hitting a ball during a game.	coco:2
+a single	One	2	2	0.635	0.995	0.00	A single flower that has been placed in a vase.	coco:2
+one	A single	2	2	0.635	0.993	0.00	One flower in a clear vase of water.	coco:1,ds:1
+seated	are sitting	2	2	0.883	0.994	0.00	People seated at a table with menus.	coco:2
+a sofa	the couch	2	2	0.751	0.974	0.00	A man and a cat sit on a sofa.	coco:2
+the couch	a sofa	2	2	0.751	0.990	0.00	The cat is sitting with a man on the couch.	coco:2
+riding a	rides his	2	2	0.695	0.979	0.00	A young man riding a skateboard without a shirt on.	coco:2
+rides his	riding a	2	2	0.695	0.980	0.00	The young shirtless man rides his skateboard on the road.	coco:2
+an airplane is	A plane	2	2	0.811	0.991	0.00	An airplane is on a snowy runway at an airport.	coco:2
+is playing	plays	2	2	0.811	0.984	0.00	A child is playing in the water in a street.	coco:2
+a cellphone	her cell phone	2	2	0.761	0.972	0.00	A woman wearing a purple dress and a big hat on a cellphone.	coco:2
+little kid	child	2	2	0.775	0.985	0.00	A little kid sleeping in a bed next to a laptop computer.	coco:2
+walks	is walking	2	2	0.793	0.984	0.00	A woman walks down a rainy street holding an umbrella.	coco:2
+piece of luggage	suitcase	2	2	0.773	0.990	0.00	A piece of luggage with a tear and luggage tag.	coco:2
+the man	A guy	2	2	0.673	0.972	0.00	The man is raising his arm to catch the frisbee	coco:2
+stand	standing next to each other	2	2	0.591	0.940	0.00	Two zebras stand in a field, one with its back end facing the photographer.	coco:2
+fenced area	fence	2	2	0.822	0.978	0.00	Two people riding horses inside a fenced area.	coco:2
+lots of	several	2	2	0.758	0.992	0.00	A banana tree filled with lots of unripe banana.	coco:2
+is eating	eats	2	2	0.804	0.997	0.00	The boy is eating a cupcake with white icing on it.	coco:2
+lap top	laptop	2	2	0.675	0.979	0.00	A lap top computer on a desk with a bottle next to it.	coco:2
+tooth brush	toothbrush in his mouth	2	2	0.774	0.962	0.00	A man brushing his teeth with an electric tooth brush.	coco:2
+toothbrush in his mouth	tooth brush	2	2	0.774	0.987	0.00	The little boy has a toothbrush in his mouth.	coco:2
+swinging	taking a swing	2	2	0.856	0.979	0.00	A young woman swinging at a tennis ball.	coco:2
+in	at the	2	2	0.591	0.873	0.00	A man standing in front of people wit laptops.	coco:1,ds:1
+in a	inside the	2	2	0.662	0.994	0.00	A group of bikes parked in a bike rack.	coco:2
+a bike	Bicycle	2	2	0.862	0.984	0.00	A bike with a box on it's back wheel is parked	coco:2
+bicycle	A bike	2	2	0.862	0.962	0.00	Bicycle with delivery box on back parked at roadway curb.	coco:2
+skateboards	riding a skateboard	2	2	0.820	0.976	0.00	A shirtless man skateboards in a parking lot with parked cars.	coco:2
+near	along side	2	2	0.569	0.991	0.00	Two calico cats outside on tile near a table.	coco:2
+along side	near	2	2	0.569	0.992	0.00	Cats sitting on tile along side a table.	coco:2
+stands underneath	standing under	2	2	0.868	0.984	0.00	A giraffe stands underneath a tree in the grass.	coco:2
+grass covered field	grassy area	2	2	0.628	0.935	0.00	A herd of sheep standing on top of a grass covered field.	coco:2
+grassy area	grass covered field	2	2	0.628	0.886	0.00	A bunch of sheep standing around in a grassy area.	coco:2
+a pair of	There are two	2	2	0.676	0.988	0.00	A pair of giraffes meandering through the desert landscape.	coco:2
+tracks	a track	2	2	0.841	0.918	0.00	A train on tracks with gravel, and trees, grass and telephone wires and two workers in background.	coco:2
+the woods	trees	2	2	0.631	0.922	0.00	Train riding along tracks near a street and the woods.	coco:2
+her luggage	a suitcase	2	2	0.608	0.847	0.00	A woman smiles while holding her luggage.	coco:2
+next to each other	close together	2	2	0.584	0.983	0.00	a herd of zebra standing next to each other.	coco:2
+is trying to hit	hitting	2	2	0.742	0.944	0.00	A little boy is trying to hit a baseball	coco:2
+racquet	tennis racket	2	2	0.734	0.981	0.00	A little boy holding up a green plastic racquet.	coco:2
+there are	Some	2	4	0.554	0.963	0.00	There are babies playing in a bath tub	ds:1,coco:1
+large group	crowd	2	2	0.586	0.970	0.00	A man taking a picture with his cellphone in a large group of people.	coco:2
+a person	Someone is	2	2	0.719	0.980	0.00	A person riding their bike on the beach at sunset	coco:2
+lying in	laying on	2	2	0.602	0.976	0.00	A person lying in a bed with an open book.	coco:2
+a plane	an airplane	2	2	0.862	0.952	0.00	A set of steps that lead up into a plane.	coco:1,qqp:1
+walking in	walks through	2	2	0.671	0.949	0.00	A giraffe walking in the grass past trees	coco:2
+walks through	walking in	2	2	0.671	0.982	0.00	a big giraffe walks through the grass	coco:2
+while sitting	as she sits	2	2	0.617	0.997	0.00	Woman reads a book while sitting on sign	coco:2
+pair of	two	2	2	0.594	0.949	0.00	Pair of giraffes walking in grass and dirt open area.near boulders.	coco:2
+leaning over	bending down	2	2	0.641	0.988	0.00	A woman leaning over to pet a sheep in a pen.	coco:2
+fire truck	firetruck	2	2	0.717	0.988	0.00	A red fire truck parked next to a parking lot.	coco:2
+sitting at	sits in front of	2	2	0.729	0.984	0.00	A cat sitting at a table next to a Nintendo Wii controller.	coco:2
+stand	that are standing	2	2	0.712	0.968	0.00	cows stand in a grassy field behind a barbed wire	coco:2
+walking across	crossing	2	2	0.727	0.946	0.00	A black bear walking across a river with rocks.	coco:2
+has fallen	fell	2	3	0.756	0.996	0.00	A man has fallen asleep holding a banana.	coco:1,raid:1
+sits	computer sitting	2	2	0.650	0.945	0.00	A laptop sits on a bed in a dark room.	coco:2
+sitting around	sit at	2	2	0.791	0.975	0.00	people sitting around a table with glasses full of drinks	coco:2
+an all	A	2	2	0.728	0.969	0.00	An all white bathroom with sink, shower, and toilet.	coco:2
+laying down	lays	2	2	0.664	0.975	0.00	Small brown and white cat laying down on the floor.	coco:2
+lays	laying down	2	2	0.664	0.971	0.00	An orange tabby cat lays on the floor with his foot extended.	coco:2
+street	side of the road	2	2	0.638	0.930	0.00	A man and a women who are standing by the street.	coco:2
+graze in	grazing on	2	2	0.618	0.980	0.00	A flock of sheep graze in a pasture near some trees.	coco:2
+are walking	walk	2	2	0.816	0.982	0.00	Two girls are walking in the the rain along a street.	coco:2
+zebra standing	zebras	2	2	0.761	0.955	0.00	Two zebra standing next to each other	coco:2
+stands in	standing on	2	2	0.730	0.980	0.00	A zebra stands in a field near other animals.	coco:2
+couple of	Two	2	2	0.647	0.895	0.00	Couple of zebras out in the field eating some grass	coco:2
+riding skis	are skiing	2	2	0.825	0.974	0.00	A bunch of people riding skis down a snowy slope.	coco:2
+a snowy area	the snow	2	2	0.763	0.985	0.00	A group of people standing on skis in a snowy area.	coco:2
+giant	very large	2	2	0.566	0.992	0.00	Man smiling while eating a giant chocolate doughnut.	coco:2
+sit on	sitting in	2	2	0.746	0.973	0.00	Two girls sit on the grass with a teddy bear.	coco:2
+a little	Small	2	2	0.557	0.972	0.00	a little tv sitting in the corner of the bedroom	coco:2
+a building	buildings	2	2	0.856	0.871	0.00	The jumbo jet is flying above trees and a building.	coco:2
+giraffe are	giraffes	2	2	0.912	0.979	0.00	Two giraffe are standing in front of some zebras in a zoo.	coco:2
+is flying	flies	2	2	0.604	0.991	0.00	A bird is flying over an old tire and mud puddles.	coco:2
+flies	is flying	2	2	0.604	0.989	0.00	A bird flies over an old tire lying in muddy water.	coco:2
+an image	A picture	2	2	0.904	0.993	0.00	an image of several parking meters in a parking lot	coco:2
+a couple	Pair	2	2	0.576	0.987	0.00	A couple of people riding on the backs of horses.	coco:2
+forest	wooded area	2	2	0.691	0.951	0.00	A gray and white cat walking through a forest.	coco:2
+wooded area	forest	2	2	0.691	0.949	0.00	A cat is walking in a wooded area.	coco:2
+laying	lying down	2	2	0.761	0.984	0.00	A cat laying in the bathroom sink.	coco:2
+snow board	snowboard	2	2	0.896	0.971	0.00	A man riding a snow board down a snow covered ski slope.	coco:2
+snowboard	snow board	2	2	0.896	0.907	0.00	A person riding a snowboard down a slope.	coco:2
+is snowboarding	snowboards	2	2	0.814	0.990	0.00	A person is snowboarding down a hill in front of some trees.	coco:2
+surfboard	surf board rides	2	2	0.835	0.985	0.00	A man riding a surfboard on top of a wave.	coco:2
+surfboard in the water	surf board riding a wave	2	2	0.797	0.844	0.00	A person on a surfboard in the water.	coco:2
+couches	a couch	2	2	0.860	0.952	0.00	A living room complete with couches, a television and lamps.	coco:2
+swings	is swinging	2	2	0.819	0.986	0.00	A baseball player swings his bat during a game.	coco:2
+bear	bears are	2	2	0.659	0.815	0.00	A white teddy bear hanging from a clothes line in a village.	coco:2
+stands next to	standing in front of	2	2	0.764	0.990	0.00	a big giraffe stands next to a hut	coco:2
+inside	standing in	2	2	0.556	0.871	0.00	A herd of cows inside a fence looking at the camera.	coco:2
+zebras	zebra are	2	2	0.902	0.968	0.00	Four zebras drinking water in a sandy field.	coco:2
+stands	who is standing	2	2	0.745	0.912	0.00	A zebra stands in a field with some hills in the distance	coco:2
+the grass	a grassy area	2	2	0.676	0.988	0.00	A zebra stands while other animals rest in the grass.	coco:2
+tooth brush	toothbrush	2	2	0.908	0.989	0.00	A baby girl brushing her teeth with a pink tooth brush.	coco:1,hc3:1
+two men	A couple of guys	2	2	0.772	0.956	0.00	Two men playing Wii Boxing and swinging their arms in a living room.	coco:2
+lady that is	woman	2	2	0.623	0.980	0.00	a lady that is taking a picture at the water	coco:2
+large amount	lot	2	2	0.634	0.994	0.00	A large amount of traffic is lined up in the dark.	coco:2
+a couple of giraffe	Two giraffes are	2	2	0.946	0.965	0.00	A couple of giraffe standing next to each other.	coco:2
+the grass	a grassy field	2	2	0.675	0.863	0.00	A black farm animal standing alone in the grass.	coco:2
+there is	There's	2	2	0.757	0.994	0.00	there is a black cat laying on a white bed	coco:1,ds:1
+snowy hill	snow covered slope	2	2	0.625	0.984	0.00	A person is riding a snowboard down a snowy hill.	coco:2
+closeup	a close up	2	2	0.789	0.992	0.00	Closeup of a pizza with cheese and tomatoes.	coco:2
+preparing	is getting ready	2	2	0.656	0.997	0.00	A tennis player preparing to serve the tennis ball.	coco:2
+is getting ready	preparing	2	2	0.656	0.996	0.00	a male pro tennis player is getting ready to serve the ball	coco:2
+the camera	a picture	2	2	0.678	0.972	0.00	four tennis players pose for the camera on a tennis court with the net between them	coco:2
+bicycle with	bike next to	2	2	0.704	0.985	0.00	A woman is standing beside a bicycle with a dog.	coco:2
+bathroom has	bath room with	2	2	0.582	0.955	0.00	A bathroom has a white shower curtain and a sink.	coco:2
+bath room with	bathroom has	2	2	0.582	0.949	0.00	A bath room with a white sink and a bath tub.	coco:2
+older	An old	2	2	0.731	0.991	0.00	Older red Chevrolet pick up truck sitting in a parking lot.	coco:2
+an old	Vintage	2	2	0.588	0.977	0.00	An old red Chevrolet truck parked alone in a parking lot.	coco:2
+someone's	a person's	2	2	0.736	0.924	0.00	cute puppy resting his head on someone's shoe	coco:2
+closeup	A close up	2	2	0.789	0.993	0.00	Closeup of food that includes pasta and greens.	coco:2
+woman are	women	2	2	0.836	0.980	0.00	Two woman are holding surfboard at the water's edge	coco:2
+women	woman are	2	2	0.836	0.987	0.00	two women holding surfboards standing by the water	coco:2
+waves	a wave	2	2	0.903	0.948	0.00	A person is riding waves on a surfboard on their stomach.	coco:2
+is preparing	getting ready	2	2	0.702	0.996	0.00	a woman is preparing to hit a tennis ball	coco:2
+two	a double	2	2	0.554	0.831	0.00	Two parking meters but only one is in use.	coco:2
+are looking	look	2	2	0.566	0.980	0.00	A bunch of people are looking at an elephant who is in a fenced area.	hc3:1,coco:1
+catching	to catch	2	2	0.809	0.985	0.00	A dog jumping into the air catching a frisbee.	coco:2
+to catch	catching	2	2	0.809	0.981	0.00	A dog is leaping front legs into the air to catch a frisbee.	coco:2
+jumping and catching	jumps to catch	2	2	0.904	0.981	0.00	a dog jumping and catching a Frisbee in his mouth	coco:2
+walks through	walking across	2	2	0.704	0.950	0.00	A man walks through a snowy park with hiking poles.	coco:2
+surf boards	surfboards	2	2	0.951	0.931	0.00	Two woman laying on top of their surf boards in the water.	coco:2
+desk top	desktop	2	2	0.652	0.987	0.00	Multiple laptops and a desk top computer on a desk.	coco:2
+is surfing the waves	rides a surfboard	2	2	0.625	0.905	0.00	A man in a wetsuit is surfing the waves.	coco:2
+are playing	play	2	3	0.749	0.990	0.00	Two men are playing a video game in a living room.	coco:2
+play	are playing	2	2	0.749	0.986	0.00	Two men play a game on a Wii console in a living room.	coco:2
+working with	using	2	2	0.600	0.938	0.00	A person working with a mouse and keyboard on a computer	coco:1,ds:1
+sit	sitting together	2	2	0.726	0.981	0.00	A couple sit on a park bench while looking at the city.	coco:2
+stand together	standing	2	2	0.764	0.985	0.00	A group of zebras stand together in a rugged field.	coco:2
+a bunch	Bunches	2	2	0.727	0.973	0.00	A bunch of bananas is shown growing on a tree.	coco:2
+skis	is skiing	2	2	0.746	0.989	0.00	A child skis downhill on a snowy hill.	coco:2
+is skiing	skis	2	2	0.746	0.989	0.00	A young child is skiing downhill in the snow.	coco:2
+cuts	who is cutting	2	2	0.716	0.971	0.00	a man cuts into a sub sandwich ring	coco:2
+the waves	a wave	2	2	0.848	0.918	0.00	Someone riding the waves on their surf board.	coco:2
+holding	hold their	2	2	0.716	0.975	0.00	There are a line of people holding surfboards.	coco:2
+hold their	holding	2	2	0.716	0.917	0.00	A row of people hold their surfboards straight up and down in the water off a beach.	coco:2
+woman	women who	2	3	0.612	0.978	0.00	A woman is looking down at her phone.	coco:2
+sleeps	is sleeping	2	2	0.774	0.982	0.00	a cat sleeps on a bus bench out side	coco:2
+seems to be	is	2	2	0.553	0.972	0.00	there is a giraffe that seems to be looking out at the ocean	ds:1,coco:1
+a grassy area beside	the grass next to	2	2	0.738	0.985	0.00	A fire hydrant sitting in a grassy area beside a tree.	coco:2
+stands	that is standing	2	2	0.695	0.985	0.00	A machine stands next to a car in a busy city.	coco:2
+is running	runs	2	2	0.787	0.990	0.00	A dog is running with a Frisbee in its mouth.	ds:1,coco:1
+there are two	A pair of	2	2	0.676	0.987	0.00	There are two suitcases next to each other on the floor.	coco:2
+a cell phone	the cellphone	2	2	0.880	0.981	0.00	a bottle of beer sitting next to a cell phone on the table	coco:1,ds:1
+swinging	taking a swing at	2	2	0.818	0.984	0.00	Man swinging a baseball bat in a green grass field.	coco:2
+a couple of zebra	Two zebras that are	2	2	0.921	0.966	0.00	A couple of zebra standing in the tall grass.	coco:2
+the baseball	a pitch	2	2	0.583	0.994	0.00	A pitcher is going to throw the baseball.	coco:2
+two	Couple of	2	2	0.647	0.934	0.00	Two people are flying a kite at the park	coco:2
+standing in	stands on	2	2	0.729	0.918	0.00	A man standing in a baseball field with a bat.	coco:2
+a plane	An airplane is	2	2	0.811	0.994	0.00	A plane taking off on a runway during the day.	coco:2
+photo on	picture in	2	2	0.750	0.934	0.00	A person taking a photo on the mirror of a bus	qqp:1,coco:1
+picture in	photo on	2	2	0.750	0.974	0.00	a person taking a picture in the side mirror of a bus	qqp:1,coco:1
+next to	at the edge of	2	2	0.595	0.906	0.00	A yellow fire hydrant in grassy area next to a sidewalk.	coco:2
+at the edge of	next to	2	2	0.595	0.888	0.00	A yellow fire hydrant in a grassy area at the edge of a sidewalk.	coco:2
+- decker	deckered	2	2	0.746	0.973	0.00	A green double-decker bus parked in the building.	coco:2
+person's hand	person	2	2	0.614	0.977	0.00	A person's hand holding a phone and swiping the screen.	coco:2
+driver's	drivers '	2	2	0.867	0.983	0.00	A small dog sits on the driver's seat of a car.	ds:1,coco:1
+a grassy field	some grass	2	2	0.671	0.973	0.00	Geese stand on a grassy field by a pond.	coco:2
+several zebras	A herd of zebra	2	2	0.819	0.918	0.00	Several zebras and other animals grazing in the tall grass.	coco:2
+photos	a picture	2	2	0.698	0.946	0.00	A man is taking photos of kites in the air.	coco:1,qqp:1
+a picture	photos	2	2	0.698	0.978	0.00	A man is taking a picture of people flying kites.	coco:1,qqp:1
+the ball	a baseball	2	2	0.695	0.983	0.00	A baseball player is hitting the ball with contact.	coco:2
+a person	somebody	2	2	0.615	0.949	0.00	A woman happily waiting as a person pours her some wine in a glass.	coco:1,hc3:1
+playing	play a	2	2	0.694	0.975	0.00	Three men playing Frisbee in a game field.	coco:2
+baseball	base ball	2	2	0.584	0.950	0.00	A man stands with a baseball bat in the ready-to-hit position.	coco:2
+tables	a table	2	2	0.865	0.890	0.00	A conference area with people sitting at tables eating.	coco:1,hc3:1
+picture	image of	2	2	0.599	0.995	0.00	Blurry picture a laptop placed next to another electronic device.	coco:1,ds:1
+near	next to the	2	2	0.621	0.991	0.00	A skateboard on a body of sand near water.	coco:2
+next to the	near	2	2	0.621	0.993	0.00	A skateboard on the sand next to the water.	coco:2
+cop	police officer is	2	2	0.646	0.987	0.00	A cop riding on the back of a police motorcycle.	coco:2
+a street	the road	2	2	0.688	0.976	0.00	A large red double decker bus driving down a street.	coco:2
+many	a number of	2	2	0.559	0.982	0.00	Many people are on a beach that has numerous green umbrellas on it.	coco:2
+lots	a lot	2	2	0.787	0.983	0.00	An open refrigerator filled with lots of food.	hc3:1,coco:1
+to read	reading	2	2	0.836	0.993	0.00	Dell was also interesting to read.	ds:2
+had planned	was going	2	2	0.559	0.998	0.00	Instead, I went shopping, which I had planned to do anyway—it was fun.	ds:2
+a lot	much	2	2	0.608	0.998	0.00	I'm not suicidal, but I think things would be a lot easier if I were gone.	ds:1,hc3:1
+weren ’ t	weren't	2	2	0.979	0.995	0.00	We weren’t doing anything wrong—just sitting and talking.	ds:2
+buy	pay for	2	3	0.566	0.997	0.00	Though I suppose once I get so big that I have to buy two airline tickets because one seat isn't big enough, I won't be enjoying life.	ds:1,hc3:1
+hanging out	spending time	2	2	0.562	0.997	0.00	I’ve really missed hanging out with her.	ds:2
+haven ’ t	haven't	2	2	0.984	0.996	0.00	I really need to talk to Chris, but I haven’t had the chance yet.	ds:2
+keeps going	continues	2	2	0.679	0.995	0.00	I suppose all I can do is be grateful for what I have right now, and hope it keeps going.	ds:2
+visited	went to	2	2	0.558	0.979	0.00	We visited Arlington, the Lincoln Memorial, and the war memorials, went on a city tour with this wild feminist lesbian tour guide, and went to the International Spy Museum!!	ds:2
+actually	in fact	2	2	0.596	0.998	0.00	You're not a very sexual person...actually, you're probably a virgin.	ds:2
+brother ’ s	brother's	2	2	0.984	0.989	0.00	We’re going out to dinner tonight as a family since it’s my brother’s last night here before he leaves for Australia tomorrow.	ds:2
+an individual's	a person's	2	2	0.847	0.987	0.00	This is the concept behind MyLifeBits, which seeks to capture the essence of an individual's life on computer disks.	ds:1,raid:1
+i'm terrible	I suck	2	2	0.658	0.997	0.00	I'm terrible at parking.	ds:2
+have to	gotta	2	2	0.579	0.998	0.00	You just have to deal with it—I'm usually late.	ds:2
+actually	In fact	2	2	0.596	0.998	0.00	Actually, I was hoping for Movenpick!	ds:2
+had	was having	2	2	0.721	0.961	0.00	This morning, while Mas Indi was at Raffles Country Club doing putting and driving with the big bosses, I had breakfast with my former boss (my current foster dad), urlLink Mr.	ds:2
+super bowl	Superbowl	2	2	0.893	0.982	0.00	Anyway, more later—I'm actually having conversations with people who are NOT watching the Super Bowl!	ds:2
+return	come back	2	2	0.626	0.995	0.00	Yet knowing how one way leads on to another, I doubted I would ever return.	ds:2
+say sorry	apologize	2	2	0.608	0.993	0.00	I’ll call her later and say sorry.	ds:2
+talking	to talk	2	2	0.784	0.993	0.00	It'll be strange not talking to them, but I guess that's fine.	ds:2
+that's okay	it's ok	2	2	0.766	0.996	0.00	But that's okay because I'm not sure I want it to make sense to anyone anyway...	ds:2
+a jerk	an ass	2	2	0.580	0.994	0.00	We joke around and stuff, but Tom is just a jerk.	ds:2
+hadn ’ t	hadn't	2	2	0.981	0.996	0.00	If I hadn’t called yesterday, they weren’t going to invite me either.	ds:2
+you will	you'll	2	2	0.841	0.992	0.00	And you will be found guilty, and exiled for life from the community you claimed to fight for.	ds:2
+found guilty	convicted	2	2	0.657	0.993	0.00	And you will be found guilty, and exiled for life from the community you claimed to fight for.	ds:1,mrpc:1
+i'd like	I want	2	2	0.698	0.996	0.00	I'd like to add a comments section to this page, and sadly, to do that I have to use a blog template rather than one I made myself.	qqp:1,ds:1
+have found	find	2	2	0.579	0.969	0.00	Many researchers have found that cultural similarity to the domestic market is an important determinant of entry, while others have found that market entry decisions are positively associated with country size and levels of development, trade, and infrastructure.	mrpc:1,ds:1
+told	said to	2	2	0.599	0.987	0.00	"Ahhhh!) Anyway, when I headed out, I told myself, ""Self, why not just run until you genuinely feel the need to stop, rather than sticking strictly to this schedule?"" So that's what I did."	ds:2
+going into	entering	2	2	0.674	0.985	0.00	To give potential entrepreneurs an idea of the kinds of questions they must face when going into business for themselves, the StartupJournal provides a checklist.	ds:2
+she ’ s	she's	2	2	0.978	0.972	0.00	OK, I know I said I’d write four paragraphs about this, but it’s hard, so I’ll stop criticizing Mary Clare because she’s too individualistic.	ds:2
+people ’ s	people's	2	2	0.971	0.968	0.00	Best of all is getting a little sneak peek into people’s lives.	ds:2
+the others	them	2	2	0.594	0.993	0.00	I meant to practice at lunch, but Wind Symphony didn’t have to play, and I’m too self-conscious to play when people can hear me, haha, so I just hung out with Brandon, Alex, and the others.	ds:2
+it would	It'd	2	2	0.778	0.997	0.00	It would give me so much more time to get things done.	ds:2
+high school	HS	2	2	0.562	0.995	0.00	It's so far away, and I'd miss my friends so, so much, especially with only two years of high school left.	ds:2
+this is	it's	2	2	0.675	0.992	0.00	Wow, this is so strange.	ds:2
+few	handful of	2	2	0.739	0.986	0.00	These equations involve only a few parameters, including the ball's mass and size, the track's shape and roughness, and the wheel's tilt.	ds:2
+discussing	talking about	2	2	0.610	0.991	0.00	Oh, that reminds me—we were discussing canning food during our coffee break this morning.	ds:2
+many times	often	2	2	0.791	0.976	0.00	"Take a look: ""I can't even begin to count how many times people considering starting new businesses have asked me to name the single book that sheds more light than any other on what one must understand to build a successful start-up."	ds:2
+there ’ s	There's	2	2	0.981	0.942	0.00	There’s a little green one and a blue one and…OH!	ds:2
+’ ve got	have	2	2	0.604	0.995	0.00	You’ve got to have red.	ds:2
+’ d like	want	2	2	0.602	0.997	0.00	I think I’d like to do something with other people, but I don’t know what.	ds:2
+what ’ s	what's	2	2	0.939	0.985	0.00	You know what’s worst of all of this?	ds:2
+website	Web site	2	2	0.907	0.980	0.00	"Stanzak, who called himself ""Bobst Boy"" on the website, says he washed in the library bathroom and occasionally showered at friends' apartments and dorm rooms."	mrpc:1,ds:1
+may believe	might think	2	2	0.617	0.997	0.00	You may believe you'll regret leaving him, but honestly, once you're free of it and look back, you'll regret that you didn't leave sooner.	ds:2
+each other	one another	2	2	0.860	0.993	0.00	I don't think they're dead because we lost contact with each other, just that they've died.	hc3:1,ds:1
+it would	it'd	2	2	0.778	0.997	0.00	I thought it would take longer.	ds:2
+resulting from	caused by	2	2	0.631	0.996	0.00	Warning Signs It can be difficult to distinguish between typical childhood behavior and behavior resulting from drug use.	ds:2
+i would	I'd	2	2	0.674	0.998	0.00	I would never have guessed he was that old..	ds:2
+you'll	You will	2	2	0.841	0.994	0.00	You'll need your phone behind the wheel if a serious situation occurs or is already unfolding and you require emergency services fast.	ds:2
+as stated by	According to	2	2	0.633	0.991	0.00	"As stated by ""NHTSA's Office of Emergency Medical Services,"" ""emergency telephone calls presented to the switchboard in May 2017 was 845,674, an average of 27.3 thousand per day."" This demonstrates that numerous people rely on their phones to contact EMS whenever any kind of incident or car crash takes place."	ds:2
+serious issue	major problem	2	2	0.655	0.997	0.00	In conclusion, texting while driving is a serious issue and we must find ways to prevent it.	ds:2
+each day	daily	2	2	0.800	0.974	0.00	"As further evidence, roughly 9 people are killed and 1,000 injured each day in the United States due to distracted driving (""The Dangers of Distracted Driving""), so the widespread use of cell phones while driving is a harmful practice in the U.S. and should be stopped immediately."	qqp:1,ds:1
+whenever	every time	2	2	0.665	0.996	0.00	Keep in mind, whenever you get behind the wheel, you're sharing the road with mothers, fathers, friends, and children.	ds:2
+secondly	Second of all	2	2	0.629	0.940	0.00	Secondly, vehicles are generally dangerous to both people and animals, particularly when individuals use their phones while operating a moving vehicle.	ds:2
+that is	That's	2	3	0.779	0.983	0.00	"That is why in Georgia the leading cause of distracted driving is phones, which is why the ""hands-free"" law was introduced, making it illegal to use your phone while driving."	ds:2
+driver	person driving	2	2	0.647	0.992	0.00	Texting while driving has proven to be dangerous and harmful both to the driver and to those around them, causing a substantial number of accidents and fatalities.	ds:2
+much time	long	2	2	0.556	0.991	0.00	Our phones distract us so much that we arguably shouldn't be allowed to drive with one in the car given how much time we spend on them.	qqp:1,ds:1
+many	There's a lot of	2	2	0.571	0.996	0.00	Many consequences would fall squarely on you, and we as a community don't want you to go through them.	ds:2
+educated about	taught	2	2	0.584	0.994	0.00	Teens in particular need to be educated about the risks of phone use while driving—how a single text can alter not just your own life, but the lives of everyone around you.	ds:2
+look	be looking	2	2	0.581	0.989	0.00	Because of how risky it is, people should not look at their phones at all while driving; however, hands-free options like Bluetooth that are set up before the vehicle starts moving should be permitted, since the driver does not take their eyes off the road.	ds:2
+something	one thing	2	2	0.560	0.997	0.00	Phones are something we tend to keep in our hands at all times.	ds:2
+the number of	how many	2	2	0.554	0.994	0.00	The two are closely linked because of the number of injuries and deaths each has caused.	mrpc:1,ds:1
+in conclusion	To conclude	2	2	0.756	0.992	0.00	In conclusion, regardless of age or experience, drivers should be completely prohibited from using their phones while driving.	ds:2
+being in	getting into	2	2	0.684	0.985	0.00	When people use their phones while driving, their chances of being in an accident rise significantly.	ds:2
+into accidents	in wrecks	2	2	0.563	0.994	0.00	In today's world, people are so easily distracted, and many get into accidents because of it.	ds:2
+daily	each day	2	2	0.800	0.991	0.00	In 2015, an estimated 660,000 drivers in the United States used cell phones daily while driving during daylight hours.	ds:1,qqp:1
+extremely hazardous	very dangerous	2	2	0.762	0.997	0.00	Using a phone in any manner while driving is extremely hazardous and may cause the deaths of innocent individuals.	ds:2
+phones	phone usage	2	2	0.590	0.988	0.00	Using cell phones while driving shouldn't be completely banned; instead, it should be limited to all functions except GPS.	ds:2
+even though	Despite the fact that	2	2	0.572	0.998	0.00	Even though they're endangering themselves, people continue to use their phones while driving because they don't want to miss anything and want to stay in touch with others.	ds:2
+don ’ t	Don't	2	2	0.966	0.991	0.00	Don’t text and drive—by avoiding it, you’ll save lives!	ds:2
+nearly	that almost	2	2	0.730	0.996	0.00	Because cell phones offer various distractions and nearly everyone on Earth has one, some people use their phones while driving.	ds:2
+individuals feel they	people	2	2	0.575	0.986	0.00	Although using a phone while driving is risky, some individuals feel they have no alternative.	ds:2
+aged	between the ages of	2	2	0.626	0.992	0.00	Texting behind the wheel is a greater issue today than ever before, since 69 percent of U.S. drivers aged 18 to 64 acknowledged having used their cell phone while driving in the past month.	ds:2
+driving	being behind the wheel	2	2	0.635	0.968	0.00	Every day, individuals lose their lives or suffer injuries because they use their cell phones while driving.	ds:2
+that is	that's	2	2	0.779	0.971	0.00	At 55 mph, that is enough time to cover the length of a football field.	ds:2
+are choosing	make the decision	2	2	0.600	0.997	0.00	When you choose to text and drive, you are choosing to put the lives of those around you at risk.	ds:2
+a crash	crashing	2	2	0.797	0.994	0.00	You shouldn't use your phone while driving, as it can take your attention off the road and lead to mistakes or a crash.	ds:2
+probably	most likely	2	2	0.821	0.994	0.00	People should avoid using cell phones behind the wheel because they lose control and full focus, making them far more likely to be involved in a crash and probably be held responsible for it.	ds:2
+have demonstrated	had proven	2	2	0.648	0.996	0.00	Scientists have demonstrated that people talking on the phone picture the person they are speaking to, and this does not interfere with driving.	ds:2
+checking	looking at	2	2	0.571	0.994	0.00	A good reason not to text while driving is that it only takes a few seconds to park your car, if checking your phone is really that important.	ds:2
+at present	Currently	2	2	0.614	0.996	0.00	At present there is no nationwide ban on texting or using a wireless phone while driving, but several states have passed laws prohibiting texting or requiring hands-free use of wireless phones while driving.	ds:2
+to conclude	In conclusion	2	2	0.756	0.988	0.00	To conclude, I maintain that using your phone while driving is largely unacceptable.	ds:2
+stay focused	focus	2	2	0.795	0.989	0.00	When we are behind the wheel, it can be extremely hard to stay focused on what is going on around us, and it is easy to forget that we share the road with other people, not just ourselves.	ds:2
+research has shown	Studies have proved	2	2	0.820	0.998	0.00	Research has shown that drivers who use cell phones behind the wheel are more likely to cause accidents.	ds:2
+decide	make a decision	2	2	0.727	0.998	0.00	So if people don't decide to put their cell phones away, their daily habits can hurt innocent people and can also harm themselves.	ds:2
+daily routines	routine	2	2	0.854	0.906	0.00	Therefore, unless people decide to put their cell phones away, their daily routines can harm innocent people.	ds:2
+major problem	big issue	2	2	0.688	0.996	0.00	This has become a major problem in modern America.	ds:2
+someone	that person	2	2	0.722	0.992	0.00	This is because when someone is driving and a notification sound goes off, the driver will hurry to check their phone to see what it is.	ds:2
+an	a recent	2	2	0.581	0.965	0.00	"In an article I recently read, it stated: ""2017 U.S."	ds:1,mrpc:1
+phone use behind the wheel	phones while driving	2	2	0.690	0.960	0.00	Among these, only 15 states completely prohibit handheld cell phone use behind the wheel.	ds:2
+in danger	at risk	2	2	0.715	0.992	0.00	Texting and driving puts countless unaware people in danger.	ds:2
+paying attention to	focusing on	2	2	0.573	0.993	0.00	People believe that staying connected to others matters more than paying attention to the road ahead.	ds:2
+preoccupied with	focused on	2	2	0.629	0.994	0.00	As a society, we've become so preoccupied with how much we can accomplish at once that we're prepared to jeopardize our own safety and that of others simply because we won't set our phones aside.	ds:2
+a car	an automobile	2	2	0.896	0.991	0.00	But the main problem arising is people texting on their phones while driving a car.	ds:2
+behind the wheel	while driving a vehicle	2	2	0.550	0.990	0.00	Cell phones are a major distraction behind the wheel.	ds:2
+the majority of	most	2	2	0.577	0.993	0.00	"The most common mistake drivers make is ""recognition error,"" a category that includes ""driver's inattention, internal and external distractions, and inadequate surveillance."" In other words, the majority of crashes are not the fault of blatantly drunk individuals, nor of the aggressive driver willing to do anything to arrive a minute sooner."	ds:2
+focusing on	Paying attention to	2	2	0.573	0.997	0.00	Focusing on the road is essential and should be your top priority.	ds:2
+annually	per year	2	2	0.763	0.989	0.00	Alcohol-impaired driving claims over ten thousand lives annually.	ds:2
+among the primary causes of	leading factors that cause	2	2	0.711	0.991	0.00	Research indicates that cell phones are among the primary causes of accidents.	ds:2
+in spite	Despite	2	2	0.570	0.997	0.00	In spite of this danger, people continue to use cell phones because they wish to remain reachable at all times and stay connected with others.	ds:2
+replying to	answering	2	2	0.585	0.992	0.00	Clearly, making a call or replying to a text while driving can be dangerous both for you and for others on the road.	ds:2
+most	the majority	2	2	0.644	0.997	0.00	Today, most of the population uses a cell phone every day.	ds:2
+paying	having to pay	2	2	0.735	0.991	0.00	Using your phone while driving simply isn’t worth going to jail, paying a fine, or losing your life or someone else’s.	qqp:1,ds:1
+have taken	took	2	2	0.697	0.990	0.00	A wise man once told me, “all life is precious, and it is not man’s place but our creator’s to take it away.” Nothing is more wrong than knowing you have taken a human life, and that is why I believe using a cellular device while driving should be illegal.	ds:1,qqp:1
+live	be living	2	2	0.719	0.994	0.00	It also helps to live at home with your parents (i.e., pay no rent); if you're young, this shouldn't be a problem.	ds:1,qqp:1
+told me	said	2	2	0.577	0.991	0.00	She told me it was okay if I continued, as long as I smoked outside the apartment and followed some basic hygiene practices to protect her and the baby, but it felt cruel to flaunt something I knew she enjoyed right in front of her while she was abstaining, so I quit out of solidarity.	ds:2
+the size of	as big as	2	2	0.648	0.968	0.00	Picture yourself cruising past in a van the size of their house, sipping from a damn bottle of water, griping about the heat because the AC's busted—and you just happen to weigh 350 pounds (heyyy, Pastor)!	qqp:1,ds:1
+enters the	gets into	2	2	0.712	0.996	0.00	Two key neurotransmitters help determine what enters the prefrontal cortex and when: dopamine and norepinephrine.	ds:2
+won ’ t	won't	2	2	0.962	0.984	0.00	Not only will I not tell you about the gift set, but if I know you won’t ask for a receipt, I’ll enter the gift set code, put the regular item back on the shelf, and save the gifts for a more deserving customer.	ds:2
+upfront	up front	2	2	0.664	0.981	0.00	What I'm saying then is that since that's how things are (at least as I've seen them), being upfront about one's expectations prevents the (unfortunate) reality of how things are.	ds:2
+someone	the person	2	2	0.789	0.980	0.00	I believe a good way to distinguish between love and devotion is this: if someone would genuinely be better off without you, and you urge them to leave, that shows love.	qqp:1,ds:1
+by the time	When	2	2	0.596	0.997	0.00	By the time guesses put him at 14-16 years old, I had bonded with no animal in my life more deeply than JD.	hc3:1,ds:1
+return	go back	2	2	0.554	0.998	0.00	I could return to the previous battle, but that didn't help much.	ds:2
+it would	it'll	2	2	0.642	0.996	0.00	If the programmer failed to make the application verify that the proposed transfer amount is between $0.01 and your balance of $2.04, it would probably go through!	ds:2
+she is	she's	2	2	0.778	0.994	0.00	Now she has a large amount of money, but she is old.	qqp:1,ds:1
+came back	returned	2	2	0.631	0.989	0.00	When my uncle came back from the funeral home, I asked him whether Aunt Ruth was senile and told him the story.	ds:2
+came to visit	visited	2	2	0.724	0.987	0.00	Things had ended badly between us, and she had even hinted threateningly that something might happen when he came to visit.	ds:2
+issue arises	problem is	2	2	0.690	0.997	0.00	The issue arises when people choose to use their faith, their views, or their ideals to tear others down or take from them.	ds:2
+fear	are afraid of	2	2	0.723	0.988	0.00	Whatever the reason, I believe many fans would like to join in discussions, but they either feel intimidated by the prospect of sharing their thoughts with people they assume are far more knowledgeable, or they fear having something spoiled that they haven't watched yet.	ds:1,qqp:1
+an excellent	a great	2	2	0.898	0.988	0.00	However, once you’re capable of being an excellent owner, it becomes a kind of moral obligation to give other dogs a chance.	ds:1,qqp:1
+a day	daily	2	2	0.688	0.983	0.00	I finally destroyed the tape, but only after watching it three to five times a day, six days a week, for at least fifteen months.	ds:1,qqp:1
+hardest	most difficult	2	2	0.831	0.989	0.00	Axton and Gaige are typically seen as the easiest characters to use (though not necessarily the strongest), while most people consider Zer0 the hardest.	ds:1,qqp:1
+shows up	appears	2	2	0.614	0.990	0.00	Whenever a promising white item shows up, attempt to imbue it.	ds:2
+likely the reason	probably why	2	2	0.793	0.993	0.00	That's likely the reason the Running Man gives up the race after the 4-minute mark — because 4 minutes is a rounded-down version of 4:15, and 4:15 equals (4 * 60 + 15) = (240 + 15) = 255, with 255 being the maximum value an unsigned byte can hold.	ds:2
+somewhat	a bit	2	2	0.592	0.997	0.00	The workspace was somewhat cramped, but it was a side business—just the two of us.	ds:2
+want to	Wanna	2	2	0.692	0.988	0.00	"""Want to feed him!?"" she asked with excitement."	hc3:1,ds:1
+say	are saying	2	2	0.574	0.994	0.00	I don't mean what I say, I don't care what they say, and I do it only because I'm waiting for 7:00 when the party ends and I can leave.	mrpc:1,ds:1
+an error	a mistake	2	2	0.682	0.988	0.00	Looking back, allowing players to potentially see the minimap screens was an error.	ds:2
+imagine	think of	2	2	0.567	0.995	0.00	Another concern I have when I imagine my partner being physically intimate with someone else is that her passionate connection with that person will leave me shut out or rejected.	ds:1,qqp:1
+couldn ’ t	couldn't	2	2	0.974	0.993	0.00	I had no other option that wouldn’t harm someone else—there were cars ahead and behind, and I couldn’t reach the regular brakes.	ds:2
+would play	played	2	2	0.612	0.985	0.00	Our dog would play soccer, football, and basketball with us, and she even learned to open the back door for us when we were carrying in groceries.	mrpc:1,ds:1
+completes	to finish	2	2	0.593	0.995	0.00	They enable a runnable to be executed by the UI thread, either synchronously, which makes the background thread wait until the runnable completes, or asynchronously, which lets the background thread keep running without waiting for the result.	ds:2
+a bit	slightly	2	2	0.622	0.988	0.00	Tilt the guitar up a bit, raise it with your body and fretting hand, and look across the fretboard to keep track of where your hand is.	mrpc:1,ds:1
+allocation became	was allocated in a	2	2	0.699	0.997	0.00	"Starting with Windows Vista, memory allocation became more ""random""; Windows selects a location that may or may not be next to any other reserved block (it's only assured that it won't overlap another reserved block)."	ds:2
+stays	is kept	2	2	0.641	0.996	0.00	Once `bar` returns, nothing references VBO3 anymore, so VBO3 becomes eligible for garbage collection—but note that as long as `b` exists, VBO2 stays in memory.	ds:2
+retain some	keep a bit of	2	2	0.585	0.995	0.00	Keep in mind that even folk rockers such as Indigo Girls have to retain some badass quality in their stage presence, and they likely deliver the best live performances of anyone ever (seriously, if you've never seen them, just go see them).	ds:2
+though	but also	2	2	0.662	0.991	0.00	Note that the top of the upper bout sits between Emily's breasts here, which is partly the main difference between male and female positioning, though men would usually lift the guitar to the same spot anyway.	ds:2
+are unable to	cannot	2	2	0.788	0.991	0.00	From my experience working with police officers and attending training for prosecutors who handle DUI cases, I know that most officers and lawyers are unable to describe the unit of measurement.	ds:2
+calling	When you call	2	2	0.677	0.995	0.00	Calling a function gives it a private namespace in which its local variables are created.	ds:2
+to begin	First	2	2	0.584	0.995	0.00	To begin, define a function that accepts the argument and returns a dictionary of data for the result.	ds:2
+some suggest beginning	I've seen recommendations for starting	2	2	0.683	0.998	0.00	Some suggest beginning on a Wednesday or Thursday, since key Scrum events typically take place on the first day (sprint planning) and the final day (review and retrospective) of a sprint.	ds:2
+take	are taking	2	2	0.587	0.927	0.00	If a sprint starts or ends on a Monday or Friday, there's a greater chance of routinely missing team members who take a vacation day around a long weekend, leave early on Friday, or arrive late on Monday.	ds:2
+leave	or are leaving	2	2	0.572	0.943	0.00	If a sprint starts or ends on a Monday or Friday, there's a greater chance of routinely missing team members who take a vacation day around a long weekend, leave early on Friday, or arrive late on Monday.	ds:2
+arrive	coming in	2	2	0.594	0.989	0.00	If a sprint starts or ends on a Monday or Friday, there's a greater chance of routinely missing team members who take a vacation day around a long weekend, leave early on Friday, or arrive late on Monday.	ds:2
+logger ’ s	logger's	2	3	0.987	0.989	0.00	To decide whether to handle an event, the logger’s effective level is used to determine if the event is passed on to the logger’s handlers.	ds:2
+portion that shows up	part which appears	2	2	0.673	0.996	0.00	"You can use either of these two classes in place of a format string, enabling {}- or $-formatting to construct the actual ""message"" portion that shows up in the formatted log output instead of “%(message)s”, “{message}”, or “$message”."	ds:2
+for instance	As an example	2	2	0.635	0.998	0.00	For instance, you might want to set a log file's ownership.	ds:2
+its position	placement	2	2	0.647	0.996	0.00	No matter which theme you choose, you can still customize each button and its position.	ds:2
+begin	You can start	2	2	0.604	0.996	0.00	"Begin with the ""advanced"" theme, paste the button templates below after the init brackets, and trim them to fit your form's needs (just be sure the final line in the init section has no comma)."	ds:2
+form's needs	form	2	2	0.784	0.952	0.00	"Begin with the ""advanced"" theme, paste the button templates below after the init brackets, and trim them to fit your form's needs (just be sure the final line in the init section has no comma)."	ds:2
+most basic	simplest	2	2	0.556	0.992	0.00	In its most basic form—one that an except clause couldn't already handle—it resembles the following: Like any code built around try statements, this can create difficulties for development and code review, since the setup code and the cleanup code may be divided by sections of code of arbitrary length.	ds:2
+you want	you'd like	2	2	0.664	0.997	0.00	If you want to create a custom admin site with your own behavior, you can subclass AdminSite and modify or add whatever you need.	qqp:1,ds:1
+set up	setup	2	2	0.821	0.995	0.00	Open a new command prompt, go to the directory where you want your project to be located, and then type the following command: This will create a folder named 'project-name' if it doesn't already exist and set up the virtual environment.	qqp:1,ds:1
+during the	when we called	2	2	0.566	0.977	0.00	Although `foo` has already returned, VBO2 persists because the `bar` function created during the `foo` call references it, and we still hold a reference to that function through the `b` variable.	ds:2
+through the	via our	2	2	0.582	0.987	0.00	Although `foo` has already returned, VBO2 persists because the `bar` function created during the `foo` call references it, and we still hold a reference to that function through the `b` variable.	ds:2
+elsewhere in	into other areas of	2	2	0.620	0.995	0.00	After confirming that your patch and test are functioning properly, it's advisable to run the full Django test suite to make sure your change hasn't caused bugs elsewhere in Django.	ds:2
+set up	configure	2	2	0.551	0.998	0.00	So I'm forced to set up postfix to use the domain as the origin, and all the mail appears to come from the same place.	ds:2
+some	a few	2	2	0.755	0.995	0.00	The table below lists codecs by name, along with some common aliases and the languages for which each encoding is typically used.	raid:1,ds:1
+that contains	containing	2	2	0.676	0.983	0.00	The most basic way to use gunicorn is to provide the path to a module that contains a WSGI application object called application—for a standard Django project, this would appear as: This launches a single process with one thread listening on 127.0.0.1:8000.	ds:2
+begin while	start off	2	2	0.615	0.994	0.00	When learning something new on an acoustic guitar from the beginning, begin while seated so you can closely observe what you're doing.	ds:2
+gives back	returns	2	2	0.611	0.998	0.00	Calling a generator function doesn't produce a single value; rather, it gives back a generator object that implements the iterator protocol.	ds:2
+much like	similar to	2	2	0.716	0.996	0.00	When the yield expression runs, the generator emits the value of i, much like a return statement does.	ds:2
+defining	you define	2	2	0.686	0.987	0.00	Therefore, if you want the admin site to access all objects rather than only site-specific ones, place objects = models.Manager() in your model before defining ~django.contrib.sites.managers.CurrentSiteManager.	ds:2
+a claim	an assertion	2	2	0.729	0.990	0.00	A hypothesis test makes a claim about the **unknown population mean** (the $\mu$ in our model), and we use the observed (known) sample mean to assess how probable (or improbable) that claim is.	ds:2
+we could	would allow us to	2	2	0.677	0.988	0.00	If we could derive either ⊢ A or ⊢ ¬(A ∧ B), then by ∨-elimination we would obtain ⊢ (A ∨ ¬(A ∧ B)), from which we could conclude ⊢ ⊥.	ds:2
+to prove	of proving	2	2	0.798	0.965	0.00	Since I saw no direct way to prove ⊢ A, I first set out to prove ⊢ (A ∨ ¬(A ∧ B)) in order to obtain ⊢ A (lines 2 to 7).	ds:2
+another	some other	2	2	0.716	0.975	0.00	You simply need to make sure the screen is redrawn before pausing for user input, which you do by calling stdscr.refresh() or the refresh method of another relevant window first.	ds:1,hc3:1
+simple since each store provides	easy to do because both stores offer	2	2	0.602	0.998	0.00	This is simple since each store provides free sample chapters.	ds:2
+the kindle	Kindle's	2	2	0.890	0.996	0.00	Generally, books are formatted better in the iBooks Store than in the Kindle Store.	ds:2
+leaning	bent forward	2	2	0.638	0.975	0.00	Her weight rests on her toes since she's leaning slightly forward from the waist.	ds:2
+in contrast to	Unlike	2	2	0.565	0.998	0.00	The geography type offers built-in support for spatial features represented using geographic coordinates, such as WGS84 longitude/latitude. [#fngeography]_ In contrast to the planar model used by the geometry type, the geography type represents its data on a sphere.	ds:2
+a website	the web	2	2	0.714	0.995	0.00	This is typically what your browser does when you submit an HTML form you've filled out on a website.	ds:1,hc3:1
+to produce	for generating	2	2	0.556	0.995	0.00	Thus, in this case the BOM is not employed to identify the byte order used to produce the byte sequence, but rather as a marker that assists in detecting the encoding.	ds:2
+which makes	making	2	2	0.592	0.983	0.00	This makes programs significantly longer and takes up useful screen space, which makes it harder to get a good overview of a program.	ds:2
+when	By the time	2	2	0.596	0.997	0.00	When the form's clean() method is invoked, all the individual field clean methods have already been executed (as covered in the previous two sections), meaning self.cleaned_data will contain any data that has passed validation up to that point.	hc3:1,ds:1
+ranging from	in the range	2	2	0.708	0.991	0.00	A code point is an integer ranging from 0 to 0x10FFFF (approximately 1.1 million possible values, though the number actually assigned is smaller).	ds:2
+only ensures	is simply to do with ensuring	2	2	0.629	0.951	0.00	Declaring the list instance variable `volatile` does not make your list synchronized for mutation operations such as `add` or `removeFirst`. `volatile` only ensures that reads and writes of *that instance variable* are communicated correctly between threads and ordered correctly within them.	ds:2
+that runs	running	2	2	0.655	0.966	0.00	The trick is a string that runs from the strap button, over the top of the guitar’s lower bout, to the strap on the opposite side near your shoulder.	raid:1,ds:1
+placed within	embedded in	2	2	0.623	0.996	0.00	A classic issue in elasticity theory concerns an inhomogeneity placed within a material that has specified stress and shear moduli.	ds:2
+an appropriate	a suitable	2	2	0.876	0.983	0.00	Additionally, another custom circuit board was built to convert amplifier control signals into an appropriate format and to supply bias voltage to both the amplifier and the silicon sensors.	ds:2
+is likely to	will	2	2	0.552	0.993	0.00	Consequently, the potential benefit from a super-low traction regime in lubrication is likely to be more limited, particularly for experiments carried out at meso or macro scales.	ds:1,qqp:1
+report findings	present results	2	2	0.556	0.998	0.00	We report findings on two-particle angular correlations in proton-proton collisions at center-of-mass energies of 200 and 410 GeV.	ds:2
+an initial	a first	2	2	0.726	0.996	0.00	"As an initial application, we successfully reproduced variability resembling that seen in the puzzling ""orphan"" TeV flares, which occur without a matching X-ray flare."	ds:2
+perspective	view - point	2	3	0.565	0.888	0.00	The possible (algebraic) commutation relations in the Lagrangian quantum theory of free (scalar, spinor, and vector) fields are examined from a mathematical perspective.	ds:2
+identifying	The identification of	2	2	0.833	0.997	0.00	Identifying this instability could be important for interpreting GRB observations.	ds:2
+to illustrate	As an illustration of	2	2	0.712	0.966	0.00	To illustrate the application of our general formulas, we further show that \(Z^0 \to \nu + \nu\) is forbidden for either the standard or twisted coproduct of the Poincaré group when the neutrino is massless, even if lepton number is not conserved.	ds:2
+examine how	study	2	2	0.615	0.991	0.00	Investigating planets within open clusters enables us to examine how the dynamical environment influences planet formation and evolution.	ds:2
+besides	in addition to	2	2	0.612	0.988	0.00	In the type II seesaw mechanism, besides the type I seesaw contribution, there exists an additional direct mass term for light neutrinos.	ds:2
+equals	is equal to	2	2	0.807	0.992	0.00	In particular, it is proved that when X is a bounded metric space, the supremum of the mapping radii of X in all convex subsets of normed metric spaces equals the infimum of the sup norms of all convex linear combinations of the functions d(x,-): X --> R (x\in X).	ds:2
+within a	in the	2	2	0.599	0.997	0.00	It can account for both the nucleophilicity and electrophilicity of specific atomic sites within a molecule at the same time.	ds:2
+exceeds	larger than	2	2	0.551	0.991	0.00	When the Higgs boson mass exceeds $2 m_W$, the new decays become subdominant but are still worth attention.	ds:2
+μ	$ \ mu	2	3	0.771	0.971	0.00	Magnetization measured at T = 2 K shows two metamagnetic transitions at H_m1 = 31 kOe and H_m2 = 44.7 kOe for H ∥ [100], with a saturation magnetization of 1.6 μ_B/Ce.	ds:2
+large relative	big compared	2	2	0.555	0.997	0.00	This occurs when the triple scalar coupling A is very large relative to m_0.	ds:2
+in fact	indeed	2	2	0.627	0.997	0.00	A link between superlow friction in UHV and viscoplasticity has in fact been established for a-C:H films and confirmed for a fluorinated sample (a-C:F:H).	ds:1,hc3:1
+we show	it is shown	2	2	0.564	0.979	0.00	With this measure, we show that the probability for generalized single-field slow-roll inflation to last for \(N\) e-folds is suppressed by a factor of \(\exp(-3N)\), while the probability for generalized \(n\)-field slow-roll inflation is suppressed by a considerably larger factor of \(\exp(-3nN)\).	ds:2
+is composed	consists	2	2	0.600	0.994	0.00	If a $f_1$ meson in the mass range $1.4-1.5$ GeV is composed of four quarks $ns\bar{n}\bar{s}$, then the mass of the isoscalar $ud\bar{s}\bar{s}$ ($\vartheta^+$-meson) state with $J^P=1^+$ is expected to be less than that of the $f_1$ meson.	ds:2
+the same	identical	2	2	0.559	0.975	0.00	It is demonstrated that molecular crowding conditions—which are known to induce subdiffusion of larger molecules within biological cells—produce long-tailed distributions with the same exponent for both the unbinding times from the boundary to the bulk and the rebinding times from the bulk.	ds:1,qqp:1
+how many	the number of	2	2	0.554	0.987	0.00	Lastly, we demonstrate that a phase's nucleation rate depends, among other factors, on how many other phases are reachable from it.	mrpc:1,ds:1
+in particular	Specifically	2	2	0.680	0.998	0.00	In particular, we demonstrate that when the vertex weights lie on the free-fermion line of the phase diagram, the emptiness formation probability is connected to a one-matrix model featuring a triple logarithmic singularity, also called the Triple Penner model.	ds:2
+that corresponds	corresponding	2	2	0.556	0.941	0.00	In the stripe-ordered phase of a strongly correlated two-dimensional electron system, under certain special conditions, the superconducting condensate—similar to the magnetic order—can arise at a nonzero wave vector that corresponds to a spatial period twice that of the charge order.	ds:2
+notably	In particular	2	2	0.592	0.997	0.00	Notably, our calculated μ_{ΣΣ*} lies below the upper limit of 0.82μ_N recently reported by the SELEX collaboration.	ds:2
+examine a similar	consider an analogous	2	2	0.577	0.998	0.00	We also examine a similar effect for the strongly decaying $\Delta$(1232) resonance.	ds:2
+applying	the application of	2	2	0.601	0.952	0.00	Subsequently, applying a temperature gradient along these channels allows for direct and quantitative reading of phase diagrams, plotting concentration against temperature.	ds:2
+the absence	a lack	2	2	0.566	0.997	0.00	We further find that the absence of HI absorption along lines of sight (LOS) close to galaxies, as reported by Adelberger et al., can arise from hot gas surrounding galaxies produced by accretion shock heating.	ds:1,hc3:1
+tends toward infinity	approaches infinite	2	2	0.662	0.993	0.00	Zero-divisors (ZDs), generated through the Cayley-Dickson Process (CDP) from N-dimensional hypercomplex numbers (where N is a power of 2 and at least 4), are capable of representing singularities and, as N tends toward infinity, fractals—and consequently scale-free networks.	ds:2
+due to	caused by	2	2	0.687	0.984	0.00	If cases where someone is exposed to a large fire its due asphyxiation due to smoke inhalation .	mrpc:1,hc3:1
+fermat's	Fermat ' s	2	2	1.000	0.971	0.00	Fermat's Last Theorem is a famous math problem that states that there are no whole numbers (also called integers) that can be used to solve the equation x^n + y^n = z^n for any value of n greater than 2.	hc3:2
+buy	invest in	2	2	0.588	0.986	0.00	Eventually , you might even have enough money to buy new playhouses , and rent that out to more classmates ( invest in more housing ) .	hc3:1,qqp:1
+invest in	buy	2	2	0.588	0.997	0.00	Well , you ca n't get enough money to invest in new playhouses , so you do n't bother to get more playhouses for your friends .	hc3:1,qqp:1
+is	can also be	2	2	0.554	0.988	0.00	We did an experiment to directly test if space is curved , and it was .	hc3:2
+get	from getting	2	2	0.659	0.993	0.00	When you get kicked in the nuts, it can cause a lot of pain and discomfort, and it may even make you feel sick to your stomach.	hc3:2
+the way we know how far	For things that are much farther	2	2	0.561	0.986	0.00	The way we know how far away things are in space is by using parallax .	hc3:2
+different countries have different kinds of	Some country ' s	2	2	0.568	0.958	0.00	Different countries have different kinds of money that depends on how well the country makes and trades things to other countries .	hc3:2
+move from one cog	on the cogs that are attached	2	2	0.567	0.886	0.00	If you turn the bike upside down , hold the pedal with your hand and start turning it , then twist the handlebar grip to change gear , you 'll see the chain move from one cog to another .	hc3:2
+address is	addresses are	2	2	0.853	0.981	0.00	An IP address is a string of numbers that identifies a specific computer on the internet.	hc3:2
+middle ages	medieval times	2	2	0.813	0.989	0.00	Freemasonry is a fraternity, or brotherhood, that traces its roots to the local fraternities of stonemasons in the Middle Ages.	hc3:2
+is	seems to be	2	2	0.553	0.990	0.00	The clock is moving forward normally in my video .	hc3:2
+look	are looking	2	2	0.566	0.962	0.00	Because the objects that you look at by looking in a mirror are still far away .	hc3:2
+to learn	learning	2	2	0.742	0.990	0.00	Other people may have disabilities that make it more difficult for them to learn to read and write.	hc3:1,qqp:1
+now	these days	2	2	0.559	0.996	0.00	Another way that black light can be produced now is through LEDs .	qqp:1,hc3:1
+world war ii	WWII	2	2	0.872	0.986	0.00	Kamikaze pilots were Japanese pilots who flew their airplanes into enemy ships during World War II.	qqp:1,hc3:1
+was a	is	2	3	0.590	0.995	0.00	OJ Simpson was a black man who had been long - since accepted by white America , * * except he just killed a white woman . * * The lawyer who defended OJ was Johnnie Cochran , a famous civil rights lawyer .	raid:1,hc3:1
+networks are	network is	2	2	0.864	0.983	0.00	Neural networks are a type of computer program that are designed to recognize patterns.	hc3:2
+through a particular retailer	to retail outlets	2	2	0.642	0.938	0.00	It's also worth noting that best-seller lists can be influenced by other factors, such as the number of copies a publisher initially prints or the number of copies sold through a particular retailer.	hc3:2
+usually [	typically	2	2	0.557	0.998	0.00	Rubbing alcohol is usually [ isopropyl alcohl ] ( URL_0 ) , which is more toxic to you than ethanol .	hc3:2
+donor organ	transplant	2	2	0.635	0.982	0.00	Even if all of the cancer cells in an organ can be removed, it is not always possible to replace the infected organ with a donor organ.	hc3:2
+have saved	save	2	2	0.776	0.990	0.00	So after you have saved a file , parts of it remain in memory and have not yet been written out to the storage medium .	hc3:2
+this is known as defaulting	We will default	2	2	0.592	0.974	0.00	This is known as defaulting on its debt.	hc3:2
+coughing is a way	So you cough	2	2	0.625	0.994	0.00	Coughing is a way to expel all of the flem and crap out of your throat to clear it .	hc3:2
+lowest	below zero	2	2	0.564	0.995	0.00	"Kelvin defines the "" lowest "" possible to be zero degrees , which is useful for studying science but is not very practical for easily measuring and visualizing the temperature of everyday things ."	hc3:2
+standing	you stand	2	2	0.647	0.986	0.00	"Eye doctors have decided what a "" normal "" human being should be able to see when standing 20 feet away from an eye chart ."	hc3:2
+' d	would	2	2	0.556	0.977	0.00	Likewise , if you had 20/200 vision , you 'd have terrible vision , because you could only see something at 20 feet what the average person could see at 200 feet .	hc3:2
+legs while	leg when they are	2	2	0.781	0.991	0.00	People without restless legs syndrome may shake their legs while seated for a variety of reasons.	hc3:2
+they believe	It ' s believed	2	2	0.653	0.999	0.00	They believe that a quasar is , basically , a supermassive black hole .	hc3:2
+it ' s believed	They believe	2	2	0.653	0.982	0.00	It 's believed that the energy we detect as quasars is essentially the signature of these supermassive black holes consuming the stars in the centres of the galaxies in which they 're found .	hc3:2
+the energy we detect as quasars	a quasar	2	2	0.735	0.904	0.00	It 's believed that the energy we detect as quasars is essentially the signature of these supermassive black holes consuming the stars in the centres of the galaxies in which they 're found .	hc3:2
+is equal to	equals	2	2	0.807	0.988	0.00	So, in general, any number raised to the power of 0 is equal to 1.	hc3:2
+vocal recording	voice	2	2	0.675	0.929	0.00	Auto-Tune is a software effect that is used to adjust the pitch of a vocal recording to match a target pitch, often to make the singing more in tune.	hc3:2
+pain's	Paine ' s	2	2	0.782	0.989	0.00	T-Pain's app is a simplified version of Auto-Tune that is designed to be used on a smartphone.	hc3:2
+this type of color blindness	The colorblindness gene	2	2	0.679	0.918	0.00	This type of color blindness is usually inherited, which means it is passed down from your parents.	hc3:2
+start learning	learnt	2	2	0.582	0.996	0.00	When you first start learning to fly , you do n't use the instruments at all .	hc3:2
+learnt	start learning	2	2	0.582	0.996	0.00	But you 've still got the same basic instruments as when you first learnt to fly .	hc3:2
+ships have run	shipping ran	2	2	0.629	0.995	0.00	Merchant ships have run armed in the past - particularly in WW1 and 2 when they needed to shoot at german ships or be sunk themselves .	hc3:2
+shipping ran	ships have run	2	2	0.629	0.991	0.00	And prior to that merchant shipping ran armed in the age of sail .	hc3:2
+when they ' re expecting fastball	fastballs	2	2	0.614	0.989	0.00	"A closer will usually have another "" out "" pitch to throw batters off when they 're expecting fastball ."	hc3:2
+when these different wavelengths of light	The colors in the spectrum	2	2	0.622	0.978	0.00	When these different wavelengths of light are mixed together, they create the color brown.	hc3:2
+screen works	screens work	2	2	0.909	0.981	0.00	A green screen works by using a special kind of paint that is green in color and is applied to a large fabric or wall.	hc3:2
+concept that we use to measure	measurement based on	2	2	0.707	0.997	0.00	Time is a concept that we use to measure the duration of events and the order in which they occur.	hc3:2
+leg	legs are very difficult	2	2	0.591	0.940	0.00	You can check out this link for a video and more in - depth discussion , but the short answer is that it is so difficult for a horse 's leg to heal once broken , that it is simply more humane to put it down .	hc3:2
+button was	buttons were positioned to make it	2	2	0.612	0.976	0.00	men dressed themselves so the button was easy to do with the right hand women were typically dressed by others , or at least needed assistance with buttoning therefore the buttons are for someone outside the clothing to use their right hand .	hc3:2
+yeasts that	yeast and	2	2	0.884	0.997	0.00	"Ale yeasts tend to be "" top fermenting "" yeasts that perform better at higher fermentation temps 20C."	hc3:2
+yeast and	yeasts that	2	2	0.884	0.997	0.00	"Lager yeasts tend to be "" bottom fermenting "" yeast and perform better at lower temps 10C."	hc3:2
+tends	will tend	2	2	0.584	0.997	0.00	The more hops you add the more bitter a beer tends to be .	hc3:2
+will tend	tends	2	2	0.584	0.995	0.00	The lower the hop ratio in a beer will tend to give it a maltier flavor .	hc3:2
+copyright holder is entitled	whoever holds the copyrights	2	2	0.702	0.993	0.00	The artist or copyright holder is entitled to receive these royalties because they are the ones who created the music and are allowing the radio station to use it.	hc3:2
+missiles have a very	missile is generally pretty	2	2	0.744	0.914	0.00	Heat seeking missiles have a very narrow field of view in their heat ( infrared radiation ) sensor .	hc3:2
+heads can be pointed	head is pointing	2	2	0.827	0.974	0.00	Modern missiles tracking heads can be pointed at a heat source that is off the center line , and lock on .	hc3:2
+head is pointing	heads can be pointed	2	2	0.827	0.926	0.00	Once locked on , the tracking head is pointing at the heat source , and tries to navigate the missile in a way that it can keep looking at the heat source .	hc3:2
+breaks in	a break during	2	2	0.776	0.994	0.00	TV shows often take breaks in the middle of a season for a few different reasons.	hc3:2
+is located inside	in	2	2	0.558	0.996	0.00	This muscle is located inside your ear and is connected to the eardrum.	hc3:2
+see a vibration	vibrations	2	2	0.835	0.966	0.00	You will see see a vibration corresponding to a wave the length of the string .	hc3:2
+vibrations	see a vibration	2	2	0.835	0.976	0.00	But you will also see vibrations corresponding to the string vibrating in halves , and in thirds , and so on .	hc3:2
+different colours	their distinctive colour patters	2	2	0.654	0.944	0.00	Mixing of these genes give the cat different colours .	hc3:2
+their distinctive colour patters	different colours	2	2	0.654	0.954	0.00	Many genes are responsible for the different colour patters and it 's the mixing of these genes that give the cat their distinctive colour patters .	hc3:2
+kinds	different types	2	2	0.783	0.996	0.00	It is mainly due to to the kinds of proteins that make up your hair .	hc3:2
+reasons that	reason	2	2	0.854	0.990	0.00	For exactly the same reasons that the US keeps hacking , say , China , Iran , and Russia .	hc3:2
+reason	reasons that	2	2	0.854	0.993	0.00	Same reason the US is hacking China .	hc3:2
+isps have their own connections	Each ISP is connected	2	2	0.783	0.986	0.00	ISPs have their own connections to other ISPs who connect to other ISPs and so on .	hc3:2
+each isp is connected	ISPs have their own connections	2	2	0.783	0.990	0.00	Each ISP is connected to every other ISP in the world , either directly or through another ISP .	hc3:2
+will allow you	may be able	2	2	0.588	0.974	0.00	This other carrier wo n't show up on your cell phone 's signal meter , but it will allow you to place an emergency call .	hc3:2
+homosexuals are homosexual for genetic reasons	homosexuality is based on genetics	2	2	0.846	0.988	0.00	That does n't mean that 35 % of homosexuals are homosexual for genetic reasons , rather for each individual , 35 % of the homosexuality can be attributed to genetics .	hc3:2
+evolved	* did * evolve	2	2	0.657	0.995	0.00	Our taste buds evolved to help us find and enjoy food that was high in energy and nutrients, which was especially important for our ancestors who needed to find enough food to survive.	hc3:2
+hours start	starts	2	2	0.592	0.994	0.00	First day of summer is always the summer solstice - the last day before daylight hours start getting shorter .	hc3:2
+starts	hours start	2	2	0.592	0.985	0.00	And the first day of winter is the winter solstice , the first day that daylight starts getting longer again .	hc3:2
+better gas mileage	more fuel efficient	2	2	0.651	0.992	0.00	So , in summary , diesel advantages are better gas mileage , cleaner emissions , better power ( more torque ) at slower speeds ( for pulling things , doing work , climbing hills , etc ) , and on occasion costing less for gas .	hc3:2
+sheriff is an	Sheriffs are	2	2	0.851	0.984	0.00	Sheriff is an elected position making it rather unique amongst law enforcement organizations and giving them a great deal of personal and professional freedom in pursuing their duties .	hc3:2
+sheriffs are	Sheriff is an	2	2	0.851	0.996	0.00	Sheriffs are elected law enforcement officers ( LEOs ) , often under the jurisdiction of the courts .	hc3:2
+we try to plug	Plugging	2	2	0.707	0.996	0.00	We try to plug in x = 1 but we quickly realize that we see 0/0 .	hc3:2
+that while it ' s very easy	much much easier	2	2	0.599	0.982	0.00	One of the thing about numbers ( any numbers , not just prime numbers ) for the purpose of cryptography is that while it 's very easy to multiply two numbers together to get a third number , it 's an awful lot harder to start with the third number and work out what the original two were .	hc3:2
+turn	convert the turning of	2	2	0.705	0.965	0.00	But the energy needed to turn the magnet is the same energy that is needed to move the car from one magnet to the next .	hc3:2
+convert the turning of	turn	2	2	0.705	0.982	0.00	So you 're not using the magnets as an energy source , you 're just using it as a way to convert the turning of the magnet into motion of the car .	hc3:2
+the price	prices	2	2	0.775	0.992	0.00	In ELI5 terms , this means that regardless of the price , people will still buy gas .	hc3:2
+prices	the price	2	2	0.775	0.991	0.00	There is some upper limit , but within a wide margin of prices , people will still buy gas .	hc3:2
+and some will	or they ' ll	2	2	0.637	0.991	0.00	Some people will prefer mine , and some will prefer yours .	hc3:2
+depending on	If	2	2	0.569	0.997	0.00	Depending on the writing format they use the most , a blind person might also visualize a word or its spelling in print .	hc3:2
+when you crack	Cracking	2	2	0.700	0.994	0.00	When you crack your knuckles or joints, you are stretching and pulling on the bones and the connective tissue around them.	hc3:2
+sugar molecules	sugars	2	2	0.748	0.973	0.00	Processed aka simple carbohydrates are very quickly and easily broken down into simple sugar molecules .	hc3:2
+sugars	sugar molecules	2	2	0.748	0.985	0.00	Processed carbohydrates are the same thing as simple sugars .	hc3:2
+is the result of this attempt at controlling	to control	2	2	0.630	0.988	0.00	For example , sourdough bread is the result of this attempt at controlling yeast .	hc3:2
+building the	built an entire	2	2	0.622	0.957	0.00	In another part where they had to dig directly under the existing elevated highway they first sunk steel girders 100 feet down to the bedrock , filled the area around them with concrete , then supported the existing highway on top of that while digging out the dirt and building the tunnel underneath .	hc3:2
+amount of	more	2	2	0.562	0.983	0.00	Obviously , chip manufacturers try to minimise the amount of heat generated , but some is always necessary .	hc3:2
+mosquitoes are still around	Mosquitos exist	2	2	0.771	0.997	0.00	Mosquitoes are still around because they serve important roles in the ecosystem.	hc3:2
+wand ' s fate	wands power would be broken	2	2	0.670	0.979	0.00	He put the Elder Wand back in Dumbledore 's grave and intended to die as its master , thus fulfilling Dumbledore ' final wish for the wand 's fate .	hc3:2
+opinions	opinion in it	2	2	0.739	0.959	0.00	They have the right to pay other newspapers to print their opinions .	hc3:2
+boop signals	boops	2	2	0.589	0.990	0.00	Earth sent 216 beeps , and received 72 boop signals .	hc3:2
+boops	boop signals	2	2	0.589	0.989	0.00	Earth sent out 24 beeps , and received 72 boops .	hc3:2
+you run	running	2	2	0.774	0.988	0.00	Take deep breaths while you run.	hc3:2
+depression	depressive symptoms	2	2	0.690	0.968	0.00	But a quick search on Google Scholar shows me that ( a ) I ca n't find a lot of literature directly assessing IQ and depression , ( b ) what little there is shows that there is n't an association , and ( c ) depressed people tend to score * worse * on standardised testing .	hc3:2
+depressive symptoms	depression	2	2	0.690	0.979	0.00	EDIT : I kept reading and found a couple studies that show an * inverse * relationship between IQ and depressive symptoms , especially in kids and teens .	hc3:2
+due to	because	2	2	0.560	0.992	0.00	This causes water to flow into your cells due to the pressure of the water outside being greater than the pressure of the water inside .	hc3:2
+because	due to	2	2	0.560	0.996	0.00	This causes water to flow out of your cells because the dissolved minerals and particulates in the water lowers the concentration of the saltwater outside your cells , making it less than the concentration of water inside your cells .	hc3:2
+argument against gmos	anti - GMO movement	2	2	0.666	0.958	0.00	The argument against GMOs is more of an argument against evil corperations like Monsanto .	hc3:2
+the iphone causes	IPhones cause	2	2	0.826	0.980	0.00	Instead the anti - Apple group spreads a rumor that the IPhone causes cancer ( which it does n't ) .	hc3:2
+iphones cause	the IPhone causes	2	2	0.826	0.989	0.00	"Now the group has "" proof "" that IPhones cause cancer and try to have them banned ."	hc3:2
+anti - gmo movement	argument against GMOs	2	2	0.666	0.993	0.00	TL;DR : The anti - GMO movement is propaganda to attack large corperationa like Monsanto .	hc3:2
+yogurt that has the	yoghurt and	2	2	0.725	0.994	0.00	Fruit on the bottom yogurt is a type of yogurt that has the fruit on the bottom of the container instead of being mixed in with the yogurt.	hc3:2
+the event of a car crash	an accident	2	3	0.706	0.950	0.00	The headrests in car seats are angled forward to help protect your head and neck in the event of a car crash.	hc3:2
+explosion	explosive goes off there	2	2	0.700	0.976	0.00	An explosion is basically a shockwave .	hc3:2
+shockwave	shock wave that expands outwards	2	2	0.582	0.943	0.00	An explosion is basically a shockwave .	hc3:2
+ear drum	eardrum	2	2	0.840	0.951	0.00	A rapid , severe enough change could permanently damage your ear drum .	hc3:2
+eardrum	ear drum	2	2	0.840	0.975	0.00	You could possibly force too much of a change and damage your eardrum .	hc3:2
+stripping	a strip	2	2	0.652	0.989	0.00	In stripping , the taking off of clothing is the main event .	hc3:2
+a strip	stripping	2	2	0.652	0.976	0.00	In a strip , the stripping is the main event .	hc3:2
+color	colour the various	2	4	0.630	0.995	0.00	We don't actually know what color dinosaurs like T-Rexes were for sure, because we don't have any of their skin or feathers preserved.	hc3:2
+large	really big	2	2	0.760	0.995	0.00	Because it is such a large and diverse group there were very likely drab dinosaurs and quite colourful ones .	hc3:2
+style sheets	Stylesheet	2	2	0.744	0.978	0.00	CSS stands for Cascading Style Sheets.	hc3:2
+mac as it could	Macintosh appeared	2	2	0.580	0.970	0.00	Then Windows came out , and copied as much of the Mac as it could .	hc3:2
+pop up	Popup	2	2	0.823	0.991	0.00	Pop up blockers use scripts that detect pop ups in the pages coding and stop them from activating .	hc3:2
+amount of time	longer	2	2	0.587	0.984	0.00	Secondly , we know that nocturnal emissions , or wet dreams , are directly related to the amount of time you go without ejaculating / masturbating .	hc3:2
+longer	amount of time	2	2	0.587	0.974	0.00	The longer you go without ejaculating , the more likely you are to have a wet dream .	hc3:2
+it ' s freezing	they freeze	2	2	0.654	0.979	0.00	It 's because it 's literally breaking up any of the larger bonds of small crystals while it 's freezing .	hc3:2
+they freeze	it ' s freezing	2	2	0.654	0.989	0.00	Churning prevents the small crystals from turning into big crystals while they freeze .	hc3:2
+stops	even if you stop	2	2	0.583	0.968	0.00	WHen it stops giving cookies , doggy says , I guess the cookie machine is broken now , and goes to do something else .	hc3:2
+i wanted	want	2	2	0.659	0.946	0.00	Before money , if I had a chicken and I wanted some apples , I had to find some guy who wanted a chicken and had some apples .	hc3:2
+want	I wanted	2	2	0.659	0.961	0.00	If I have a chicken and want some apples , I can sell my chicken to * anyone * who wants a chicken , take the money they give me , and then give that to anyone who has apples .	hc3:2
+an	A power	2	2	0.561	0.957	0.00	An inverter changes DC to AC .	hc3:2
+apply	start by applying	2	2	0.730	0.988	0.00	If you do n't find what you 're looking for , you apply a binary search to one half of the shelf .	hc3:2
+liner	liners help	2	2	0.838	0.985	0.00	Basically , eye shadows and eye liner make eyes look larger and more youthful .	hc3:2
+liners help	liner	2	2	0.838	0.973	0.00	"Supposedly , eye shadow and eye liners help make a woman 's eyes look more "" sultry "" and mimics how a woman looks at their partner during sex ."	hc3:2
+was a real	were an	2	2	0.629	0.968	0.00	The Illuminati was a real 18th century organization which embraced Enlightenment values .	hc3:2
+were an	was a real	2	2	0.629	0.964	0.00	The Illuminati were an 18th century society in what is today Germany .	hc3:2
+protein	proteins on	2	2	0.850	0.994	0.00	"Even though the type of antigen protein their red blood cells have is ' other ' than "" A "" or "" B "" they still produce the ' anti a ' and the ' anti b ' antibodies ."	hc3:2
+various pitches	The pitcher	2	2	0.577	0.959	0.00	Various pitches can behave very differently and if the catcher was n't aware of which pitch was coming he would be beyond pissed .	hc3:2
+it charges using induction	This is inductive charging	2	2	0.733	0.995	0.00	It charges using induction .	hc3:2
+this is inductive charging	It charges using induction	2	2	0.733	0.995	0.00	This is inductive charging .	hc3:2
+account gives	accounts will only give	2	2	0.846	0.989	0.00	A savings account gives you interest and is guaranteed not to lose numerical value .	hc3:2
+accounts will only give	account gives	2	2	0.846	0.991	0.00	But savings accounts will only give you 0.05 % interest .	hc3:2
+eggshells	egg shells	2	2	0.812	0.996	0.00	Ingredients used included a powder of ox hooves ' ashes and burnt eggshells , that was combined with pumice .	hc3:2
+makes	will make	2	2	0.681	0.987	0.00	Physical torture makes you a lesser version of what you were before if it succeeds .	hc3:2
+will make	makes	2	2	0.681	0.965	0.00	Mental torture will make you into a lesser , but new being .	hc3:2
+the protocol for the prohibition of	It prohibits	2	2	0.589	0.990	0.00	The Protocol for the Prohibition of the Use in War of Asphyxiating , Poisonous or other Gases , and of Bacteriological Methods of Warfare , usually called the Geneva Protocol , is a treaty prohibiting the use of chemical and biological weapons in international armed conflicts .	hc3:2
+it prohibits	The Protocol for the Prohibition of	2	2	0.589	0.962	0.00	"It prohibits the use of "" asphyxiating , poisonous or other gases , and of all analogous liquids , materials or devices "" and "" bacteriological methods of warfare "" ."	hc3:2
+being ticklish	Ticklishness	2	2	0.911	0.996	0.00	Being ticklish is caused by certain parts of your body being more sensitive to touch than others.	hc3:2
+when you eat	eating	2	2	0.740	0.994	0.00	So maybe that 's what happens to you when you eat grass .	hc3:2
+eating	when you eat	2	2	0.740	0.986	0.00	Why are you eating grass anyway ?	hc3:2
+drive stores the	discs store	2	2	0.625	0.886	0.00	A big reason is your hard drive stores the data magnetically , putting a magnet near it realigns the poles and destroys the data	hc3:2
+finitely many	an infinite number of	2	2	0.727	0.995	0.00	"This means the statement "" there are FINITELY many prime numbers "" is false ."	hc3:2
+an infinite number of	FINITELY many	2	2	0.727	0.996	0.00	"This is equivalent to "" there are an infinite number of prime numbers "" ."	hc3:2
+occam's	Occam ' s	2	2	1.000	0.993	0.00	"There isn't really a ""proof"" that Occam's Razor works, in the sense that it is a scientific law that has been proven through experiments."	hc3:2
+human beings	Humans	2	2	0.814	0.997	0.00	Human beings are omnivores, which means that we are designed to eat both plants and animals.	hc3:2
+usa	United States	2	2	0.894	0.994	0.00	So the USA is both a republic and a democracy at the same time .	hc3:2
+a	an extremely	2	2	0.622	0.996	0.00	The One Ring is a powerful and magical object from the Lord of the Rings stories.	hc3:1,raid:1
+web site	website	2	2	0.907	0.988	0.00	When you go to a web site , the web server runs the php program which creates the web page you see .	mrpc:1,hc3:1
+are living	live	2	3	0.660	0.996	0.00	Scientists can't definitively prove whether or not we are living in a computer simulation, but they can try to find evidence that would support or contradict the idea.	qqp:1,hc3:1
+it ' s	its	2	2	0.792	0.905	0.00	"People stick "" www "" in the front to very easily communicate it 's a website ."	mrpc:1,hc3:1
+on the internet	online	2	2	0.618	0.988	0.00	There are also many free and open - source game engines available on the Internet .	hc3:1,qqp:1
+systems are used in	system is	2	2	0.650	0.984	0.00	Expert systems are used in a variety of fields, including medicine, engineering, and finance, to help make decisions and solve problems more efficiently.	hc3:2
+a higher	high	2	2	0.640	0.991	0.00	Another important feature of SVMs is that they can handle data that is not linearly separable by using a kernel function, which maps the data into a higher-dimensional space in which it becomes linearly separable.	hc3:2
+used to reduce	for reducing	2	2	0.797	0.995	0.00	Principal component analysis (PCA) is a statistical technique used to reduce the dimensionality of a data set.	hc3:2
+_	- -	2	3	0.753	0.902	0.00	"Also demonstrating box-office strength _ and getting seven Tony nominations _ was a potent revival of Eugene O 'Neill 's family drama , "" Long Day 's Journey Into Night ."	mrpc:2
+day ' s	Days	2	2	0.741	0.885	0.00	"Also demonstrating box-office strength _ and getting seven Tony nominations _ was a potent revival of Eugene O 'Neill 's family drama , "" Long Day 's Journey Into Night ."	mrpc:2
+- -	_	2	3	0.753	0.904	0.00	Also demonstrating box-office strength -- and getting seven Tony nominations -- was a potent revival of Eugene ONeills family drama , Long Days Journey Into Night .	mrpc:2
+days	Day ' s	2	2	0.741	0.912	0.00	Also demonstrating box-office strength -- and getting seven Tony nominations -- was a potent revival of Eugene ONeills family drama , Long Days Journey Into Night .	mrpc:2
+the companies	a company	2	2	0.731	0.987	0.00	If the companies won 't , their drugs could be prescribed to Medicaid patients only with the state 's say-so .	qqp:1,mrpc:1
+chief executive officer	CEO	2	2	0.780	0.985	0.00	""" This sale is part of our efforts to simplify our Foodservice Products business and improve its cost structure , "" Multifoods chairman and chief executive officer Gary Costley said ."	mrpc:2
+ceo	chief executive officer	2	2	0.780	0.985	0.00	""" This sale is part of our efforts to simplify our Foodservice Products business and improve its cost structure , "" chairman and CEO Gary Costley said in a statement ."	mrpc:2
+who ' s	whos	2	2	0.768	0.985	0.00	"Peterson added , "" I don 't know anybody in the conference committee who 's fighting to keep it out completely ."	mrpc:2
+whos	who ' s	2	2	0.768	0.979	0.00	But Peterson added , I dont know anybody in the conference committee whos fighting to keep it out completely .	mrpc:2
+times in which	time	2	2	0.554	0.988	0.00	Experts said the case marks one of the first times in which a parent was charged with contributing to a child 's suicide .	mrpc:2
+time	times in which	2	2	0.554	0.986	0.00	Legal experts say the case may mark the first time a parent has been convicted of contributing to a child 's suicide .	mrpc:2
+died	was killed	2	2	0.716	0.992	0.00	He blamed guerrillas from the Taliban regime ousted in late 2001 and said it was possible the bomber died in the blast .	mrpc:2
+was killed	died	2	2	0.716	0.991	0.00	He blamed the blast on guerillas from the Taliban regime overthrown in late 2001 and said it was possible the bomber was killed in the blast .	mrpc:2
+cyber assets	cyberassets	2	2	0.645	0.898	0.00	""" This new division will be focused on the vitally important task of protecting the nation 's cyber assets so that we may best protect the nation ’ s critical infrastructure assets ."	mrpc:2
+cyberassets	cyber assets	2	2	0.645	0.880	0.00	""" This new division will be focused on the vitally important task of protecting the nation 's cyberassets so that we may best protect the nation 's critical infrastructure assets , "" he added ."	mrpc:2
+had already inspected	completed inspections of	2	2	0.638	0.998	0.00	Southwest said it had already inspected its fleet of 385 aircraft and found no additional suspicious items .	mrpc:2
+completed inspections of	had already inspected	2	2	0.638	0.997	0.00	Southwest said it completed inspections of its entire fleet of 385 aircraft and found no additional items .	mrpc:2
+said	noted that	2	2	0.561	0.988	0.00	Werdegar also said Intel 's servers were not harmed by the computer messages and the thousands of recipients were able to request that the e-mails stop , which Hamidi honored .	mrpc:2
+noted that	said	2	2	0.561	0.990	0.00	She also noted that Intel 's servers were not harmed and that the thousands of Hamidi e-mail recipients were able to request that the e-mails stop , which Hamidi honored .	mrpc:2
+imports	the import	2	2	0.835	0.972	0.00	Tehran has said it will only sign the protocol if a ban on imports of peaceful Western nuclear technology is lifted .	mrpc:2
+the import	imports	2	2	0.835	0.970	0.00	Tehran has made clear it will only sign the Additional Protocol introducing such inspections if a ban on the import of civilian Western nuclear technology is lifted .	mrpc:2
+were scrambling	scrambled	2	2	0.590	0.981	0.00	Delta personnel at Hartsfield-Jackson International Airport were scrambling all day to find alternate flights -- even on other airlines , when necessary -- to move the inconvenienced passengers .	mrpc:2
+scrambled	were scrambling	2	2	0.590	0.980	0.00	Delta personnel at Atlanta 's Hartsfield-Jackson International Airport scrambled all day to find alternate flights -- including seats on other airlines -- to move the inconvenienced passengers .	mrpc:2
+websites	Web sites	2	2	0.902	0.974	0.00	Stealing identities and credit card numbers with bogus e-mail and websites that appear to come from legitimate companies is an increasing problem on the Internet , federal officials warned Monday .	mrpc:2
+web sites	websites	2	2	0.902	0.973	0.00	Stealing identities and credit-card numbers with bogus e-mail and Web sites that appear to come from legitimate companies is an increasing problem on the Internet , federal officials warned yesterday .	mrpc:2
+founder of	founded	2	2	0.753	0.997	0.00	Sutherland , 65 , was a co-founder of Evans & Sutherland , an early maker of high-performance computers .	mrpc:2
+says	has said	2	2	0.666	0.997	0.00	Sharon says he is willing to free the two as holding them will not bring back Arad , who Israel believes is held by Iran .	mrpc:2
+has said	says	2	2	0.666	0.996	0.00	Sharon has said he is willing to free Dirani and Obeid because holding them will not bring back Arad , who Israel believes is held by Iran .	mrpc:2
+is being	will be	2	2	0.556	0.984	0.00	Jirsa is being introduced as Marshall head coach today at a noon news conference in the Bob Hartley / Big Green Room of Cam Henderson Center , The Herald-Dispatch learned .	raid:1,mrpc:1
+am	' m	2	2	0.635	0.997	0.00	""" I don 't see the urgency of this , and I am not going to grant this request ."	mrpc:2
+' m	am	2	2	0.635	0.993	0.00	""" I don 't see the urgency in this so I 'm not going to grant it , "" West said ."	mrpc:2
+united kingdom	UK	2	2	0.787	0.956	0.00	"In its statement , the bank said it believed "" the long-term prospects for the energy sector in the United Kingdom remain attractive ."	mrpc:1,raid:1
+uk	United Kingdom	2	2	0.787	0.938	0.00	""" We believe the long-term prospects for the energy sector in the UK remain attractive , "" Goldman said ."	mrpc:1,qqp:1
+settled	agreed to settle	2	2	0.662	0.958	0.00	State air regulators and two automakers have settled a lawsuit challenging the nation 's toughest auto emissions program , a spokesman for California 's air board said Monday .	mrpc:2
+agreed to settle	settled	2	2	0.662	0.956	0.00	State air regulators and three automakers have agreed to settle a lawsuit challenging the nation 's toughest auto emissions program , according to a spokesman for California 's air board .	mrpc:2
+harvesting	the harvest	2	2	0.853	0.990	0.00	Agriculture Secretary Luis Lorenzo told Reuters there was no damage to the vital rice crop as harvesting had just finished .	mrpc:2
+just finished	ended	2	2	0.621	0.995	0.00	Agriculture Secretary Luis Lorenzo told Reuters there was no damage to the vital rice crop as harvesting had just finished .	mrpc:2
+the harvest	harvesting	2	2	0.853	0.989	0.00	Agriculture Secretary Luis Lorenzo said there was no damage to the vital rice crop as the harvest had ended .	mrpc:2
+ended	just finished	2	2	0.621	0.994	0.00	Agriculture Secretary Luis Lorenzo said there was no damage to the vital rice crop as the harvest had ended .	mrpc:2
+runnerup	runner - up	2	2	0.851	0.964	0.00	From Justin to Kelly , a romance starring American Idol winner Kelly Clarkson and runnerup Justin Guarini , opened at No. 11 with $ 2.9-million.	mrpc:2
+runner - up	runnerup	2	2	0.851	0.931	0.00	""" From Justin to Kelly , "" a romance starring "" American Idol "" winner Kelly Clarkson and runner-up Justin Guarini , bombed with just $ 2.9 million , opening at No. 11 ."	mrpc:2
+movie of	movies in	2	2	0.678	0.983	0.00	What is the most overrated movie of 2016?	qqp:2
+movies in	movie of	2	2	0.678	0.981	0.00	Which are the most overrated movies in 2016?	qqp:2
+best - looking	most beautiful	2	2	0.581	0.980	0.00	Who is the best-looking woman from your country?	qqp:2
+most beautiful	best - looking	2	2	0.581	0.924	0.00	Who is the most beautiful woman of your country?	qqp:2
+to earn	of earning	2	2	0.741	0.987	0.00	What are the easy ways to earn money online?	qqp:2
+of earning	to earn	2	2	0.741	0.993	0.00	What are ways of earning money online?	qqp:2
+are good ways	is the best way	2	2	0.716	0.933	0.00	What are good ways to decrease your calorie intake?	qqp:2
+is the best way	are good ways	2	2	0.716	0.901	0.00	What is the best way to reduce your calorie intake?	qqp:2
+earn	make money	2	2	0.670	0.997	0.00	How can i earn through youtube?	qqp:2
+make money	earn	2	2	0.670	0.998	0.00	How do I make money through YouTube?	qqp:2
+the effect	impact	2	2	0.604	0.996	0.00	What would be the effect on India if Donald Trump really becomes the president of US?	qqp:2
+how could	Can	2	2	0.600	0.879	0.00	How could Donald Trump become a dictator?	qqp:2
+resolution for	resolutions in	2	2	0.909	0.988	0.00	What will be your new year resolution for 2017 and your plan of execution?	qqp:2
+to lose	of losing	2	2	0.730	0.995	0.00	What are the best ways to lose weight?	qqp:2
+of losing	to lose	2	2	0.730	0.994	0.00	What are the ways of losing weight?	qqp:2
+become an	be a	2	2	0.813	0.998	0.00	I want to become an entrepreneur.	qqp:2
+are	Is a	2	2	0.573	0.991	0.00	Are perpetual motion machines possible?	qqp:2
+hotels in	hotel at	2	2	0.878	0.989	0.00	Where can I find best hotels in Nainital?	qqp:2
+search for	find	2	2	0.629	0.998	0.00	Where can I search for best hotel at Nainital?	qqp:2
+hotel at	hotels in	2	2	0.878	0.986	0.00	Where can I search for best hotel at Nainital?	qqp:2
+find investors	get an investor	2	2	0.818	0.997	0.00	How do I find investors for my medical startup?	qqp:2
+get an investor	find investors	2	2	0.818	0.996	0.00	How can I get an investor for my startup?	qqp:2
+resolution for	resolutions ’	2	2	0.823	0.980	0.00	What is your New Year Resolution for 2017?	qqp:2
+best and quick	fastest	2	2	0.657	0.932	0.00	What is the best and quick way to lose weight?	qqp:2
+fastest	best and quick	2	2	0.657	0.932	0.00	What is the fastest way to lose weight?	qqp:2
+top medical universities	best university to study medicine	2	2	0.825	0.972	0.00	Can you suggest me the top medical universities in Ukraine, Europe?	qqp:2
+what actually is	What's	2	2	0.612	0.978	0.00	What actually is the purpose of life?	qqp:2
+what's	What actually is	2	2	0.612	0.978	0.00	What's the purpose of life?	qqp:2
+movies of all time	movie in history	2	2	0.643	0.981	0.00	What are some best movies of all time?	qqp:2
+movie in history	movies of all time	2	2	0.643	0.966	0.00	Which are best movie in history?	qqp:2
+what are the keys to becoming	How do I become	2	2	0.812	0.966	0.00	What are the keys to becoming a successful realtor?	qqp:2
+how do i become	What are the keys to becoming	2	2	0.812	0.966	0.00	How do I become a successful realtor?	qqp:2
+hillary clinton	Hilary	2	2	0.837	0.988	0.00	What does everyone think of last night’s New York debate between Donald Trump and Hillary Clinton?	qqp:2
+hilary	Hillary Clinton	2	2	0.837	0.993	0.00	What are your views about the debate between Trump and Hilary?	qqp:2
+video on	videos in	2	2	0.736	0.973	0.00	How do I post video on Quora?	qqp:2
+videos in	video on	2	2	0.736	0.969	0.00	Can I post videos in Quora?	qqp:2
+the us	American	2	2	0.553	0.990	0.00	What are the difference between the US and Chinese education system?	qqp:2
+american	the US	2	2	0.553	0.991	0.00	What is the differences between American and Chinese education?	qqp:2
+commit suicide	kill myself	2	2	0.702	0.962	0.00	What is the least painful and best way to commit suicide?	qqp:2
+kill myself	commit suicide	2	2	0.702	0.977	0.00	What is the best way for me to kill myself?	qqp:2
+healthy living	health	2	2	0.703	0.987	0.00	What is the best diet to follow for healthy living?	qqp:2
+afraid	so scared	2	2	0.640	0.972	0.00	Why are some people afraid of clowns?	qqp:2
+so scared	afraid	2	2	0.640	0.983	0.00	Why are people so scared of clowns?	qqp:2
+can we	Could	2	2	0.620	0.972	0.00	Can we time travel anyhow?	qqp:2
+could	Can we	2	2	0.620	0.965	0.00	Could time travel be possible?	qqp:2
+met	were to meet	2	2	0.722	0.992	0.00	What would happen if Sheldon Cooper met Donald Trump?	qqp:2
+were to meet	met	2	2	0.722	0.992	0.00	What would happen if Sheldon Cooper were to meet Donald Trump?	qqp:2
+become	turn into	2	2	0.677	0.997	0.00	When does Blind Love become obsession?	qqp:2
+over - rated	overrated	2	2	0.765	0.988	0.00	Who is the most over-rated Bollywood actor/actress?	qqp:2
+overrated	over - rated	2	2	0.765	0.990	0.00	Which are the most overrated Bollywood actors and actresses?	qqp:2
+year resolution	Year's resolutions	2	2	0.714	0.988	0.00	What is your New Year Resolution for 2017?	qqp:2
+to dance	dancing	2	2	0.801	0.988	0.00	Why do you love to dance?	qqp:2
+dancing	to dance	2	2	0.801	0.988	0.00	Why do you love dancing?	qqp:2
+jobs	a job	2	2	0.803	0.994	0.00	How do I get jobs at INTEL?	qqp:2
+a job	jobs	2	2	0.803	0.982	0.00	How can I get a job at intel?	qqp:2
+service provider	services	2	2	0.722	0.978	0.00	What is the best wireless internet service provider in India?	qqp:2
+points of	point in	2	2	0.639	0.969	0.00	What are the most important turning points of your life?	qqp:2
+point in	points of	2	2	0.639	0.945	0.00	What is the turning point in your life?	qqp:2
+modi's decision	Modi	2	2	0.749	0.990	0.00	What is your opinion on PM Narendra Modi's decision to ban INR 500 and INR 1000 notes?	qqp:2
+iron man	Ironman	2	2	0.932	0.972	0.00	Is it possible to make an Iron Man suit?	qqp:2
+ironman	Iron Man	2	2	0.932	0.972	0.00	Is it possible to make an Ironman suit?	qqp:2
+a savings	saving	2	2	0.709	0.991	0.00	What is the difference between a savings account and a current account?	qqp:2
+saving	a savings	2	2	0.709	0.979	0.00	What's difference between saving account and current account?	qqp:2
+presidency	presidential election	2	2	0.702	0.990	0.00	How did Donald Trump win the presidency?	qqp:2
+salt water	saltwater	2	2	0.891	0.983	0.00	Why is salt water taffy candy either imported or unknown outside the USA?	qqp:2
+come from	originate	2	2	0.632	0.997	0.00	Where did the question mark (?) come from?	qqp:2
+originate	come from	2	2	0.632	0.998	0.00	How did the question mark (?) originate?	qqp:2
+pic in	picture on	2	2	0.720	0.996	0.00	How do I upload profile pic in Quora?	qqp:2
+picture on	pic in	2	2	0.720	0.994	0.00	How can I upload profile picture on Quora?	qqp:2
+herbivores	herbivorous animals	2	2	0.917	0.991	0.00	What are some examples of herbivores?	qqp:2
+herbivorous animals	herbivores	2	2	0.917	0.991	0.00	What are some examples of herbivorous animals?	qqp:2
+to study	for studying	2	2	0.823	0.995	0.00	What is the best time to study?	qqp:2
+is	are your	2	2	0.620	0.960	0.00	What is best thug life moment you have experienced?	qqp:2
+become a	became	2	2	0.573	0.989	0.00	How do I become a cricketer?	qqp:2
+became	become a	2	2	0.573	0.982	0.00	How can I became cricketer?	qqp:2
+a virus	viruses	2	2	0.811	0.968	0.00	How can I remove a virus from my phone?	qqp:2
+viruses	a virus	2	2	0.811	0.968	0.00	How can I remove viruses from my phone?	qqp:2
+the urge to masturbate	masturbating	2	2	0.772	0.985	0.00	How can I stop the urge to masturbate?	qqp:2
+happiness	being happy	2	2	0.818	0.955	0.00	What is the difference between happiness and contentment?	qqp:2
+being happy	happiness	2	2	0.818	0.984	0.00	What's the difference between being happy and being content?	qqp:2
+causes	can cause	2	2	0.733	0.949	0.00	What causes bloody diarrhea in dogs and how is it treated?	qqp:2
+most probable cutoff	expected cut off	2	2	0.574	0.986	0.00	What is the most probable cutoff for KVPY SA 2016?	qqp:2
+expected cut off	most probable cutoff	2	2	0.574	0.893	0.00	What is the expected cut off for KVPY SA Aptitude Test 2016?	qqp:2
+asked in	to ask during	2	2	0.585	0.994	0.00	What were the best questions asked in an interview?	qqp:2
+to ask during	asked in	2	2	0.585	0.993	0.00	What are the best questions to ask during an interview?	qqp:2
+how do i	Is there a way to	2	2	0.649	0.991	0.00	How do I develop a photographic memory?	qqp:2
+great	some good	2	2	0.558	0.982	0.00	What are great start up ideas?	qqp:2
+some good	great	2	2	0.558	0.982	0.00	What are some good start up ideas?	qqp:2
+can easily	could simply	2	2	0.650	0.994	0.00	Why do people ask questions on Quora that can easily be answered by Google?	qqp:2
+could simply	can easily	2	2	0.650	0.994	0.00	Why do people ask questions on Quora that could simply be googled?	qqp:2
+a question	questions	2	2	0.635	0.896	0.00	Trying how to write a question on Quora?	qqp:2
+is it	Am I	2	2	0.560	0.992	0.00	Is it too late to go to medical school at 24?	qqp:2
+am i	Is it	2	2	0.560	0.990	0.00	Am I too old to get into medical school?	qqp:2
+i recover	you retrieve	2	2	0.646	0.993	0.00	How do I recover deleted direct messages from Instagram?	qqp:2
+you retrieve	I recover	2	2	0.646	0.992	0.00	How do you retrieve deleted direct messages on Instagram?	qqp:2
+are the applications	is application	2	2	0.791	0.969	0.00	What are the applications of computer networking?	qqp:2
+is application	are the applications	2	2	0.791	0.968	0.00	What is application of computer network?	qqp:2
+difference	What are the differences	2	2	0.695	0.971	0.00	Difference between electron affinity and electron gain enthalpy?	qqp:2
+what are the differences	Difference	2	2	0.695	0.970	0.00	What are the differences between Electron Affinity and Electron Gain Enthalpy?	qqp:2
+the best	your favorite	2	2	0.588	0.918	0.00	Who is the best singer/band in your country?	qqp:2
+your favorite	the best	2	2	0.588	0.938	0.00	Who is your favorite singer/band from your country?	qqp:2
+is there any way to	How do I	2	2	0.633	0.996	0.00	Is there any way to recover an e-mail in Gmail after it's deleted from the trash?	qqp:2
+how do i	Is there any way to	2	2	0.633	0.995	0.00	How do I recover deleted emails in my gmail account?	qqp:2
+increase	be increased	2	2	0.864	0.964	0.00	Does height increase after 21?	qqp:2
+places	place to visit	2	2	0.645	0.990	0.00	Which are the best places in Goa to visit alone?	qqp:2
+developers also	developer be	2	2	0.663	0.859	0.00	Are Web developers also considered software developers?	qqp:2
+be dead	die	2	2	0.680	0.989	0.00	How does it feel to be dead?	qqp:2
+die	be dead	2	2	0.680	0.988	0.00	What is it feel like to die?	qqp:2
+what the best way to	How can I	2	2	0.579	0.937	0.00	What the best way to improve English?	qqp:2
+how can i	What the best way to	2	2	0.579	0.962	0.00	How can I improve in English?	qqp:2
+are all	is	2	2	0.594	0.954	0.00	What are all the available in-app payment solutions for Android?	qqp:2
+moments in	moment of your	2	2	0.726	0.905	0.00	What are the most embarrassing moments in life?	qqp:2
+movies	movie you have	2	2	0.615	0.868	0.00	What are the worst movies ever made?	qqp:2
+movie you have	movies	2	2	0.615	0.971	0.00	What is the worst movie you have ever seen?	qqp:2
+to program	programming	2	2	0.773	0.989	0.00	What's the best way to learn to program in ruby?	qqp:2
+programming	to program	2	2	0.773	0.990	0.00	What's the best way to learn programming in Ruby?	qqp:2
+learn	learning about	2	2	0.705	0.990	0.00	What is the best way to start learn hacking?	qqp:2
+learning about	learn	2	2	0.705	0.982	0.00	Where do I start learning about hacking?	qqp:2
+get more	increase the	2	2	0.594	0.994	0.00	How do I get more traffic on my website?	qqp:2
+increase the	get more	2	2	0.594	0.994	0.00	How can I increase the traffic on my website?	qqp:2
+do i	will you	2	2	0.577	0.975	0.00	How do I know if I love a person?	qqp:2
+is an	are	2	2	0.572	0.991	0.00	How is an artificial island created?	qqp:2
+are	is an	2	2	0.572	0.989	0.00	How are artificial islands created?	qqp:2
+so addictive	addicting	2	2	0.809	0.981	0.00	What makes Quora so addictive?	qqp:2
+addicting	so addictive	2	2	0.809	0.981	0.00	Why is Quora addicting?	qqp:2
+is biggest difference	are the major differences	2	2	0.785	0.985	0.00	What is biggest difference between Chinese and Western cultures?	qqp:2
+are the major differences	is biggest difference	2	2	0.785	0.985	0.00	What are the major differences between Chinese and Western culture?	qqp:2
+are the	Is	2	2	0.605	0.995	0.00	Are the Illuminati real or just drama?	qqp:2
+become	be a	2	2	0.596	0.987	0.00	How hard is it to become Top Question Writer on Quora?	qqp:2
+have	’ ve	2	2	0.733	0.989	0.00	What is the best compliment that you have ever received?	qqp:2
+an effective	a good	2	2	0.554	0.994	0.00	"""Ignoring all the """"Tricky"""" stuff, was Richard Nixon an effective president?"""	qqp:2
+an argument	arguments	2	2	0.806	0.989	0.00	What is the best way to avoid an argument?	qqp:2
+arguments	an argument	2	2	0.806	0.989	0.00	How do you avoid arguments?	qqp:2
+whom should one	Can you suggest some best people to	2	2	0.585	0.973	0.00	Whom should one follow on Quora?	qqp:2
+can you suggest some best people to	Whom should one	2	2	0.585	0.973	0.00	Can you suggest some best people to follow on Quora?	qqp:2
+you would	you'd	2	2	0.714	0.995	0.00	If you were a president, what is the first thing you would do?	qqp:2
+was	would be	2	2	0.577	0.972	0.00	What was the greatest day in you life?	qqp:2
+would be	was	2	2	0.577	0.992	0.00	What would be the best day of your life?	qqp:2
+comic ever written / drawn	comics	2	2	0.660	0.992	0.00	What is the best comic ever written/drawn?	qqp:2
+alot	a lot	2	2	0.774	0.995	0.00	Does it really rain alot in Seattle?	qqp:2
+about india	of Indians	2	2	0.648	0.961	0.00	What do the Chinese people think about India?	qqp:2
+of indians	about India	2	2	0.648	0.974	0.00	What do Chinese people think of Indians?	qqp:2
+rupees note	rupee notes	2	2	0.931	0.989	0.00	What is the effect of demonetization of 500 and 1000 rupees note?	qqp:2
+rupee notes	rupees note	2	2	0.931	0.986	0.00	What is your opinion on the discontinuation of 500 and 1000 rupee notes?	qqp:2
+on internet	online	2	2	0.691	0.932	0.00	How can I earn money on internet?	qqp:2
+online	on internet	2	2	0.691	0.950	0.00	What are the easiest ways to earn money online?	qqp:2
+a picture	pictures	2	2	0.746	0.885	0.00	How do I add a picture to my question on Quora?	qqp:2
+pictures	a picture	2	2	0.746	0.906	0.00	How do I add pictures to my answers on Quora?	qqp:2
+the usa	America	2	2	0.757	0.978	0.00	Realistically speaking, what would happen to the USA if Donald Trump wins Presidency in the 2016 elections?	qqp:2
+america	the USA	2	2	0.757	0.992	0.00	What will happen to America if Donald Trump wins the election?	qqp:2
+dog food	for dogs	2	2	0.550	0.922	0.00	Does Purina make good dog food?	qqp:2
+pregnant	of pregnancy	2	2	0.757	0.988	0.00	How should you treat constipation at 5 weeks pregnant?	qqp:2
+of pregnancy	pregnant	2	2	0.757	0.988	0.00	How should you treat constipation at 5 weeks of pregnancy?	qqp:2
+do	don ’ t	2	2	0.593	0.836	0.00	Why do girls never fall for nice guys?	qqp:2
+don ’ t	do	2	2	0.593	0.983	0.00	Why don’t girls fall for the nice guy?	qqp:2
+for beginners	as a beginner	2	2	0.789	0.875	0.00	How do I learn share market for beginners?	qqp:2
+as a beginner	for beginners	2	2	0.789	0.870	0.00	How do I understand share market as a beginner?	qqp:2
+of your life	to live	2	2	0.563	0.997	0.00	What will you do during the last 24 hours of your life?	qqp:2
+relationship really	relationships	2	2	0.769	0.908	0.00	Does a long distance relationship really work?	qqp:2
+speak	talk like a native	2	2	0.580	0.985	0.00	How can I speak English well as native speakers ?	qqp:2
+virginity	being a virgin	2	2	0.795	0.983	0.00	Is virginity a social construct?	qqp:2
+being a virgin	virginity	2	2	0.795	0.983	0.00	Is being a virgin a social construct?	qqp:2
+how do i learn	What is the usual way to start learning	2	2	0.774	0.811	0.00	How do I learn machine learning?	qqp:2
+what is the usual way to start learning	How do I learn	2	2	0.774	0.904	0.00	What is the usual way to start learning Machine learning?	qqp:2
+how do certifications	Does certification	2	2	0.820	0.954	0.00	How do certifications help in career growth?	qqp:2
+does certification	How do certifications	2	2	0.820	0.951	0.00	Does certification help in career growth ?	qqp:2
+does a girl	do women	2	2	0.582	0.879	0.00	How does a girl feel losing her virginity to her lover?	qqp:2
+do women	does a girl	2	2	0.582	0.868	0.00	How do women feel after losing their virginity?	qqp:2
+pump	mean in case of pumps	2	2	0.551	0.950	0.00	What is positive displacement pump and non positive displacement pump?	qqp:2
+i tell	you know	2	2	0.560	0.988	0.00	How do I tell if someone is a psychopath?	qqp:2
+you know	I tell	2	2	0.560	0.988	0.00	How do you know if someone is a psychopath?	qqp:2
+how is buying	Why do people buy	2	2	0.648	0.954	0.00	How is buying land on the moon a good investment?	qqp:2
+things	one thing	2	2	0.630	0.917	0.00	Which are some of the things you would die for?	qqp:2
+one thing	things	2	2	0.630	0.967	0.00	What is the one thing you would die for?	qqp:2
+screenplays	a screenplay	2	2	0.882	0.962	0.00	How do you copyright screenplays?	qqp:2
+a screenplay	screenplays	2	2	0.882	0.951	0.00	How do I copyright a screenplay?	qqp:2
+to work	working	2	2	0.797	0.994	0.00	What is it like to work in a co-working space?	qqp:2
+how do i	Whats the best way to	2	2	0.559	0.978	0.00	How do I reduce my belly fat easily?	qqp:2
+whats the best way to	How do I	2	2	0.559	0.957	0.00	Whats the best way to reduce belly fat?	qqp:2
+disadvantages	bad benefits	2	2	0.642	0.969	0.00	What are the advantages and disadvantages of banning 500 and 1000 notes in India?	qqp:2
+doing any aerobic physical activity	exercise	2	2	0.687	0.970	0.00	How can I lose fat without doing any aerobic physical activity?	qqp:2
+exercise	doing any aerobic physical activity	2	2	0.687	0.982	0.00	How can I lose weight fast without exercise?	qqp:2
+what are some ways to	How can one	2	2	0.672	0.994	0.00	What are some ways to become an entrepreneur?	qqp:2
+how can one	What are some ways to	2	2	0.672	0.994	0.00	How can one become a successful entrepreneur?	qqp:2
+do you think	is your opinion	2	2	0.605	0.996	0.00	What do you think about India's surgical strikes on Pakistan?	qqp:2
+is your opinion	do you think	2	2	0.605	0.995	0.00	What is your opinion about surgical strike made by India?	qqp:2
+limited number of	few	2	2	0.680	0.988	0.00	Few-shot segmentation is a challenging task, as it requires the model to accurately segment novel images with only a limited number of labeled examples.	raid:2
+lewis's acceptance of the	Lewis is to be presented with an	2	2	0.775	0.989	0.00	Day-Lewis's acceptance of the award continues a long tradition of celebrated actors being honored at the festival, which has been a highlight of the film calendar for over seven decades.	raid:2
+the uk's biggest	Britain's big trade	2	2	0.615	0.868	0.00	"The proposal, which has been discussed by senior officials from some of the UK's biggest unions, would see the creation of a ""super union"" that would bring together millions of workers from a range of sectors and industries."	raid:2
+oven - safe	ovenproof	2	2	0.833	0.976	0.00	Heat the olive oil in an oven-safe skillet over medium heat.	raid:2
+is dissolved	dissolves	2	2	0.786	0.975	0.00	Heat over low heat, stirring occasionally until the sugar is dissolved. 3.	raid:2
+warm the	Heat	2	2	0.613	0.993	0.00	Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.	raid:2
+allow the cakes to	Let cake	2	2	0.702	0.996	0.00	Allow the cakes to cool in the pans for 5 minutes, then transfer them to a wire rack to cool completely. 8.	raid:2
+beat	continue beating	2	2	0.640	0.986	0.00	Add the softened butter to the eggs and beat until well combined. 5.	raid:2
+toothpick	tooth pick	2	2	0.800	0.980	0.00	Bake for 12-15 minutes, or until the doughnuts are risen and a toothpick inserted into the center comes out clean. 8.	raid:2
+flip the	Turn	2	2	0.611	0.996	0.00	Flip the figs and spoon more of the honey-butter mixture over	raid:2

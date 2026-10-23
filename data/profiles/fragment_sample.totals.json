@@ -1,0 +1,22 @@
+{
+  "blog": {
+    "sentences": 10935,
+    "heuristic_flagged": 2648
+  },
+  "essay": {
+    "sentences": 10013,
+    "heuristic_flagged": 1326
+  },
+  "forum": {
+    "sentences": 5683,
+    "heuristic_flagged": 696
+  },
+  "technical": {
+    "sentences": 14065,
+    "heuristic_flagged": 5245
+  },
+  "academic": {
+    "sentences": 2380,
+    "heuristic_flagged": 97
+  }
+}

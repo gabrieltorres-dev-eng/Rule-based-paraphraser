@@ -1,0 +1,15 @@
+.venv/
+.pytest_cache/
+__pycache__/
+build/
+logs/
+output_folder/
+in.txt
+out*.txt
+rep.json
+data/models/
+data/raw/
+data/pairs/
+data/nltk_data/
+data/corpus/
+data/.state/
