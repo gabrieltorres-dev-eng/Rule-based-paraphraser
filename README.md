@@ -250,4 +250,5 @@ Most valuable next steps
 1. More kinds of sentence-level rewrite (for example joining different-subject sentences with a human-bank connective such as while or whereas, or turning "It would also…" into a relative clause), because rewrites, not repeat passes, set the ceiling.
 2. Check why the Moby thesaurus produced so few roots and rebuild it.
 3. Re-run build_structure_profile.py as more human pairs are added, and raise the floor as the rewrites improve.
-4. Add a human-readable diff view of what changed, per sentence, from the transform log.
+4. Add a human-readable diff view of what changed, per sentence, from the transform log.#   R u l e - b a s e d - p a r a p h r a s e r  
+ 
