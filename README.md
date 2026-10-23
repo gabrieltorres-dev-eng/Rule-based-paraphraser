@@ -1,9 +1,6 @@
 # Rule-Based Humanizing Paraphraser
 
 A paraphraser that rewrites text **without any generative model writing the output**. It changes the sentence structure, paragraph order and word choice of an input, then keeps the candidate that is most structurally different from the original while still reading like human writing.
-
-> **GitHub description:** Rule-based paraphraser that rewrites text with human-sourced templates, dictionaries and corpora, never a generative model. Judges structure with tree-edit distance and burstiness.
-
 ---
 
 ## Contents
